@@ -1,0 +1,522 @@
+  "Anthropologist, মানববিদ (মানব সমাজ ও সংস্কৃতির অধ্যয়নকারী)",
+  "Archaeologist, প্রত্নতাত্ত্বিক (প্রাচীন বস্তু ও স্থাপত্যের অধ্যয়নকারী)",
+  "Biologist, জীববিজ্ঞানী (জীবিত জীব ও তাদের পরিবেশের অধ্যয়নকারী)",
+  "Cardiologist, হৃদরোগ বিশেষজ্ঞ (হৃদযন্ত্রের রোগের চিকিৎসক)",
+  "Chronologist, কালক্রমবিদ (ইতিহাসের সময়ক্রম অধ্যয়নকারী)",
+  "Dermatologist, ত্বক বিশেষজ্ঞ (ত্বক ও চর্মরোগের চিকিৎসক)",
+  "Ecologist, পরিবেশবিদ (পরিবেশ ও জীববৈচিত্র্যের অধ্যয়নকারী)",
+  "Epidemiologist, মহামারীবিদ (জনস্বাস্থ্য ও রোগের প্রকোপ অধ্যয়নকারী)",
+  "Geologist, ভূতত্ত্ববিদ (পৃথিবীর গঠন ও উপাদানের অধ্যয়নকারী)",
+  "Histologist, আণুবীক্ষণিক কৌশলবিদ (তন্তু ও কোষের গঠন অধ্যয়নকারী)",
+  "Linguist, ভাষাবিদ (ভাষার গঠন ও ব্যবহার অধ্যয়নকারী)",
+  "Mycologist, মাইকোলজিস্ট (ছত্রাকের অধ্যয়নকারী)",
+  "Neurologist, স্নায়ুবিজ্ঞানী (স্নায়ু সিস্টেমের রোগের চিকিৎসক)",
+  "Ophthalmologist, চক্ষুবিদ (চোখের রোগের চিকিৎসক)",
+  "Pathologist, রোগবিদ (রোগের কারণ ও প্রভাব অধ্যয়নকারী)",
+  "Pharmacologist, ঔষধবিদ (ঔষধের প্রভাব ও কার্যপদ্ধতি অধ্যয়নকারী)",
+  "Psychologist, মনোবিজ্ঞানী (মানসিক প্রক্রিয়া ও আচরণের অধ্যয়নকারী)",
+  "Radiologist, রেডিওলজিস্ট (চিত্রায়ন প্রযুক্তির মাধ্যমে রোগ নির্ণায়ক)",
+  "Sociologist, সমাজবিদ (মানব সমাজের কাঠামো ও গঠন অধ্যয়নকারী)",
+  "Theologist, ধর্মতত্ত্ববিদ (ধর্ম ও ঈশ্বরের অধ্যয়নকারী)",
+  "Apathologist, অন্ধ রোগবিদ (অসুস্থতার পরিচয় লাভ না করা রোগবিদ)",
+  "Bacteriologist, ব্যাকটেরিয়া বিশেষজ্ঞ (ব্যাকটেরিয়া অধ্যয়নকারী)",
+  "Climatologist, জলবায়ুবিদ (জলবায়ু ও আবহাওয়ার অধ্যয়নকারী)",
+  "Entomologist, পতঙ্গবিদ (পতঙ্গের অধ্যয়নকারী)",
+  "Fungalologist, ছত্রাকবিদ (ছত্রাকের অধ্যয়নকারী)",
+  "Geneticist, জিনগতিবিদ (জিন ও এর প্রভাব অধ্যয়নকারী)",
+  "Histopathologist, আণুবীক্ষণিক রোগবিদ (তন্তু ও কোষের রোগের অধ্যয়নকারী)",
+  "Hydrologist, জলবিদ (জলসম্পদ ও এর চলাচল অধ্যয়নকারী)",
+  "Infectious Disease Specialist, সংক্রামক রোগ বিশেষজ্ঞ (সংক্রামক রোগের অধ্যয়নকারী)",
+  "Laryngologist, গলার বিশেষজ্ঞ (গলার ও ল্যারিঙ্ক্সের রোগের চিকিৎসক)",
+  "Mammalogist, স্তন্যপায়ী প্রাণী বিশেষজ্ঞ (স্তন্যপায়ী প্রাণীর অধ্যয়নকারী)",
+  "Nephrologist, কিডনি বিশেষজ্ঞ (কিডনির রোগের চিকিৎসক)",
+  "Nematologist, কৃমির বিশেষজ্ঞ (কৃমির অধ্যয়নকারী)",
+  "Ornithologist, পাখি বিশেষজ্ঞ (পাখির অধ্যয়নকারী)",
+  "Paleontologist, প্রাগৈতিহাসিক জীববিদ (প্রাগৈতিহাসিক জীবাশ্ম অধ্যয়নকারী)",
+  "Parasitologist, পরজীবীবিদ (পরজীবী ও তাদের প্রভাব অধ্যয়নকারী)",
+  "Pediatric Oncologist, শিশু ক্যান্সার বিশেষজ্ঞ (শিশুদের ক্যান্সারের চিকিৎসক)",
+  "Phlebologist, শিরাবিদ (শিরার রোগের চিকিৎসক)",
+  "Radiobiologist, রেডিওবায়োলজিস্ট (রেডিয়েশন প্রভাব অধ্যয়নকারী)",
+  "Renalologist, কিডনি বিশেষজ্ঞ (কিডনির রোগের চিকিৎসক)",
+  "Selenologist, চাঁদের বিজ্ঞানী (চাঁদ ও এর বৈশিষ্ট্যের অধ্যয়নকারী)",
+  "Toxicologist, বিষবিজ্ঞানী (বিষের প্রভাব ও প্রতিকার অধ্যয়নকারী)",
+  "Virologist, ভাইরোলজিস্ট (ভাইরাসের অধ্যয়নকারী)",
+  "Zoologist, প্রাণীবিদ (প্রাণীজগতের অধ্যয়নকারী)",
+  "Criminologist, অপরাধবিদ (অপরাধ ও অপরাধীদের অধ্যয়নকারী)",
+  "Dendrologist, গাছবিদ (গাছের অধ্যয়নকারী)",
+  "Geriatrician, বার্ধক্য বিশেষজ্ঞ (বয়স্ক রোগীদের চিকিৎসক)",
+  "Hydrobiologist, জলজ জীববিদ (জলজ প্রাণীর অধ্যয়নকারী)",
+  "Icthyologist, মাছবিদ (মাছের অধ্যয়নকারী)",
+  "Kinesiologist, আন্দোলনবিদ (দেহের আন্দোলন ও কর্মক্ষমতার অধ্যয়নকারী)",
+  "Limbicologist, লিম্বিক বিজ্ঞানী (মস্তিষ্কের লিম্বিক সিস্টেম অধ্যয়নকারী)",
+  "Medical Oncologist, চিকিৎসা ক্যান্সার বিশেষজ্ঞ (ক্যান্সারের চিকিৎসায় বিশেষজ্ঞ)",
+  "Mycologist, মাইকোলজিস্ট (ছত্রাকের অধ্যয়নকারী)",
+  "Naturopathologist, প্রাকৃতিক চিকিৎসাবিদ (প্রাকৃতিক চিকিৎসার পদ্ধতির অধ্যয়নকারী)",
+  "Nutritional Biologist, পুষ্টিবিদ (পুষ্টির প্রভাব ও গুরুত্ব অধ্যয়নকারী)",
+  "Philosopher, দার্শনিক (জ্ঞান ও বোধের অধ্যয়নকারী)",
+  "Psychoanalyst, মনোবিশ্লেষক (মনের গভীর স্তরের বিশ্লেষণকারী)",
+  "Quantitative Biologist, পরিমাণগত জীববিজ্ঞানী (জীববিজ্ঞানের পরিমাণগত বিশ্লেষক)",
+  "Sexologist, লিঙ্গবিদ (লিঙ্গ ও যৌন আচরণের অধ্যয়নকারী)",
+  "Syntactician, বাক্যবিন্যাসবিদ (ভাষার বাক্যগঠন অধ্যয়নকারী)",
+  "Aerobiologist, বায়ুর জীববিজ্ঞানী (বায়ুতে জীবিত কণা অধ্যয়নকারী)",
+  "Astrobiologist, গ্রহজীববিজ্ঞানী (বহিরাকাশে জীবনের সম্ভাবনা অধ্যয়নকারী)",
+  "Bacteriologist, ব্যাকটেরিয়া বিশেষজ্ঞ (ব্যাকটেরিয়া অধ্যয়নকারী)",
+  "Biochemical Pharmacologist, জীবরসায়ন ঔষধবিদ (জীবরসায়ন ও ঔষধের সম্পর্ক অধ্যয়নকারী)",
+  "Bioinformatics Specialist, জীবতথ্যবিদ (জীববিজ্ঞানের তথ্য বিশ্লেষক)",
+  "Botanist, উদ্ভিদবিদ (উদ্ভিদের অধ্যয়নকারী)",
+  "Cancer Biologist, ক্যান্সার জীববিজ্ঞানী (ক্যান্সারের জীববিজ্ঞান অধ্যয়নকারী)",
+  "Cytogeneticist, সাইটোজেনেটিকিস্ট (কোষের জিনগত উপাদানের অধ্যয়নকারী)",
+  "Dermatopathologist, ত্বক রোগবিদ (ত্বকের রোগ ও তার পরিবর্তন অধ্যয়নকারী)",
+  "Environmental Biologist, পরিবেশ জীববিজ্ঞানী (পরিবেশের জীববিজ্ঞান অধ্যয়নকারী)",
+  "Etymologist, শব্দবিদ (শব্দের উৎপত্তি ও ইতিহাস অধ্যয়নকারী)",
+  "Genomics Specialist, জিনোমিক্স বিশেষজ্ঞ (জিনোমের সম্পূর্ণ অধ্যয়নকারী)",
+  "Helminthologist, কৃমির বিশেষজ্ঞ (কৃমি ও তাদের প্রভাব অধ্যয়নকারী)",
+  "Histopathologist, আণুবীক্ষণিক রোগবিদ (তন্তু ও কোষের রোগ অধ্যয়নকারী)",
+  "Human Geneticist, মানব জিনবিদ (মানব জিনের অধ্যয়নকারী)",
+  "Marine Biologist, সামুদ্রিক জীববিজ্ঞানী (সামুদ্রিক জীব ও তাদের পরিবেশ অধ্যয়নকারী)",
+  "Metrologist, পরিমাপবিদ (পরিমাপের বিজ্ঞান অধ্যয়নকারী)",
+  "Nutritional Scientist, পুষ্টিবিদ (পুষ্টির প্রভাব অধ্যয়নকারী)",
+  "Ortopedist, অর্থোপেডিস্ট (অস্থি ও পেশীর রোগের চিকিৎসক)",
+  "Palynologist, প্যলিনোলজিস্ট (মৌমাছির পরাগ দানা অধ্যয়নকারী)",
+  "Petrologist, পাথরবিদ (পাথরের গঠন ও বৈশিষ্ট্যের অধ্যয়নকারী)",
+  "Primatologist, প্রাইমেটোলজিস্ট (মাংসাশী প্রজাতির অধ্যয়নকারী)",
+  "Psychoeducator, মনোশিক্ষাবিদ (মনোবিদ্যার ভিত্তিতে শিক্ষা প্রদানকারী)",
+  "Reproductive Biologist, প্রজনন জীববিজ্ঞানী (প্রজননের প্রক্রিয়া অধ্যয়নকারী)",
+  "Sedimentologist, স্তরবিদ (মাটি ও স্তরের অধ্যয়নকারী)",
+  "Sleep Specialist, ঘুম বিশেষজ্ঞ (ঘুমের সমস্যা ও চিকিৎসার বিশেষজ্ঞ)",
+  "Spatial Biologist, স্থানিক জীববিজ্ঞানী (জীববিজ্ঞানের স্থানিক বিশ্লেষক)",
+  "Structural Biologist, গঠনিক জীববিজ্ঞানী (জীববিজ্ঞানের গঠন অধ্যয়নকারী)",
+  "Telecommunications Specialist, টেলিযোগাযোগ বিশেষজ্ঞ (টেলিযোগাযোগের প্রযুক্তি অধ্যয়নকারী)",
+  "Toxicology Specialist, বিষবিজ্ঞান বিশেষজ্ঞ (বিষের প্রভাব ও চিকিৎসা অধ্যয়নকারী)",
+  "Acarologist, তেলাপোকা বিশেষজ্ঞ (মাইট ও আকারের অধ্যয়নকারী)",
+  "Aerobiologist, বায়ুবিজ্ঞানী (বায়ুতে জীবিত কণা অধ্যয়নকারী)",
+  "Allergist, অ্যালার্জি বিশেষজ্ঞ (অ্যালার্জি ও তার চিকিৎসার বিশেষজ্ঞ)",
+  "Anatomist, শারীরবিদ (দেহের গঠন অধ্যয়নকারী)",
+  "Astrologer, জ্যোতিষী (আকাশীয় ঘটনার অধ্যয়নকারী, যদিও এটি বৈজ্ঞানিক নয়)",
+  "Behavioral Scientist, আচরণবিজ্ঞানী (মানব আচরণের অধ্যয়নকারী)",
+  "Cardiovascular Specialist, হৃদরোগ বিশেষজ্ঞ (হৃদযন্ত্র ও রক্তনালীর রোগের চিকিৎসক)",
+  "Cognitive Scientist, কগনিটিভ বিজ্ঞানী (মানসিক প্রক্রিয়া অধ্যয়নকারী)",
+  "Cosmologist, মহাবিশ্ববিদ (মহাবিশ্বের উৎপত্তি ও বিকাশ অধ্যয়নকারী)",
+  "Cryobiologist, ঠান্ডা জীববিজ্ঞানী (অত্যন্ত ঠান্ডায় জীবনের অধ্যয়নকারী)",
+  "Dendrochronologist - গাছের সময়ক্রমবিদ (গাছের সনাক্তকরণের জন্য সময়-পরিমাপ অধ্যয়নকারী)",
+  "Ecotoxicologist - পরিবেশ বিষবিজ্ঞানী (পরিবেশে বিষের প্রভাব অধ্যয়নকারী)",
+  "Electrophysiologist - বৈদ্যুতিক শরীরবিদ (দেহের বৈদ্যুতিক কার্যক্রম অধ্যয়নকারী)",
+  "Endocrinologist - হরমোন বিশেষজ্ঞ (হরমোন ও এন্ডোক্রাইন সিস্টেমের রোগের চিকিৎসক)",
+  "Ethologist - আচরণবিদ (প্রাণীদের আচরণ অধ্যয়নকারী)",
+  "Forensic Pathologist - ফরেনসিক রোগবিদ (অপরাধমূলক ঘটনার তদন্তে রোগের বিশেষজ্ঞ)",
+  "Genetic Counselor - জেনেটিক কাউন্সেলর (জেনেটিক রোগ ও তাদের প্রভাব সম্পর্কে পরামর্শদাতা)",
+  "Gerontologist - বার্ধক্য বিশেষজ্ঞ (বয়স্ক মানুষের স্বাস্থ্য ও বৃদ্ধির অধ্যয়নকারী)",
+  "Histopathologist - আণুবীক্ষণিক রোগবিদ (তন্তু ও কোষের রোগ অধ্যয়নকারী)",
+  "Hygienist - স্বাস্থ্যবিদ (স্বাস্থ্য ও স্যানিটেশনের বিশেষজ্ঞ)",
+  "Irrigation Specialist - সেচ বিশেষজ্ঞ (জমির সেচ ব্যবস্থার বিশেষজ্ঞ)",
+  "Kinesiologist - আন্দোলনবিদ (দেহের আন্দোলন ও কর্মক্ষমতার অধ্যয়নকারী)",
+  "Marine Ecologist - সামুদ্রিক পরিবেশবিদ (সামুদ্রিক পরিবেশ ও জীববৈচিত্র্য অধ্যয়নকারী)",
+  "Metrologist - পরিমাপবিদ (বৈজ্ঞানিক পরিমাপের অধ্যয়নকারী)",
+  "Morphologist - রূপবিদ (জীবনের রূপ ও গঠনের অধ্যয়নকারী)",
+  "Nephrologist - কিডনি বিশেষজ্ঞ (কিডনির রোগের চিকিৎসক)",
+  "Nutritional Epidemiologist - পুষ্টি মহামারীবিদ (পুষ্টির প্রভাব ও রোগের প্রকোপ অধ্যয়নকারী)",
+  "Paleoclimatologist - প্রাচীন জলবায়ুবিদ (প্রাচীন জলবায়ু অধ্যয়নকারী)",
+  "Phytopathologist - উদ্ভিদ রোগবিদ (উদ্ভিদের রোগ অধ্যয়নকারী)",
+  "Radiobiologist - রেডিওবায়োলজিস্ট (রেডিয়েশনের জীববিজ্ঞান অধ্যয়নকারী)",
+  "Sedimentologist - স্তরবিদ (মাটির স্তর ও অবকাঠামো অধ্যয়নকারী)",
+  "Space Biologist - মহাকাশ জীববিজ্ঞানী (মহাকাশের জীবনের অধ্যয়নকারী)",
+  "Structural Geologist - গঠন ভূতত্ত্ববিদ (পৃথিবীর গঠনের অধ্যয়নকারী)",
+  "Systematic Biologist - সিস্টেমেটিক জীববিজ্ঞানী (জীববৈচিত্র্যের শ্রেণীবিভাগ অধ্যয়নকারী)",
+  "Tropical Biologist - ট্রপিক্যাল জীববিজ্ঞানী (উষ্ণমণ্ডলের জীবনের অধ্যয়নকারী)",
+  "Urologist - ইউরোলজিস্ট (মূত্রতন্ত্রের রোগের চিকিৎসক)",
+  "Virologist - ভাইরোলজিস্ট (ভাইরাসের অধ্যয়নকারী)",
+  "Water Resources Specialist - জলসম্পদ বিশেষজ্ঞ (জলসম্পদের ব্যবস্থাপনা ও ব্যবহার অধ্যয়নকারী)",
+  "Wildlife Biologist - বন্যপ্রাণী জীববিজ্ঞানী (বন্যপ্রাণীর অধ্যয়নকারী)",
+  "Zoogeographer - প্রাণীজগতের ভূগোলবিদ (প্রাণীর ভৌগলিক বিস্তারের অধ্যয়নকারী)",
+  "Aerospace Biologist - বায়ুপ্রবাহ জীববিজ্ঞানী (বায়ুমণ্ডল ও মহাকাশে জীবনের অধ্যয়নকারী)",
+  "Agricultural Economist - কৃষি অর্থনীতিবিদ (কৃষি অর্থনীতি অধ্যয়নকারী)",
+  "Amoebologist - অ্যামিবা বিশেষজ্ঞ (অ্যামিবা ও তার প্রভাব অধ্যয়নকারী)",
+  "Antarctic Specialist - অ্যান্টার্কটিকা বিশেষজ্ঞ (অ্যান্টার্কটিকার পরিবেশ ও জীবনের অধ্যয়নকারী)",
+  "Apiculturist - মৌমাছি পালক (মৌমাছির পালন ও গবেষণাকারী)",
+  "Arthropodologist - আর্থ্রোপড বিশেষজ্ঞ (আরথ্রোপড, যেমন পতঙ্গ ও মাইটের অধ্যয়নকারী)",
+  "Biogeochemist - বায়োজিওকেমিস্ট (জীববিজ্ঞানের কেমিস্ট্রি অধ্যয়নকারী)",
+  "Biomathematician - জীবগণিতবিদ (জীববিজ্ঞান ও গণিতের সমন্বয় অধ্যয়নকারী)",
+  "Breeder - প্রজনক (জীববিজ্ঞানী যিনি বিশেষভাবে প্রজনন অধ্যয়ন করে)",
+  "Cardiovascular Surgeon - হৃদরোগ সার্জন (হৃদযন্ত্রের সার্জারি বিশেষজ্ঞ)",
+  "Catalyst Specialist - ক্যাটালিস্ট বিশেষজ্ঞ (রাসায়নিক প্রতিক্রিয়ার ক্যাটালিস্ট অধ্যয়নকারী)",
+  "Cognitive Neuroscientist - কগনিটিভ নিউরোসায়েন্টিস্ট (মস্তিষ্কের কার্যক্রমের মনোবিজ্ঞানের অধ্যয়নকারী)",
+  "Conservation Biologist - সংরক্ষণ জীববিজ্ঞানী (জীববৈচিত্র্য সংরক্ষণ অধ্যয়নকারী)",
+  "Cryogenics Specialist - ঠান্ডা প্রযুক্তি বিশেষজ্ঞ (অত্যন্ত ঠান্ডার প্রভাব অধ্যয়নকারী)",
+  "Economic Geologist - অর্থনৈতিক ভূতত্ত্ববিদ (ভূতত্ত্বের অর্থনৈতিক দিক অধ্যয়নকারী)",
+  "Environmental Toxicologist - পরিবেশ বিষবিজ্ঞানী (পরিবেশে বিষের প্রভাব অধ্যয়নকারী)",
+  "Epidemiological Statistician - মহামারী পরিসংখ্যানবিদ (মহামারীর পরিসংখ্যান বিশ্লেষক)",
+  "Ethnobotanist - নৃবিজ্ঞান উদ্ভিদবিদ (বিভিন্ন সংস্কৃতির উদ্ভিদ ব্যবহারের অধ্যয়নকারী)",
+  "Fermentation Scientist - প্রজন্ম বিজ্ঞানী (প্রজন্ম ও তার প্রক্রিয়ার অধ্যয়নকারী)",
+  "Forensic Entomologist - ফরেনসিক পতঙ্গবিদ (অপরাধ তদন্তে পতঙ্গের ব্যবহার অধ্যয়নকারী)",
+  "Fungal Biotechnologist - ছত্রাক প্রযুক্তিবিদ (ছত্রাকের প্রযুক্তি ও গবেষণা বিশেষজ্ঞ)",
+  "Genetic Epidemiologist - জেনেটিক মহামারীবিদ (জেনেটিক তথ্যের ভিত্তিতে রোগের অধ্যয়নকারী)",
+  "Geophysical Researcher - ভূ-প্রাকৃতিক গবেষক (পৃথিবীর ভৌত বৈশিষ্ট্যের গবেষক)",
+  "Health Services Researcher - স্বাস্থ্যসেবা গবেষক (স্বাস্থ্যসেবা কার্যক্রমের গবেষণা বিশেষজ্ঞ)",
+  "Hydrogeologist - জল ভূতত্ত্ববিদ (পৃথিবীর জলসম্পদ ও তার বৈশিষ্ট্য অধ্যয়নকারী)",
+  "Immunogeneticist - ইমিউনোজেনেটিকিস্ট (ইমিউন সিস্টেমের জেনেটিক প্রভাব অধ্যয়নকারী)",
+  "Industrial Biologist - শিল্প জীববিজ্ঞানী (শিল্পের জন্য জীববিজ্ঞানী)",
+  "Invertebrate Biologist - অমেরুদণ্ডী জীববিজ্ঞানী (অমেরুদণ্ডী প্রাণীর অধ্যয়নকারী)",
+  "Marine Mammalogist - সামুদ্রিক স্তন্যপায়ী বিশেষজ্ঞ (সামুদ্রিক স্তন্যপায়ী প্রাণীর অধ্যয়নকারী)",
+  "Medical Geneticist - চিকিৎসা জিনবিদ (জেনেটিক রোগের চিকিৎসার বিশেষজ্ঞ)",
+  "Metabolic Specialist - মেটাবলিক বিশেষজ্ঞ (দেহের বিপাকীয় প্রক্রিয়ার অধ্যয়নকারী)",
+  "Molecular Pharmacologist - অণু ঔষধবিদ (অণু পর্যায়ে ঔষধের প্রভাব অধ্যয়নকারী)",
+  "Molecular Pathologist - অণু রোগবিদ (অণু পর্যায়ে রোগের অধ্যয়নকারী)",
+  "Neuroimmunologist - স্নায়ু-ইমিউনোলজিস্ট (স্নায়ু ও ইমিউন সিস্টেমের সম্পর্ক অধ্যয়নকারী)",
+  "Neurophysiologist - স্নায়ুবিজ্ঞানের বিশেষজ্ঞ (স্নায়ুতন্ত্রের কার্যক্রম অধ্যয়নকারী)",
+  "Pharmacogeneticist - ঔষধ জেনেটিকিস্ট (ঔষধের প্রতি জেনেটিক প্রতিক্রিয়া অধ্যয়নকারী)",
+  "Plant Physiologist - উদ্ভিদ শারীরবিদ (উদ্ভিদের শারীরবৃত্তীয় কার্যক্রম অধ্যয়নকারী)",
+  "Population Biologist - জনসংখ্যা জীববিজ্ঞানী (জীবের জনসংখ্যার অধ্যয়নকারী)",
+  "Psychoeducational Specialist - মনোবৈজ্ঞানিক শিক্ষা বিশেষজ্ঞ (মনোবিজ্ঞান ও শিক্ষা সংক্রান্ত বিশেষজ্ঞ)",
+  "Public Health Scientist - জনস্বাস্থ্য বিজ্ঞানী (জনস্বাস্থ্য ও এর উন্নয়নের গবেষক)",
+  "Abnormal Psychologist - অস্বাভাবিক মনোবিজ্ঞানী (মনস্তাত্ত্বিক অস্বাভাবিকতা অধ্যয়নকারী)",
+  "Agrologist - কৃষিবিদ (কৃষি ও মাটি সম্পর্কিত বিশেষজ্ঞ)",
+  "Biochemical Pharmacologist - জীবরসায়ন ঔষধবিদ (জীবরসায়নের প্রেক্ষিতে ঔষধের প্রভাব অধ্যয়নকারী)",
+  "Biomaterial Scientist - জীবসামগ্রী বিজ্ঞানী (জীবসামগ্রী ও এর ব্যবহার অধ্যয়নকারী)",
+  "Biostatistician - জীব-পরিসংখ্যানবিদ (জীববিজ্ঞানগত তথ্যের পরিসংখ্যান বিশ্লেষক)",
+  "Cardiac Electrophysiologist - হৃদযন্ত্র বৈদ্যুতিক বিশেষজ্ঞ (হৃদযন্ত্রের বৈদ্যুতিক কার্যক্রম অধ্যয়নকারী)",
+  "Chemical Biologist - রাসায়নিক জীববিজ্ঞানী (রাসায়ন ও জীববিজ্ঞানের সংযোগ অধ্যয়নকারী)",
+  "Cytopathologist - সাইটোপ্যাথোলজিস্ট (কোষের রোগ অধ্যয়নকারী)",
+  "Dendrochronologist - গাছের সময়ক্রমবিদ (গাছের বৃত্ত এবং সময়ের অধ্যয়নকারী)",
+  "Developmental Biologist - উন্নয়নশীল জীববিজ্ঞানী (জীববিকাশের অধ্যয়নকারী)",
+  "Entomopathologist - পতঙ্গ রোগবিদ (পতঙ্গ ও তাদের রোগের অধ্যয়নকারী)",
+  "Environmental Chemist - পরিবেশ রসায়নবিদ (পরিবেশে রসায়নিক প্রক্রিয়া অধ্যয়নকারী)",
+  "Ethnomusicologist - নৃসঙ্গবিদ (বিভিন্ন সংস্কৃতির সঙ্গীত অধ্যয়নকারী)",
+  "Evo-Devo Biologist - বিবর্তন উন্নয়ন জীববিজ্ঞানী (বিবর্তন ও উন্নয়নের সমন্বয় অধ্যয়নকারী)",
+  "Geochronologist - ভূতরক্ষণবিদ (পৃথিবীর ভূতাত্ত্বিক সময়ের অধ্যয়নকারী)",
+  "Geothermal Specialist - ভূতাপীয় বিশেষজ্ঞ (ভূতাপীয় শক্তি ও তার ব্যবহার অধ্যয়নকারী)",
+  "Hydrobiochemist - জলজ জীবরসায়নবিদ (জলে জীবরসায়ন অধ্যয়নকারী)",
+  "Hydroponic Specialist - জলজ চাষ বিশেষজ্ঞ (জলজ চাষের প্রযুক্তি অধ্যয়নকারী)",
+  "Immunopathologist - ইমিউন রোগবিদ (ইমিউন সিস্টেমের রোগ অধ্যয়নকারী)",
+  "Infectious Disease Specialist - সংক্রামক রোগ বিশেষজ্ঞ (সংক্রামক রোগের চিকিৎসক)",
+  "Internal Medicine Specialist - অভ্যন্তরীণ চিকিৎসা বিশেষজ্ঞ (অভ্যন্তরীণ রোগের চিকিৎসক)",
+  "Irrigation Hydrologist - সেচ জলবিজ্ঞানী (সেচের জন্য জলবিজ্ঞান অধ্যয়নকারী)",
+  "Marine Biotechnologist - সামুদ্রিক প্রযুক্তিবিদ (সামুদ্রিক জীববিজ্ঞান ও প্রযুক্তির বিশেষজ্ঞ)",
+  "Medical Epidemiologist - চিকিৎসা মহামারীবিদ (চিকিৎসার জন্য মহামারীর অধ্যয়নকারী)",
+  "Molecular Geneticist - অণু জেনেটিকিস্ট (জেনেটিক তথ্যের অণু পর্যায়ে অধ্যয়নকারী)",
+  "Neuropsychologist - স্নায়ুবৈজ্ঞানিক মনোবিজ্ঞানী (স্নায়ুবিক প্রক্রিয়া ও আচরণের অধ্যয়নকারী)",
+  "Nutritional Epidemiologist - পুষ্টি মহামারীবিদ (পুষ্টির প্রভাব ও রোগের সম্পর্ক অধ্যয়নকারী)",
+  "Paleobiologist - প্রাচীন জীববিজ্ঞানী (প্রাচীন জীবনের অধ্যয়নকারী)",
+  "Pharmacogenomics Specialist - ঔষধ জেনোমিক্স বিশেষজ্ঞ (ঔষধের জেনোমিক্স অধ্যয়নকারী)",
+  "Plant Geneticist - উদ্ভিদ জেনেটিকিস্ট (উদ্ভিদের জেনেটিক গঠন অধ্যয়নকারী)",
+  "Acousticologist - শব্দবিজ্ঞানী (শব্দ ও তার বৈশিষ্ট্য অধ্যয়নকারী)",
+  "Aesthetician - সৌন্দর্যবিদ (সৌন্দর্য ও তার সংরক্ষণ সম্পর্কে বিশেষজ্ঞ)",
+  "Agricultural Technologist - কৃষি প্রযুক্তিবিদ (কৃষি প্রযুক্তি ও উন্নয়ন অধ্যয়নকারী)",
+  "Aldose Reductase Specialist - অ্যালডোজ রিডাক্টেজ বিশেষজ্ঞ (এনজাইম সম্পর্কিত বিশেষজ্ঞ)",
+  "Animal Behaviorist - প্রাণী আচরণবিদ (প্রাণীর আচরণ অধ্যয়নকারী)",
+  "Aromatherapist - সুগন্ধি চিকিৎসক (সুগন্ধির ব্যবহার ও প্রভাব অধ্যয়নকারী)",
+  "Astrophysicist - মহাকাশ পদার্থবিদ (মহাকাশের পদার্থবিদ্যার অধ্যয়নকারী)",
+  "Biodiversity Specialist - জীববৈচিত্র্য বিশেষজ্ঞ (জীববৈচিত্র্য সংরক্ষণ ও অধ্যয়নকারী)",
+  "Biological Anthropologist - জীববৈজ্ঞানিক নৃবিজ্ঞানী (মানব জীববিদ্যার বিশেষজ্ঞ)",
+  "Cardiac Surgeon - হৃদযন্ত্র সার্জন (হৃদযন্ত্রের সার্জারি বিশেষজ্ঞ)",
+  "Chemical Engineer - রাসায়নিক প্রকৌশলী (রাসায়নিক প্রক্রিয়ার প্রকৌশল বিশেষজ্ঞ)",
+  "Clinical Psychologist - ক্লিনিক্যাল মনোবিজ্ঞানী (মানসিক স্বাস্থ্য সমস্যার চিকিৎসক)",
+  "Comparative Psychologist - তুলনামূলক মনোবিজ্ঞানী (বিভিন্ন প্রাণীর মনোবিজ্ঞান অধ্যয়নকারী)",
+  "Corrosion Specialist - ক্ষয় বিশেষজ্ঞ (ধাতু বা অন্যান্য পদার্থের ক্ষয় অধ্যয়নকারী)",
+  "Cytogeneticist - সাইটোজেনেটিকিস্ট (কোষের জিনগত উপাদান অধ্যয়নকারী)",
+  "Developmental Neurobiologist - উন্নয়নমূলক স্নায়ুবিজ্ঞানী (স্নায়ু সিস্টেমের বিকাশ অধ্যয়নকারী)",
+  "Ecological Economist - পরিবেশগত অর্থনীতিবিদ (পরিবেশের সাথে অর্থনীতির সম্পর্ক অধ্যয়নকারী)",
+  "Ecosystem Scientist - পরিবেশ ব্যবস্থা বিজ্ঞানী (পরিবেশ ব্যবস্থার কাজ ও সম্পর্ক অধ্যয়নকারী)",
+  "Electrochemist - বৈদ্যুতিন রসায়নবিদ (বৈদ্যুতিক ও রাসায়নিক প্রক্রিয়া অধ্যয়নকারী)",
+  "Epigeneticist - ইপিজেনেটিকিস্ট (জিনের বাইরের প্রভাব অধ্যয়নকারী)",
+  "Epidemiological Geneticist - মহামারী জেনেটিকিস্ট (মহামারী ও জেনেটিক্সের সম্পর্ক অধ্যয়নকারী)",
+  "Ethnobotanist - নৃবিজ্ঞান উদ্ভিদবিদ (বিভিন্ন সংস্কৃতির উদ্ভিদ ব্যবহারের অধ্যয়নকারী)",
+  "Exoplanetary Scientist - এক্সোপ্ল্যানেটারি বিজ্ঞানী (বহিরাগ্রহ অধ্যয়নকারী)",
+  "Food Scientist - খাদ্য বিজ্ঞানী (খাদ্য ও এর বৈশিষ্ট্য অধ্যয়নকারী)",
+  "Genomicist - জেনোমিকিস্ট (জিনোমের গবেষক)",
+  "Health Physicist - স্বাস্থ্য পদার্থবিদ (স্বাস্থ্য সংক্রান্ত পদার্থবিদ্যার বিশেষজ্ঞ)",
+  "Hematologist - রক্তবিদ (রক্তের রোগ ও এর চিকিৎসার বিশেষজ্ঞ)",
+  "Immunotoxicologist - ইমিউনোটক্সিকোলজিস্ট (ইমিউন সিস্টেমের বিষক্রিয়া অধ্যয়নকারী)",
+  "Marine Geologist - সামুদ্রিক ভূতত্ত্ববিদ (সামুদ্রিক ভূতত্ত্ব অধ্যয়নকারী)",
+  "Molecular Pathologist - অণু রোগবিদ (অণু পর্যায়ে রোগের অধ্যয়নকারী)",
+  "Aeronautical Engineer - বিমান প্রকৌশলী (বিমান ও মহাকাশ যান সম্পর্কিত প্রকৌশলী)",
+  "Agricultural Hydrologist - কৃষি জলবিজ্ঞানী (কৃষির জন্য জলবিজ্ঞান অধ্যয়নকারী)",
+  "Anthropometrician - মানব পরিমাপক (মানব দেহের পরিমাপ ও বিশ্লেষণকারী)",
+  "Archaeobiologist - প্রাচীন জীববিজ্ঞানী (প্রাচীন জীবনের অধ্যয়নকারী)",
+  "Biochemical Geneticist - জীবরসায়ন জেনেটিকিস্ট (জীবরসায়ন ও জেনেটিক্সের সংযোগ অধ্যয়নকারী)",
+  "Bioclimatologist - জীববায়ুবিদ (জীবনের জলবায়ু সংক্রান্ত অধ্যয়নকারী)",
+  "Biosystematist - জীববৈষয়িক শ্রেণীবিভাগবিদ (জীববৈষয়িক শ্রেণীবিভাগের বিশেষজ্ঞ)",
+  "Cardiothoracic Surgeon - হৃদযন্ত্র-স্তনবিদ (হৃদযন্ত্র ও স্তনবাহী পথের সার্জন)",
+  "Chemical Pharmacologist - রাসায়নিক ঔষধবিদ (রাসায়নিক প্রক্রিয়ার ঔষধ গবেষক)",
+  "Climatologist - জলবায়ুবিদ (জলবায়ুর বৈশিষ্ট্য ও পরিবর্তনের অধ্যয়নকারী)",
+  "Comparative Biologist - তুলনামূলক জীববিজ্ঞানী (বিভিন্ন জীবের তুলনামূলক অধ্যয়নকারী)",
+  "Conservation Geneticist - সংরক্ষণ জেনেটিকিস্ট (জেনেটিক দিক থেকে সংরক্ষণ অধ্যয়নকারী)",
+  "Dermatologic Surgeon - ত্বক সার্জন (ত্বক সম্পর্কিত সার্জন)",
+  "Ecotoxicologist - পরিবেশ বিষবিজ্ঞানী (পরিবেশে বিষের প্রভাব অধ্যয়নকারী)",
+  "Embryologist - ভ্রূণবিদ (ভ্রূণবিকাশের অধ্যয়নকারী)",
+  "Endocrinologist - এন্ডোক্রাইন বিশেষজ্ঞ (হরমোন সিস্টেমের রোগ বিশেষজ্ঞ)",
+  "Entomologist - পতঙ্গবিদ (পতঙ্গের অধ্যয়নকারী)",
+  "Environmental Epidemiologist - পরিবেশগত মহামারীবিদ (পরিবেশ ও মহামারীর সম্পর্ক অধ্যয়নকারী)",
+  "Ethnobotanist - নৃবিজ্ঞান উদ্ভিদবিদ (বিভিন্ন সংস্কৃতির উদ্ভিদ ব্যবহারের অধ্যয়নকারী)",
+  "Food Microbiologist - খাদ্য মাইক্রোবায়োলজিস্ট (খাদ্যবস্তুতে মাইক্রোবায়োলজি অধ্যয়নকারী)",
+  "Genetic Counselor - জেনেটিক কাউন্সেলর (জেনেটিক রোগ ও তাদের প্রতিকার সম্পর্কে পরামর্শদাতা)",
+  "Genetic Toxicologist - জেনেটিক বিষবিজ্ঞানী (জেনেটিক বিষের প্রভাব অধ্যয়নকারী)",
+  "Glaciologist - বরফ বিজ্ঞানী (বরফ ও তুষারের অধ্যয়নকারী)",
+  "Hematopathologist - রক্তপ্যাথোলজিস্ট (রক্তের রোগ অধ্যয়নকারী)",
+  "Hydrogeochemist - জলজ রসায়নবিদ (জলের রসায়ন অধ্যয়নকারী)",
+  "Infectious Disease Epidemiologist - সংক্রামক রোগ মহামারীবিদ (সংক্রামক রোগের মহামারী বিশ্লেষক)",
+  "Marine Ecologist - সামুদ্রিক পরিবেশবিদ (সামুদ্রিক পরিবেশের অধ্যয়নকারী)",
+  "Molecular Immunologist - অণু ইমিউনোলজিস্ট (অণু পর্যায়ে ইমিউন সিস্টেমের অধ্যয়নকারী)",
+  "Molecular Virologist - অণু ভাইরোলজিস্ট (ভাইরাসের অণু পর্যায়ে অধ্যয়নকারী)",
+  "Plant Pathologist - উদ্ভিদ রোগবিদ (উদ্ভিদের রোগ অধ্যয়নকারী)",
+
+
+Acarologist – উষ্ণলোমবিশেষজ্ঞ (Ushnalombisheshaggro)
+Studies mites and ticks.
+
+Aerobiologist – বায়ুবিজ্ঞানী (Bayubiggani)
+Studies airborne organic particles.
+
+Algologist – শৈবালবিদ (Shaibalbid)
+Studies algae.
+
+Anesthesiologist – অ্যানেস্থেসিওলজিস্ট (Anesthesiologist)
+Administers anesthesia to patients.
+
+Angiologist – রক্তনালীবিশেষজ্ঞ (Roktonalibisheshaggro)
+Studies diseases of blood vessels.
+
+Anthologist – সঙ্কলনবিদ (Shongkolonbid)
+Compiles anthologies, especially of literary works.
+
+Anthropologist – নৃবিজ্ঞানী (Nribiggani)
+Studies human societies and cultures.
+
+Archaeologist – প্রত্নতত্ত্ববিদ (Prottotottobid)
+Studies ancient civilizations through artifacts.
+
+Astrobiologist – জ্যোতির্বিজ্ঞানী (Jyotirbiggani)
+Studies the possibility of life beyond Earth.
+
+Astrologist – জ্যোতিষী (Jyotishi)
+Interprets the influence of stars and planets on human affairs.
+
+Audiologist – শ্রবণবিজ্ঞানী (Srobonbiggani)
+Studies hearing disorders.
+
+Bacteriologist – ব্যাকটেরিয়া বিজ্ঞানী (Bacteria Biggani)
+Studies bacteria.
+
+Biologist – জীববিজ্ঞানী (Jibobiggani)
+Studies living organisms.
+
+Botanologist – উদ্ভিদবিজ্ঞানী (Udbidbiggani)
+Studies plants.
+
+Cardiologist – হৃদরোগ বিশেষজ্ঞ (Hridorog Bisheshaggro)
+Specializes in heart diseases.
+
+Cetologist – তিমিবিশেষজ্ঞ (Timibisheshaggro)
+Studies whales.
+
+Chirologist – হস্তচিহ্নবিদ (Hastochihnobid)
+Studies hands and palmistry.
+
+Climatologist – জলবায়ুবিদ (Jalabayubid)
+Studies climate and weather patterns.
+
+Coleopterologist – গুবরেপোকার বিজ্ঞানী (Gubrepokar Biggani)
+Studies beetles.
+
+Cosmologist – মহাজাগতিক বিজ্ঞানী (Mohajagotik Biggani)
+Studies the universe’s origin and structure.
+
+Criminologist – অপরাধবিদ (Oporadhbid)
+Studies criminal behavior and crime prevention.
+
+Cytologist – কোষবিদ (Koshbid)
+Studies cells.
+
+Dermatologist – চর্মরোগ বিশেষজ্ঞ (Chormorog Bisheshaggro)
+Treats skin disorders.
+
+Ecologist – পরিবেশবিজ্ঞানী (Poribeshbiggani)
+Studies ecosystems.
+
+Embryologist – ভ্রূণবিদ (Vhrunobid)
+Studies the development of embryos.
+
+Endocrinologist – অন্তঃস্রাব বিশেষজ্ঞ (Ontosrab Bisheshaggro)
+Studies hormones and glands.
+
+Entomologist – কীটতত্ত্ববিদ (Keettotottobid)
+Studies insects.
+
+Epidemiologist – মহামারি বিজ্ঞানী (Mohamari Biggani)
+Studies the spread of diseases.
+
+Ethnologist – নৃ-তাত্ত্বিক (Nribiggani)
+Studies the characteristics of different cultures.
+
+Exobiologist – বহির্জীব বিজ্ঞানী (Bohirjib Biggani)
+Studies extraterrestrial life.
+
+Futurologist – ভবিষ্যদ্বক্তা (Bhobishyodbokta)
+Studies predictions about the future.
+
+Gastrologist – পাকস্থলী বিশেষজ্ঞ (Pakstholi Bisheshaggro)
+Studies the stomach and digestive system.
+
+Gemologist – রত্নবিশেষজ্ঞ (Ratnobisheshaggro)
+Studies gems and precious stones.
+
+Geologist – ভূতত্ত্ববিদ (Bhutottobid)
+Studies the Earth’s physical structure.
+
+Gerontologist – বার্ধক্যবিজ্ঞানী (Bardhokko Biggani)
+Studies aging and its effects.
+
+Gynecologist – স্ত্রীরোগ বিশেষজ্ঞ (Strirog Bisheshaggro)
+Specializes in female reproductive health.
+
+Hematologist – রক্তরোগ বিশেষজ্ঞ (Roktorog Bisheshaggro)
+Studies blood-related diseases.
+
+Herpetologist – সরীসৃপবিদ (Sorisripbid)
+Studies reptiles and amphibians.
+
+Histologist – কলাবিজ্ঞানী (Kolabiggani)
+Studies tissues at the microscopic level.
+
+Horologist – ঘড়িবিজ্ঞানী (Ghoribiggani)
+Studies clocks and timekeeping.
+
+Hydrologist – জলবিজ্ঞানী (Jalobiggani)
+Studies the distribution and movement of water.
+
+Ichthyologist – মৎস্যবিদ (Motshyobid)
+Studies fish.
+
+Immunologist – রোগ প্রতিরোধ বিশেষজ্ঞ (Rog Protirodh Bisheshaggro)
+Studies the immune system.
+
+Kinesiologist – গতিবিজ্ঞানী (Gotibiggani)
+Studies body movement.
+
+Lepidopterologist – প্রজাপতি বিশেষজ্ঞ (Projapoti Bisheshaggro)
+Studies butterflies and moths.
+
+Limnologist – হ্রদবিদ (Hrodobid)
+Studies freshwater bodies like lakes and rivers.
+
+Linguist – ভাষাবিদ (Bhashabid)
+Studies languages and their structures.
+
+Marine Biologist – সামুদ্রিক জীববিজ্ঞানী (Samudrik Jibobiggani)
+Studies ocean ecosystems and marine life.
+
+Meteorologist – আবহাওয়াবিদ (Abahawabid)
+Studies atmospheric phenomena.
+
+Microbiologist – জীবাণুবিজ্ঞানী (Jibanu Biggani)
+Studies microorganisms.
+
+Musicologist – সঙ্গীততত্ত্ববিদ (Shongitotottobid)
+Studies music and its forms.
+
+Mycologist – ছত্রাকবিদ (Chhatrakbid)
+Studies fungi.
+
+Neonatologist – নবজাতক বিশেষজ্ঞ (Nobojatok Bisheshaggro)
+Studies the medical care of newborns.
+
+Nephrologist – কিডনি বিশেষজ্ঞ (Kidney Bisheshaggro)
+Specializes in kidney health.
+
+Neurologist – স্নায়ুবিদ (Snayubid)
+Studies the nervous system.
+
+Oceanologist – মহাসাগরবিদ (Mohasagorbid)
+Studies ocean ecosystems.
+
+Oncologist – ক্যান্সার বিশেষজ্ঞ (Cancer Bisheshaggro)
+Treats cancer.
+
+Ophthalmologist – চক্ষুবিশেষজ্ঞ (Chokkhubisheshaggro)
+Specializes in eye care.
+
+Ornithologist – পক্ষীবিজ্ঞানী (Pokkhibiggani)
+Studies birds.
+
+Osteologist – অস্থিবিজ্ঞানী (Osthobiggani)
+Studies bones.
+
+Paleobiologist – প্রাগৈতিহাসিক জীববিজ্ঞানী (Pragoitihasik Jibobiggani)
+Studies prehistoric life forms.
+
+Paleontologist – জীবাশ্মবিজ্ঞানী (Jibashmobiggani)
+Studies fossils.
+
+Parasitologist – পরজীবী বিজ্ঞানী (Porojibi Biggani)
+Studies parasites.
+
+Pathologist – রোগতত্ত্ববিদ (Rogtottobid)
+Studies diseases and their causes.
+
+Petrologist – শিলাবিজ্ঞানী (Shilobiggani)
+Studies rocks.
+
+Pharmacologist – ঔষধবিজ্ঞানী (Oushodbiggani)
+Studies the effects of drugs.
+
+Philologist – ভাষাতত্ত্ববিদ (Bhashatottobid)
+Studies language and literature.
+
+Physiologist – শারীরতত্ত্ববিদ (Shariratottobid)
+Studies the functions of living organisms.
+
+Phytologist – উদ্ভিদবিজ্ঞানী (Udbidbiggani)
+Studies plants.
+
+Primatologist – প্রাইমেট বিশেষজ্ঞ (Primet Bisheshaggro)
+Studies primates like monkeys and apes.
+
+Psychologist – মনোবিজ্ঞানী (Monobiggani)
+Studies mental functions and behavior.
+
+Radiologist – রেডিওলজিস্ট (Radiologist)
+Uses imaging techniques for diagnosis.
+
+Sarcologist – মাংসবিশেষজ্ঞ (Mangsobisheshaggro)
+Studies flesh or soft tissues.
+
+Seismologist – ভূকম্পবিদ (Bhukompobid)
+Studies earthquakes.
+
+Selenologist – চন্দ্রবিদ (Chondrobid)
+Studies the moon.
+
+Sociologist – সমাজবিজ্ঞানী (Samajbiggani)
+Studies social behavior and society.
+
+Speleologist – গুহাবিদ (Guhabid)
+Studies caves.
+
+Theologist – ধর্মতত্ত্ববিদ (Dhormotottobid)
+Studies religion and divine beliefs.
+
+Toxicologist – বিষবিজ্ঞানী (Bishbiggani)
+Studies the effects of poisons.
+
+Tropologist – রূপকতত্ত্ববিদ (Rupkotottobid)
+Studies literary tropes and figures of speech.
+
+Urologist – মূত্রতন্ত্র বিশেষজ্ঞ (Mutrotontro Bisheshaggro)
+Studies the urinary system.
+
+Virologist – ভাইরাসবিদ (Virusbid)
+Studies viruses.
+
+Volcanologist – আগ্নেয়গিরি বিজ্ঞানী (Agneyogiri Biggani)
+Studies volcanoes.
+
+Xenobiologist – বহির্জীব বিশেষজ্ঞ (Bohirjib Bisheshaggro)
+Studies alien life forms.
+
+Xylologist – কাঠবিশেষজ্ঞ (Kathbisheshaggro)
+Studies wood and forests.
+
+Zoologist – প্রাণীবিজ্ঞানী (Pranibiggani)
+Studies animals and their behavior.
+
+Zymologist – গাঁজনবিজ্ঞানী (Ganjonbiggani)
+Studies fermentation processes.
