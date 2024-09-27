@@ -520,3 +520,153 @@ Studies animals and their behavior.
 
 Zymologist – গাঁজনবিজ্ঞানী (Ganjonbiggani)
 Studies fermentation processes.
+
+Acarologist – উষ্ণলোমবিশেষজ্ঞ (Ushnalombisheshaggro)
+Studies mites and ticks.
+
+Aerobiologist – বায়ুবিজ্ঞানী (Bayubiggani)
+Studies airborne particles like pollen and spores.
+
+Algologist – শৈবালবিদ (Shaibalbid)
+Studies algae.
+
+Anesthesiologist – অ্যানেস্থেসিওলজিস্ট (Anesthesiologist)
+Administers anesthesia to patients.
+
+Angiologist – রক্তনালীবিশেষজ্ঞ (Roktonalibisheshaggro)
+Studies blood vessels and lymphatic systems.
+
+Anthologist – সঙ্কলনবিদ (Shongkolonbid)
+Compiles collections of literary works.
+
+Anthropologist – নৃবিজ্ঞানী (Nribiggani)
+Studies human societies, cultures, and their development.
+
+Archaeologist – প্রত্নতত্ত্ববিদ (Prottotottobid)
+Studies ancient civilizations through artifacts and ruins.
+
+Astrobiologist – জ্যোতির্বিজ্ঞানী (Jyotirbiggani)
+Studies life in the universe beyond Earth.
+
+Astrologist – জ্যোতিষী (Jyotishi)
+Interprets celestial phenomena in relation to human affairs.
+
+Audiologist – শ্রবণবিজ্ঞানী (Srobonbiggani)
+Specializes in hearing and related disorders.
+
+Bacteriologist – ব্যাকটেরিয়া বিজ্ঞানী (Bacteria Biggani)
+Studies bacteria and bacterial infections.
+
+Biologist – জীববিজ্ঞানী (Jibobiggani)
+Studies living organisms.
+
+Botanologist – উদ্ভিদবিজ্ঞানী (Udbidbiggani)
+Studies plants.
+
+Cardiologist – হৃদরোগ বিশেষজ্ঞ (Hridorog Bisheshaggro)
+Specializes in diseases of the heart.
+
+Cetologist – তিমিবিশেষজ্ঞ (Timibisheshaggro)
+Studies whales and dolphins.
+
+Chirologist – হস্তচিহ্নবিদ (Hastochihnobid)
+Studies hands, especially in palmistry.
+
+Climatologist – জলবায়ুবিদ (Jalabayubid)
+Studies climate and weather systems.
+
+Coleopterologist – গুবরেপোকার বিজ্ঞানী (Gubrepokar Biggani)
+Studies beetles.
+
+Cosmologist – মহাজাগতিক বিজ্ঞানী (Mohajagotik Biggani)
+Studies the universe’s origin, evolution, and fate.
+
+Criminologist – অপরাধবিদ (Oporadhbid)
+Studies the causes and prevention of criminal behavior.
+
+Cytologist – কোষবিদ (Koshbid)
+Studies cell structure and function.
+
+Dermatologist – চর্মরোগ বিশেষজ্ঞ (Chormorog Bisheshaggro)
+Treats and studies skin conditions.
+
+Ecologist – পরিবেশবিজ্ঞানী (Poribeshbiggani)
+Studies ecosystems and the relationships between organisms and their environment.
+
+Embryologist – ভ্রূণবিদ (Vhrunobid)
+Studies the development of embryos.
+
+Endocrinologist – অন্তঃস্রাব বিশেষজ্ঞ (Ontosrab Bisheshaggro)
+Studies hormones and glands that secrete them.
+
+Entomologist – কীটতত্ত্ববিদ (Keettotottobid)
+Studies insects.
+
+Epidemiologist – মহামারি বিজ্ঞানী (Mohamari Biggani)
+Studies the spread, causes, and control of diseases.
+
+Ethnologist – নৃ-তাত্ত্বিক (Nribiggani)
+Studies different ethnic groups and cultures.
+
+Exobiologist – বহির্জীব বিজ্ঞানী (Bohirjib Biggani)
+Studies extraterrestrial life.
+
+Futurologist – ভবিষ্যদ্বক্তা (Bhobishyodbokta)
+Predicts future trends and developments based on data and analysis.
+
+Gastrologist – পাকস্থলী বিশেষজ্ঞ (Pakstholi Bisheshaggro)
+Specializes in the digestive system and its disorders.
+
+Gemologist – রত্নবিশেষজ্ঞ (Ratnobisheshaggro)
+Studies gems and precious stones.
+
+Geologist – ভূতত্ত্ববিদ (Bhutottobid)
+Studies the Earth’s structure, history, and processes.
+
+Gerontologist – বার্ধক্যবিজ্ঞানী (Bardhokko Biggani)
+Studies the aging process and elderly health issues.
+
+Gynecologist – স্ত্রীরোগ বিশেষজ্ঞ (Strirog Bisheshaggro)
+Specializes in women's reproductive health.
+
+Hematologist – রক্তরোগ বিশেষজ্ঞ (Roktorog Bisheshaggro)
+Studies blood-related disorders.
+
+Herpetologist – সরীসৃপবিদ (Sorisripbid)
+Studies reptiles and amphibians.
+
+Histologist – কলাবিজ্ঞানী (Kolabiggani)
+Studies tissues at the microscopic level.
+
+Hydrologist – জলবিজ্ঞানী (Jalobiggani)
+Studies water bodies and their distribution.
+
+Ichthyologist – মৎস্যবিদ (Motshyobid)
+Studies fish.
+
+Immunologist – রোগ প্রতিরোধ বিশেষজ্ঞ (Rog Protirodh Bisheshaggro)
+Studies the immune system and its disorders.
+
+Linguist – ভাষাবিদ (Bhashabid)
+Studies language structure and evolution.
+
+Marine Biologist – সামুদ্রিক জীববিজ্ঞানী (Samudrik Jibobiggani)
+Studies ocean life and ecosystems.
+
+Meteorologist – আবহাওয়াবিদ (Abahawabid)
+Studies weather and atmospheric patterns.
+
+Microbiologist – জীবাণুবিজ্ঞানী (Jibanu Biggani)
+Studies microscopic organisms like bacteria and viruses.
+
+Mycologist – ছত্রাকবিদ (Chhatrakbid)
+Studies fungi.
+
+Nephrologist – কিডনি বিশেষজ্ঞ (Kidney Bisheshaggro)
+Studies the kidneys and their disorders.
+
+Neurologist – স্নায়ুবিদ (Snayubid)
+Studies the nervous system and related diseases.
+
+Virologist – ভাইরাসবিদ (Virusbid)
+Studies viruses and viral diseases.
