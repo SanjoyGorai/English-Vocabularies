@@ -1,0 +1,4410 @@
+1. Abandon - (छोड़ देना)  
+   Synonyms: desert, leave, quit, forgo, renounce, surrender  
+   Antonyms: continue, keep, pursue  
+
+2. Abash - (शर्मिंदा करना)  
+   Synonyms: discourage, confound, discompose  
+   Antonyms: encourage, comfort, embolden  
+
+3. Abolish - (समाप्त करना)  
+   Synonyms: cancel, nullify, annul, invalidate, negate  
+   Antonyms: establish, set up, begin  
+
+4. Abound - (भरपूर होना)  
+   Synonyms: flourish, swell, teem, plentiful  
+   Antonyms: deficient, destitute, want, scarce  
+
+5. Abrupt - (अचानक)  
+   Synonyms: hurried, sudden, blunt, curt, brief  
+   Antonyms: smooth, gradual  
+
+6. Accomplish - (पूरा करना)  
+   Synonyms: achieve, attain, gain, reach, fulfill  
+   Antonyms: fail, forsake, give up  
+
+7. Abstract - (अमूर्त)  
+   Synonyms: hypothetical, theoretic, speculative  
+   Antonyms: concrete, definite, factual  
+
+8. Absurd - (बेतुका)  
+   Synonyms: foolish, idiotic, silly, insane, nonsensical  
+   Antonyms: logical, reasonable, rational  
+
+9. Abundant - (सुरक्षित)  
+   Synonyms: ample, generous, heavy, bountiful, plentiful  
+   Antonyms: rare, shortage, scarce  
+
+10. Accelerate - (तेज़ करना)  
+    Synonyms: hasten, hurry, quicken, hustle, expedite, speed up  
+    Antonyms: decelerate, retard, slowdown  
+
+11. Accumulate - (जमा करना)  
+    Synonyms: aggregate, amass, collect, garner, gather, pile up  
+    Antonyms: disperse, scatter, dissipate  
+
+12. Accuracy - (सटीकता)  
+    Synonyms: correctness, exactness, precision, rightness  
+    Antonyms: inaccuracy, error, anomaly  
+
+13. Accuse - (आरोप लगाना)  
+    Synonyms: arraign, charge, indict, denounce, incriminate, allege  
+    Antonyms: absolve, defend, exonerate  
+
+14. Acquire - (अधिकार करना)  
+    Synonyms: gain, get, procure, obtain, secure, win  
+    Antonyms: forfeit, forgo, relinquish  
+
+15. Acute - (तेज़)  
+    Synonyms: receptive, accurate, piercing, sharp, incisive, shrill  
+    Antonyms: dim, dull, obtuse  
+
+16. Adamant - (अटल)  
+    Synonyms: stubborn, obdurate, inflexible, rigid  
+    Antonyms: flexible, tender, adjusting  
+
+17. Adequate - (पर्याप्त)  
+    Synonyms: enough, satisfactory, sufficient  
+    Antonyms: deficient, wanting, insufficient  
+
+18. Admire - (सराहना करना)  
+    Synonyms: appreciate, praise, value, respect, like, regard  
+    Antonyms: blame, condemn, disapprove  
+
+19. Adopt - (गोद लेना)  
+    Synonyms: affirm, approve, confirm, sanction, pass, ratify  
+    Antonyms: disclaim, disown, renounce  
+
+20. Adventurous - (रोमांचकारी)  
+    Synonyms: bold, daredevil, daring, enterprising, dangerous, risky  
+    Antonyms: cautious, safe, timid  
+
+21. Adversity - (मुसीबत)  
+    Synonyms: misfortune, haplessness, affliction, hardship  
+    Antonyms: prosperity, fortune  
+
+22. Affection - (लगाव)  
+    Synonyms: attachment, liking, love, fondness, loyalty  
+    Antonyms: enmity, hatred, dislike  
+
+23. Aggregate - (सकल, जोड़)  
+    Synonyms: amount, sum, total, totality, entirety, gross  
+    Antonyms: single, individual, separate  
+
+24. Aggressive - (आक्रमक)  
+    Synonyms: hostile, militant, belligerent, attacking  
+    Antonyms: laid back, easy-going  
+
+25. Agree - (स्वीकार करना)  
+    Synonyms: accept, consent, nod, accede, tally, concur  
+    Antonyms: disagree, differ, contradict  
+
+26. Alert - (सावधान)  
+    Synonyms: observant, vigilant, wary, watchful, keen  
+    Antonyms: asleep, drowsy, inattentive  
+
+27. Alliance - (गठबंधन)  
+    Synonyms: coalition, union, association, group  
+    Antonyms: antagonism, discord, hostility  
+
+28. Alone - (अकेला)  
+    Synonyms: lonely, single, solitary, isolated, apart  
+    Antonyms: together, accompanied, escorted  
+
+29. Amazing - (आश्चर्यजनक)  
+    Synonyms: fantastic, fabulous, incredible, marvelous  
+    Antonyms: ordinary, commonplace, average  
+
+30. Ambitious - (महात्वाकांक्षी)  
+    Synonyms: aspiring, eager, longing, ardent  
+    Antonyms: indifferent, disinterested, unexcited  
+
+31. Amend - (संशोधन करना)  
+    Synonyms: improve, correct, rectify, ameliorate  
+    Antonyms: blemish, impair, worsen  
+
+32. Amplify - (बढ़ा-चढ़ाकर)  
+    Synonyms: boost, enlarge, expand, increase  
+    Antonyms: lessen, compress, summarize  
+
+33. Amuse - (मनोरंजन करना)  
+    Synonyms: entertain, divert, delight, please  
+    Antonyms: bore, annoy, fatigue  
+
+34. Ancient - (प्राचीन)  
+    Synonyms: old, archaic, obsolete, outdated  
+    Antonyms: modern, new, young  
+35. Anonymous - (अनाम)  
+   Synonyms: nameless, unnamed, unidentified, mysterious  
+   Antonyms: identified, known, named  
+
+36. Anxiety - (चिंता)  
+   Synonyms: unease, concern, worry, angst  
+   Antonyms: composure, assurance, quietude  
+
+37. Appealing - (आकर्षक)  
+   Synonyms: tempting, alluring, fascinating, charming  
+   Antonyms: disagreeable, unappealing  
+
+38. Appreciate - (तारीफ करना)  
+   Synonyms: value, welcome, admire, cherish, recognize  
+   Antonyms: disregard, condemn, disapprove  
+
+39. Apprentice - (नौसिखिया)  
+   Synonyms: learner, beginner, novice, intern, trainee  
+   Antonyms: mentor, teacher, experienced  
+
+40. Approve - (मंजूरी देना)  
+   Synonyms: accept, like, support, ratify, endorse  
+   Antonyms: censure, deplore, disallow  
+
+41. Arrogance - (घमंड)  
+   Synonyms: haughtiness, insolence, egotism, pride, superciliousness  
+   Antonyms: humility, meekness, servility  
+
+42. Artificial - (कृत्रिम)  
+   Synonyms: synthetic, sham, fake, deceptive, unnatural, false  
+   Antonyms: genuine, real, natural  
+
+43. Ascend - (ऊपर उठना)  
+   Synonyms: rise, mount, spring, climb, soar, increase  
+   Antonyms: decline, descend, lower  
+
+44. Assist - (सहायता करना)  
+   Synonyms: help, support, aid, abet, relieve  
+   Antonyms: hinder, oppose, thwart  
+
+45. Assurance - (आश्वासन)  
+   Synonyms: guarantee, promise, certainty, belief  
+   Antonyms: uncertainty, doubt  
+
+46. Astonishing - (चौंका देने वाला)  
+   Synonyms: surprising, astounding, amazing  
+   Antonyms: dull, unimpressive, boring  
+
+47. Attain - (प्राप्त करना)  
+   Synonyms: achieve, accomplish, reach, gain, get, realize  
+   Antonyms: desert, forfeit, surrender  
+
+48. Attentive - (सावधान)  
+   Synonyms: heedful, regardful, considerate, responsive  
+   Antonyms: heedless, inattentive, neglectful  
+
+49. Attract - (आकर्षित करना)  
+   Synonyms: appeal, draw, entice, allure, fascinate  
+   Antonyms: repel, repulse, deter  
+
+50. Auspicious - (शुभ)  
+   Synonyms: opportune, propitious, favorable, fortunate  
+   Antonyms: hopeless, unlucky, ill-fated  
+
+51. Authentic - (असली)  
+   Synonyms: credible, genuine, valid, real, original  
+   Antonyms: counterfeit, fake, unreal  
+
+52. Autonomous - (आज़ाद)  
+   Synonyms: free, independent, sovereign, separate  
+   Antonyms: dependent, bound, subject  
+
+53. Average - (औसत)  
+   Synonyms: moderate, usual, typical, ordinary  
+   Antonyms: exceptional, outstanding, unusual  
+
+54. Avoid - (टालना)  
+   Synonyms: escape, shun, evade, elude, dodge  
+   Antonyms: face, seek, want  
+
+55. Awake - (जागना)  
+   Synonyms: conscious, aware, alert, roused, wakeful  
+   Antonyms: asleep, unconscious, lull  
+
+56. Aware - (जानकार)  
+   Synonyms: cognizant, attentive, responsive  
+   Antonyms: ignorant, unaware, insensitive  
+
+57. Awful - (डरावना)  
+   Synonyms: dreadful, shocking, horrible, terrible, appalling  
+   Antonyms: pleasing, charming, beautiful  
+
+58. Awkward - (अजीब)  
+   Synonyms: clumsy, graceless, inept, cumbersome  
+   Antonyms: dexterous, adept, skillful  
+
+59. Apparent - (स्पष्ट)  
+   Synonyms: evident, obvious, perceptible, distinct  
+   Antonyms: masked, obscure, indistinct, doubtful  
+
+60. Allure - (लुभाना)  
+   Synonyms: entice, fascinate, tempt, seduce  
+   Antonyms: repulse, repel, deter, distaste  
+
+61. Abortive - (निष्फल)  
+   Synonyms: vain, useless, fruitless, unproductive  
+   Antonyms: effectual, productive, successful  
+
+62. Abominable - (घिनौना)  
+   Synonyms: odious, detestable, repugnant, aversion  
+   Antonyms: affectionate, enjoyable  
+
+63. Allay - (शांत करना)  
+   Synonyms: pacify, soothe, lighten, assuage  
+   Antonyms: aggravate, excite  
+
+64. Axiom - (सिद्धांत)  
+   Synonyms: maxim, saying, dictum, truth  
+   Antonyms: absurdity, ridiculousness, irrelevant  
+
+65. Assiduous - (परिश्रमी)  
+   Synonyms: constant, diligent, persevering  
+   Antonyms: indifference, careless, indolent  
+
+66. Abjure - (छोड़ना)  
+   Synonyms: forsake, renounce, retract, revoke  
+   Antonyms: approve, sanction, patronize, adopt  
+
+67. Abject - (घृणित)  
+   Synonyms: despicable, servile, base, contemptible  
+   Antonyms: commendable, praiseworthy  
+
+68. Aversion - (घृणा)  
+   Synonyms: dislike, hatred, indifference, apathy  
+   Antonyms: affection, fondness, niceness, liking  
+
+69. Authentic - (विश्वसनीय)  
+   Synonyms: genuine, reliable, valid, guaranteed  
+   Antonyms: fictitious, counterfeit, unreal, false  
+
+70. Audacity - (साहस)  
+   Synonyms: boldness, arrogance, insolence  
+   Antonyms: mildness, humility, cowardice  
+
+71. Abettor - (सह-अपराधी)  
+   Synonyms: accomplice  
+   Antonyms: opponent, adversary, antagonist, rival  
+
+72. Abate - (कम करना)  
+   Synonyms: moderate, mitigate, lessen, decrease  
+   Antonyms: aggravate, intensify, augment  
+
+73. Arraign - (दोष लगाना)  
+   Synonyms: charge, blame, accuse, complain  
+   Antonyms: exculpate, pardon, condone  
+
+74. Affront - (अपमानित करना)  
+   Synonyms: provoke, exasperate, indignity, irreverence  
+   Antonyms: conciliate, appease, mollify, assuage  
+
+75. Antipathy - (दुश्मनी)  
+   Synonyms: hostility, aversion, disillusion, dislike  
+   Antonyms: admiration, approval, fascination  
+
+76. Acrimony - (कड़वाहट)  
+   Synonyms: harshness, bitterness, inhumanity, enmity  
+   Antonyms: sweetness, courtesy, humanity  
+
+77. Accumulation - (जमा करना)  
+   Synonyms: store, amass, preservation, conservation  
+   Antonyms: scattering, dissipation, separation  
+
+78. Abash - (अपमानित करना)  
+   Synonyms: humiliate, humble, denigrate, debase, mortify, reduce  
+   Antonyms: exalt, upgrade, dignify  
+
+79. Abhor - (नफरत करना)  
+   Synonyms: despise, detest, loathe, abominate, dislike, execrate  
+   Antonyms: love, yearn, admire  
+
+80. Abide - (पालन करना)  
+   Synonyms: accept, tolerate, stand for, withstand, bear, endure  
+   Antonyms: shun, quit, migrate  
+
+81. Abort - (रद्द करना)  
+   Synonyms: terminate, end, abandon, call off, stop, halt  
+   Antonyms: continue, keep, sustain  
+
+82. Abscond - (फरार होना)  
+   Synonyms: decamp, escape, flee, break out, run away, get away  
+   Antonyms: remain, stay, emerge  
+
+83. Abstain - (दूर रहना)  
+   Synonyms: refrain, withhold, desist, withdraw, curb  
+   Antonyms: persist, pursue, offer  
+
+84. Accessible - (पहुंचने योग्य)  
+   Synonyms: handy, nearby, available, reachable, manageable, convenient  
+   Antonyms: restricted, inaccessible, limited  
+
+85. Accessory - (सहायक)  
+   Synonyms: ancillary, assistant, auxiliary, collateral, subsidiary, supportive  
+   Antonyms: principal, unsupportive, main  
+
+86. Accommodating - (मिलनसार)  
+   Synonyms: agreeable, obliging, complaisant, willing, cooperating, helpful  
+   Antonyms: alienating, disobliging, estranged  
+
+87. Accomplice - (सह-अपराधी)  
+   Synonyms: assistant, accessory, collaborator, partner, abettor, conspirator  
+   Antonyms: adversary, enemy, opponent  
+
+88. Accord - (सहमत होना)  
+   Synonyms: agreement, treaty, settlement, deal, concord, pact  
+   Antonyms: disagreement, denial, refusal  
+
+89. Acquaint - (अवगत कराना)  
+   Synonyms - inform, apprise, notify, familiarize, enlighten, tell  
+   Antonyms - conceal, hide, withhold  
+
+90. Acquit - (बरी करना)  
+   Synonyms - absolve, vindicate, free, release, exonerate, exculpate  
+   Antonyms - convict, sentence, limit  
+
+91. Acme - (शिखर)  
+   Synonyms - peak, top, zenith, pinnacle, culmination, apogee  
+   Antonyms - bottom, nadir, minimum  
+
+92. Acrid - (तीखा)  
+   Synonyms - bitter, harsh, sour, vitriolic, acerbic, caustic  
+   Antonyms - delicious, savory, complimentary  
+
+93. Acumen - (चतुर)  
+   Synonyms - insight, wisdom, expertise, sagacity, astuteness  
+   Antonyms - ineptness, stupidity, ignorance  
+
+94. Adjacent - (सिसकट)  
+   Synonyms - close, nearby, next, contiguous, bordering, flanking  
+   Antonyms - distant, remote, apart  
+
+95. Admonish - (चेतावनी देना)  
+   Synonyms - rebuke, reprimand, reproach, chide, reprove, scold  
+   Antonyms - applaud, praise, approve  
+
+96. Adore - (बात पसंद करना)  
+   Synonyms - idolize, revere, venerate, worship, glorify, exalt  
+   Antonyms - abhor, despise, loathe  
+
+97. Adulterate - (मिलावट करना)  
+   Synonyms - debase, pollute, taint, impure, soil, infect  
+   Antonyms - cleanse, filter, purify  
+
+98. Adverse - (विपरीत)  
+   Synonyms - opposing, unfavorable, contrary, hostile, antagonistic, confrontational  
+   Antonyms - favorable, propitious, advantageous  
+
+99. Affluent - (धनी)  
+   Synonyms - moneyed, rich, wealthy, prosperous, well-off, well-to-do  
+   Antonyms - needy, impoverished, destitute  
+
+100. Aggravate - (बढ़ाना)  
+   Synonyms - enhance, intensify, augment, annoy, bother, pester  
+   Antonyms - appease, mollify, relieve  
+
+101. Agile - (फुर्तिला)  
+   Synonyms - brisk, facile, nimble, swift, sprightly, supple  
+   Antonyms - clumsy, stiff, brittle  
+
+102. Agitate - (आंदोलन करना)  
+   Synonyms - protest, stir, disturb, churn, perturb, ruffle  
+   Antonyms - quiet, lull, soothe  
+
+103. Agony - (व्यथा)  
+   Synonyms - anguish, distress, misery, torment, woe, affliction  
+   Antonyms - peace, comfort, happiness  
+
+104. Aid - (सहायता करना)  
+   Synonyms - abet, boost, help, succor,again, facilitate, sustain
+   Antonyms- block, hinder, obstruct
+   105. Alight - (नीचे आना)  
+    Synonyms - land, get off, descend, dismount, perch, settle  
+    Antonyms - board, mount, get on  
+
+106. Alike - (एक जैसा)  
+    Synonyms - analogous, comparable, identical, similar, uniform, equivalent  
+    Antonyms - distinct, diverse, dissimilar  
+
+107. Allege - (आरोप लगाना)  
+    Synonyms - assert, claim, charge, contend, declare, maintain  
+    Antonyms - contradict, deny, disagree  
+
+108. Alleviate - (कम करना)  
+    Synonyms - allay, assuage, ease, mitigate, relieve, palliate  
+    Antonyms - aggravate, intensify, magnify  
+
+109. Aloof - (अलग)  
+    Synonyms - reticent, solitary, withdrawn, detached, snooty, standoffish  
+    Antonyms - friendly, sociable, concerned  
+
+110. Alter - (बदलना)  
+    Synonyms - change, modify, vary, amend, revise, rework  
+    Antonyms - maintain, preserve, retain  
+
+111. Amateur - (अनुभवहीन)  
+    Synonyms - dabbler, unprofessional, slapdash, shoddy, inept, clumsy  
+    Antonyms - professional, expert, proficient  
+
+112. Amenity - (सुविधा)  
+    Synonyms - facility, convenience, comfort, cordiality, warmth, geniality  
+    Antonyms - inconvenience, misbehavior, disruption  
+
+113. Ambiguous - (अस्पष्ट)  
+    Synonyms - vague, obscure, uncertain, cloudy, nebulous, hazy  
+    Antonyms - explicit, lucid, clear  
+
+114. Analogous - (अनुपात)  
+    Synonyms - alike, comparable, corresponding, akin, consonant, parallel  
+    Antonyms - disparate, dissimilar, unlike  
+
+115. Anguish - (तड़प)  
+    Synonyms - distress, wretchedness, suffering, grief, sorrow, angst  
+    Antonyms - contentment, solace, happiness, comfort, joy  
+
+116. Animosity - (दुश्मनी)  
+    Synonyms - acrimony, antipathy, malevolence, bitterness, malice, rancor  
+    Antonyms - congeniality, harmony, benevolence  
+
+117. Annex - (हड़पना)  
+    Synonyms - affix, append, attach, capture, seize, appropriate  
+    Antonyms - detach, relinquish, leave  
+
+118. Annoy - (परेशान करना)  
+    Synonyms - exasperate, fret, irk, infuriate, upset, enrage  
+    Antonyms - gratify, gladden, delight  
+
+119. Anomalous - (अनियमित)  
+    Synonyms - aberrant, deviant, jarring, inconsistent, unusual, unnatural  
+    Antonyms - conforming, regular, standard  
+
+120. Apex - (चोटी)  
+    Synonyms - crest, crown, peak, summit, pinnacle, zenith  
+    Antonyms - nadir, lowest point, zero level  
+
+121. Apparent - (स्पष्ट)  
+    Synonyms - distinct, obvious, evident, perceptible, visible, outward  
+    Antonyms - hazy, indistinct, vague  
+
+122. Appease - (खुश करना)  
+    Synonyms - assuage, conciliate, mollify, pacify, placate, soothe  
+    Antonyms - aggravate, incite, provoke  
+
+123. Applaud - (ताली बजाना)  
+    Synonyms - cheer, acclaim, commend, laud, root, compliment  
+    Antonyms - boo, hiss, disparage  
+
+124. Apprise - (सूचना देना)  
+    Synonyms - acquaint, advise, inform, enlighten, educate, notify  
+    Antonyms - depreciate, undervalue, mystify  
+
+125. Apt - (उचित)  
+    Synonyms - appropriate, befitting, pertinent, competent  
+    Antonyms - improper, gauche, maladroit  
+
+126. Arbitrary - (मनमाना)  
+    Synonyms - random, illogical, capricious, indiscriminate, haphazard, discretionary  
+    Antonyms - consistent, logical, reasonable  
+
+127. Archaic - (पुराना)  
+    Synonyms - ancient, antique, hoary, prehistoric, outdated, dowdy  
+    Antonyms - contemporary, modern, recent  
+
+128. Assert - (दावा करना)  
+    Synonyms - affirm, avow, contend, proclaim, stress, emphasize  
+    Antonyms - deny, reject, refuse  
+
+129. Abdicate - (राजीनामा देना)  
+    Synonyms - cede, relinquish, renounce, abandon, render  
+    Antonyms - hold, retain, maintain  
+
+130. Aberration - (असामान्यता)  
+    Synonyms - divergence, anomaly, eccentricity, deviance, peculiarity, derangement  
+    Antonyms - conformity, regularity, sameness  
+
+131. Abet - (बढ़ावा देना)  
+    Synonyms - connive, incite, succor, boost, aid, urge  
+    Antonyms - hinder, inhibit, block  
+
+132. Aboriginal - (आदिवासी)  
+    Synonyms - native, indigenous, endemic, original, local  
+    Antonyms - foreigner, outsider, immigrant  
+
+133. Accede - (सहमत होना)  
+    Synonyms - comply, grant, acquiesce, assent, subscribe, nod  
+    Antonyms - demur, denounce, protest  
+
+134. Acclaim - (प्रशंसा करना)  
+    Synonyms - commend, eulogize, exalt, extol, glorify, laud  
+    Antonyms - berate, damn, vituperate, blame, censure  
+
+135. Accolade - (पुरस्कार)  
+    Synonyms - distinction, honour, tribute, award, laurel, kudos  
+    Antonyms - criticism, blame, accusation  
+
+136. Acquisition - (अधिग्रहण)  
+    Synonyms - accession, accomplishment, procurement, possession, gain, attainment  
+    Antonyms - loss, dearth, lack  
+
+137. Acrimonious - (कटु)  
+    Synonyms - bitter, rancorous, resentful, virulent, discordant, hostile  
+    Antonyms - affable, benign, forgiving  
+
+138. Adept - (कुशल)  
+    Synonyms - proficient, skilled, adroit, dexterous, masterly, crack  
+    Antonyms - awkward, clumsy, inept  
+139. Adherent - (अनुयायी)  
+    Synonyms - enthusiast, follower, aficionado, cohort, disciple  
+    Antonyms - opponent, cynic, disbeliever  
+
+140. Adroit - (निपुण)  
+    Synonyms - deft, nimble, competent, neat, slick  
+    Antonyms - inept, unskilled, stupid  
+
+141. Advent - (आगमन)  
+    Synonyms - initiation, beginning, dawn, appearance, arrival, coming  
+    Antonyms - departure, end, culmination  
+
+142. Adversary - (विरोधी)  
+    Synonyms - antagonist, opponent, rival, foe, challenger  
+    Antonyms - ally, backer, supporter  
+
+143. Affinity - (लगाव)  
+    Synonyms - empathy, sympathy, kinship, likeness  
+    Antonyms - dislike, hatred, dissimilarity  
+
+144. Affliction - (रोग)  
+    Synonyms - illness, infirmity, disorder, indisposition, burden, scourge  
+    Antonyms - aid, comfort, relief  
+
+145. Affray - (झगड़ा)  
+    Synonyms - brawl, scuffle, commotion, tussle, tumult  
+    Antonyms - agreement, harmony, peace  
+
+146. Aghast - (डरा हुआ)  
+    Synonyms - afraid, horrified, shocked, appalled, apprehensive  
+    Antonyms - unsurprised, unaffected, calm  
+
+147. Agog - (उत्सुक)  
+    Synonyms - ardent, avid, eager, enthusiastic, curious  
+    Antonyms - incurious, uninterested, indifferent  
+
+148. Ail - (पीड़ा देना)  
+    Synonyms - distress, trouble, worry, afflict, upset  
+    Antonyms - excite, comfort, cheer  
+
+149. Alienate - (दूर कर देना)  
+    Synonyms - disunite, estrange, distance, isolate, cede, separate  
+    Antonyms - disarm, be friendly, conciliate  
+
+150. Allay - (शांत करना)  
+    Synonyms - alleviate, assuage, lull, palliate, calm, dispel  
+    Antonyms - worsen, aggravate, provoke  
+
+151. Altercation - (विवाद)  
+    Synonyms - argument, bicker, contention, dispute, squabble, row  
+    Antonyms - agreement, concord, harmony  
+
+152. Altruistic - (परोपकारी)  
+    Synonyms - beneficent, benevolent, benign, selfless, philanthropic  
+    Antonyms - selfish, mercenary  
+
+153. Amalgamate - (मिलाना)  
+    Synonyms - merge, mingle, mix, integrate, fuse, blend  
+    Antonyms - divide, separate, branch  
+
+154. Amass - (जमा करना)  
+    Synonyms - accrue, accumulate, garner, hoard, stockpile, assemble  
+    Antonyms - disperse, dissipate, scatter  
+
+155. Ameliorate - (सुधारना)  
+    Synonyms - amend, improve, upgrade, enrich, enhance, better  
+    Antonyms - worsen, deteriorate, degenerate  
+
+156. Amenable - (आज्ञाकारी)  
+    Synonyms - compliant, docile, obedient, willing, pliable  
+    Antonyms - defiant, noncompliant, recalcitrant  
+
+157. Amicable - (मित्रतापूर्ण)  
+    Synonyms - friendly, warmhearted, harmonious, good-humored, polite  
+    Antonyms - hostile, unfriendly, acrimonious  
+
+158. Amnesty - (अपराध क्षमा)  
+    Synonyms - forgiveness, pardon, remission, reprieve, absolution, exoneration  
+    Antonyms - censure, denunciation, conviction  
+
+159. Amorous - (कामुक)  
+    Synonyms - erotic, lewd, lustful, passionate, ardent, infatuated  
+    Antonyms - unloving, detached, indifferent  
+
+160. Ample - (पर्याप्त)  
+    Synonyms - extensive, copious, substantial, abundant, bounteous, generous  
+    Antonyms - insufficient, meager, paltry  
+
+161. Anarchy - (अराजकता)  
+    Synonyms - disorder, lawlessness, chaos, mayhem, riot, misrule  
+    Antonyms - order, rule, lawfulness  
+
+162. Annul - (रद्द करना)  
+    Synonyms - abolish, abrogate, void, rescind, negate, invalidate  
+    Antonyms - retain, validate, keep  
+
+163. Antagonism - (विरोध)  
+    Synonyms - antipathy, animosity, enmity, hostility, resentment, contradiction  
+    Antonyms - accord, rapport, agreement  
+
+164. Antithesis - (विरुद्ध)  
+    Synonyms - contrast, opposition, antagonism, polarity, contrariety, converse  
+    Antonyms - same, conformity, uniformity  
+
+165. Apathy - (उदासीनता)  
+    Synonyms - indifference, lassitude, ennui, droopiness, listlessness, stolidity  
+    Antonyms - care, concern, sympathy  
+
+166. Appalling - (भयंकर)  
+    Synonyms - awful, dreadful, ghastly, horrendous, outrageous, atrocious  
+    Antonyms - comforting, reassuring, pleasing  
+
+167. Apposite - (उपयुक्त)  
+    Synonyms - appropriate  
+    Antonyms - inappropriate  
+
+168. Apprehension - (डर)  
+    Synonyms - dread, fright, panic, trepidation, detention, capture  
+    Antonyms - calmness, contentment, happiness  
+
+169. Ardent - (उत्साही)  
+    Synonyms - fervent, passionate, avid, sizzling, fiery, dedicated  
+    Antonyms - cold, dispassionate, frigid  
+
+170. Arduous - (कठिन)  
+    Synonyms - laborious, demanding, exacting, rigorous, severe, strenuous  
+    Antonyms - easy, facile, effortless  
+
+171. Arid - (बंजर)  
+    Synonyms - dry, parched, scorched, barren, infertile  
+    Antonyms - damp, moist, humid  
+
+172. Articulate - (स्पष्ट)  
+    Synonyms - eloquent, lucid, vocal, fecund, expressive, coherent  
+    Antonyms - unintelligible, unclear, misrepresented  
+173. Aspersion - (बदनामी)  
+    Synonyms - slander, smear, disparagement  
+    Antonyms - calmness, mildness, happiness  
+
+174. Assent - (सहमत होना)  
+    Synonyms - consent, nod, sanction, approbation, acquiescence, approval  
+    Antonyms - dissent, rejection, disagreement  
+
+175. Assist - (मदद करना)  
+    Synonyms - aid, help, facilitate  
+    Antonyms - obstruct  
+
+176. Assuage - (शांत करना)  
+    Synonyms - appease, mitigate, conciliate, placate, dulcify, propitiate  
+    Antonyms - upset, exacerbate, agitate  
+
+177. Astounding - (चौंकाने वाला)  
+    Synonyms - astonishing, phenomenal, prodigious, stupendous, wondrous, amazing  
+    Antonyms - boring, dull, satisfying  
+
+178. Astute - (चतुर)  
+    Synonyms - perceptive, judicious, perspicacious, cagey, canny, shrewd  
+    Antonyms - idiotic, stupid, unintelligent  
+
+179. Atrocious - (घिनौना)  
+    Synonyms - vile, heinous, horrid, nauseating, awful, hideous  
+    Antonyms - inoffensive, innocuous, unobtrusive  
+
+180. Audacious - (निडर)  
+    Synonyms - foolhardy, impudent, heroic, intrepid, plucky, undaunted  
+    Antonyms - meek, mild, timid  
+
+181. Augment - (बढ़ाना)  
+    Synonyms - amplify, intensify, mount, proliferate, aggrandize, upsurge  
+    Antonyms - decrease, degrade, belittle  
+
+182. Avarice - (लालच)  
+    Synonyms - covetousness, cupidity, avidity, acquisitiveness, greed  
+    Antonyms - generosity, philanthropy, charity  
+
+183. Aversion - (घृणा)  
+    Synonyms - avariciousness, revulsion, abhorrence, detestation, abomination, loathing, repugnance  
+    Antonyms - attachment, fondness, liking  
+
+184. Avid - (लालची)  
+    Synonyms - keen, fervent, agog, rapacious, ardent, solicitous  
+    Antonyms - dispassionate, indifferent, unenthusiastic  
+
+185. Awe - (भय)  
+    Synonyms - reverence, veneration, admiration, esteem, dread, fright  
+    Antonyms - calmness, familiarity, expectation  
+
+186. Baffle - (हैरान करना)  
+    Synonyms - amaze, confuse, puzzle, rattle, stun, astound  
+    Antonyms - enlighten, explain, clarify  
+
+187. Ban - (रोक लगाना)  
+    Synonyms - boycott, restriction, embargo, suppression  
+    Antonyms - permission, approval  
+
+188. Banter - (मजाक)  
+    Synonyms - gossip, repartee  
+    Antonyms - praise, flattery  
+
+189. Bankrupt - (दिवालिया)  
+    Synonyms - insolvent, penniless, ruined, destitute, broke  
+    Antonyms - solvent, prosperous, wealthy  
+
+190. Barbarous - (क्रूर)  
+    Synonyms - brutal, cruel, ferocious, ruthless  
+    Antonyms - polite, refined, sophisticated  
+
+191. Beat - (पीटना)  
+    Synonyms - bang, bash, batter, cane, castigate, drub  
+    Antonyms - aid, assist, help  
+
+192. Beneath - (नीचे की ओर)  
+    Synonyms - below, underneath, under, down, unworthy, covered  
+    Antonyms - up, overhead, above  
+
+193. Benevolent - (परोपकारी)  
+    Synonyms - benign, caring, chivalrous, considerate, humane, generous  
+    Antonyms - malevolent, mean, spiteful  
+
+194. Beneficent - (लाभकारी)  
+    Synonyms - charitable, kind, helpful, generous, philanthropic  
+    Antonyms - malicious, uncharitable  
+
+195. Betray - (धोखा देना)  
+    Synonyms - deceive, delude, forsake, abandon, cross  
+    Antonyms - defend, protect, support  
+
+196. Bewilder - (चिकित करना)  
+    Synonyms - baffle, confuse, daze, muddle, mystify  
+    Antonyms - enlighten, illuminate, explain  
+
+197. Bewitching - (जादुई)  
+    Synonyms - magical, fascinating  
+    Antonyms - repulsive, repugnant, disgusting  
+
+198. Biased - (पक्षपाती)  
+    Synonyms - discriminating, favoring, partial, prejudiced, unfair  
+    Antonyms - fair, impartial, judicious  
+
+199. Bind - (बांधना)  
+    Synonyms - attach, fix, annex, append, secure  
+    Antonyms - detach, break, free  
+
+200. Bland - (बेदुआ)  
+    Synonyms - dull, flat, insipid, monotonous  
+    Antonyms - delicious  
+
+201. Blemish - (कलंक)  
+    Synonyms - fault, smirch, stigma, stain  
+    Antonyms - purity, impeccable, spotless, stainless  
+
+202. Bleak - (निराशाजनक)  
+    Synonyms - dismal, gloomy, chilly, dreary  
+    Antonyms - bright, pleasant, balmy, cheerful  
+
+203. Blame - (दोष लगाना)  
+    Synonyms - reprove, upbraid, censure, reproach  
+    Antonyms - commend, applaud, laud, praise  
+
+204. Blend - (मिलाना)  
+    Synonyms - combine, mix, instill, mingle  
+    Antonyms - separate, disintegrate, dissociate  
+
+205. Block - (बाधा डालना)  
+    Synonyms - bar, obstruct, choke, congest, clog  
+    Antonyms - open, clear, release  
+
+206. Bloom - (खिलना)  
+    Synonyms - flourish, grow, thrive  
+    Antonyms - shrink, fail, wither  
+
+207. Boast - (डींग हांकना)  
+    Synonyms - brag, praise, exult  
+    Antonyms - modest, deprecate  
+
+208. Bothersome - (थकानेवाला) 
+Synonyms -annoying, irksome, troubling,Irritating
+Antonyms- convenient, helpful, smooth
+208. Bothersome - (थकानेवाला)  
+    Synonyms - annoying, irksome, troubling, irritating  
+    Antonyms - convenient, helpful, smooth  
+
+209. Boundless - (अंतहीन)  
+    Synonyms - endless, unlimited, infinite, immeasurable, plenty  
+    Antonyms - limited, restricted, less  
+
+210. Brittle - (नाज़ुक)  
+    Synonyms - frail, fragile, delicate, breakable  
+    Antonyms - tough, enduring, unbreakable, strong  
+
+211. Brisk - (फुर्तिला)  
+    Synonyms - agile, quick, dynamic, energetic, lively, vigorous  
+    Antonyms - slow, sluggish, dull  
+
+212. Bombastic - (आडंबरपूर्ण)  
+    Synonyms - flowery, showy, overblown  
+    Antonyms - humble, restrained, reserved  
+
+213. Broadminded - (खुले विचारों वाला)  
+    Synonyms - liberal, progressive, open, tolerant, flexible  
+    Antonyms - orthodox, conservative, narrow-minded  
+
+214. Bulky - (भारी-भरकम)  
+    Synonyms - massive, big, oversized, heavy, hefty, huge  
+    Antonyms - small, thin, tiny  
+
+215. Bully - (भयभीत करना)  
+    Synonyms - intimidate, menace, threaten, browbeat  
+    Antonyms - support, ease, assuage  
+
+216. Bustle - (हड़बड़ाना)  
+    Synonyms - haste, tumult, stir, flurry  
+    Antonyms - slowness, sluggishness, quiet  
+
+217. Baleful - (खतरनाक)  
+    Synonyms - deadly, evil, malevolent, harmful, noxious, sinister  
+    Antonyms - auspicious, favorable, promising  
+
+218. Bane - (अभिशाप)  
+    Synonyms - destruction, devastation, havoc, ruin, curse, evil  
+    Antonyms - blessing, advantage, fortune  
+
+219. Banish - (निकाल देना)  
+    Synonyms - deport, exile, expatriate, ostracize, dismiss, dispel  
+    Antonyms - allow, keep, welcome  
+
+220. Bare - (नंगा)  
+    Synonyms - unclad, naked, empty, blank, vacant, shorn  
+    Antonyms - clothed, robed, covered  
+
+221. Barren - (बंजर भूमि)  
+    Synonyms - unfruitful, unproductive, futile, useless, devoid  
+    Antonyms - fertile, productive, useful  
+
+222. Batter - (आक्रमण)  
+    Synonyms - assail, assault, beat, drub, hammer, pound  
+    Antonyms - aid, assist, guard  
+
+223. Belittle - (छोटा करना)  
+    Synonyms - decry, denigrate, derogate, disparage, downgrade, slight  
+    Antonyms - praise, value, exaggerate  
+
+224. Beloved - (अप्रिय)  
+    Synonyms - darling, dear, loved, precious, intimate, cherished  
+    Antonyms - despised, disliked, hated  
+
+225. Benediction - (आशीर्वाद)  
+    Synonyms - blessing, thanks, favor, gratitude, approbation, grace  
+    Antonyms - anathema, disapproval, criticism  
+
+226. Bicker - (नोकझोक करना)  
+    Synonyms - argue, contend, dispute, quarrel, spat, tiff  
+    Antonyms - agree, concede, discuss  
+
+227. Bizarre - (विचित्र)  
+    Synonyms - curious, eccentric, freakish, odd, queer, strange  
+    Antonyms - normal, reasonable, usual  
+
+228. Blatant - (बेशर्मी)  
+    Synonyms - brazen, shameless, unabashed, boisterous, clamorous, vociferous  
+    Antonyms - quiet, subtle, inconspicuous  
+
+229. Bleak - (निराशाजनक)  
+    Synonyms - dismal, gloomy, sombre, joyless, cheerless, dreary  
+    Antonyms - bright, pleasant, sunny  
+
+230. Bony - (दुबला-पतला)  
+    Synonyms - lanky, skinny, slender, lean, slim, thin  
+    Antonyms - fat, heavy, plump  
+
+231. Boom - (अचानक तेजी)  
+    Synonyms - bang, blast, roar, thunder, barrage, rumble  
+    Antonyms - collapse, failure, loss  
+
+232. Boon - (वरदान)  
+    Synonyms - advantage, benefit, blessing, favor, gain, profit  
+    Antonyms - disadvantage, drawback, handicap  
+
+233. Bountiful - (भरपूर)  
+    Synonyms - ample, generous, plentiful, substantial, voluminous, abundant  
+    Antonyms - insufficient, meager, sparse  
+
+234. Brag - (अपनी प्रशंसा करना)  
+    Synonyms - boast, bluster, crow, gloat, praise, exaggerate  
+    Antonyms - be modest, be quiet, deprecate  
+
+235. Breach - (तोड़ना)  
+    Synonyms - break, gap, hole, perforation, rupture, violation  
+    Antonyms - bridge, connect, join  
+
+236. Breathtaking - (असाधारण)  
+    Synonyms - amazing, exciting, magnificent, stunning, impressive, thrilling  
+    Antonyms - disgusting, ugly, dull  
+
+237. Brevity - (संक्षिप्तता)  
+    Synonyms - crispness, conciseness, economy, succinctness, transience, condensation  
+    Antonyms - lengthiness, longevity, permanence  
+
+238. Bulldoze - (खट कर देना)  
+    Synonyms - flatten, raze, shove, thrust, crash, decimate  
+    Antonyms - build, construct, create  
+
+239. Baleful - (खतरनाक)  
+    Synonyms - malign, sinister, calamitous, pernicious, foreboding, dire  
+    Antonyms - auspicious, favorable, promising  
+
+240. Banal - (साधारण)  
+    Synonyms - commonplace, hackneyed, overused, trite  
+    Antonyms - fresh, new, original  
+
+241. Bashful - (संकोची)  
+    Synonyms - diffident, modest, shy, timid, coy, demure  
+    Antonyms - confident, unabashed, bold  
+
+242. Bedlam - (अव्यवस्था)  
+    Synonyms - chaos, commotion, furor, hubbub, tumult, pandemonium  
+    Antonyms - calm, peace, quiet  
+
+243. Befit - (अनुकूल होना)  
+243. Befit - (अनुकूल होना)  
+    Synonyms - agree, correspond, match, serve, suit, behove  
+    Antonyms - misfit, mismatch, disagree  
+
+244. Beguile - (बेवकूफ बनाना)  
+    Synonyms - betray, deceive, dupe, fool, mislead, hoodwink  
+    Antonyms - be honest, give  
+
+245. Belie - (झूठलाना)  
+    Synonyms - distort, falsify, pervert, twist, mislead, warp  
+    Antonyms - attest, prove, counsel  
+
+246. Bellicose - (लड़ाकू)  
+    Synonyms - belligerent, contentious, combative, hostile, pugnacious, truculent  
+    Antonyms - calm, easygoing, peaceful  
+
+247. Bemoan - (पछताना)  
+    Synonyms - bewail, complain, cry, deplore, lament, rue  
+    Antonyms - delight, rejoice, revel  
+
+248. Bemuse - (चौंकाना)  
+    Synonyms - daze, benumb, stun, stupefy, blunt, deaden  
+    Antonyms - enlighten, illuminate, clear up  
+
+249. Benign - (दयालु)  
+    Synonyms - benevolent, kind, altruistic, fortunate, propitious, good  
+    Antonyms - hostile, malignant, hurtful  
+
+250. Bestow - (दान करना /अर्पित करना)  
+    Synonyms - give, present, contribute, confer, grant, accord  
+    Antonyms - deprive, refuse, take  
+
+251. Bewitch - (सोहबत करना)  
+    Synonyms - charm, enchant, enthrall, spellbind, voodoo, beguile  
+    Antonyms - disenchant, disgust, turn off  
+
+252. Bigoted - (कट्टर)  
+    Synonyms - intolerant, prejudiced, dogmatic, narrow-minded, chauvinistic, fanatical  
+    Antonyms - tolerant, liberal, lenient  
+
+253. Blandish - (चापलूसी करना)  
+    Synonyms - cajole, coax, adulate, flatter, wheedle, butter up  
+    Antonyms - bully, force, repel, discourage  
+
+254. Boisterous - (उत्साही)  
+    Synonyms - blatant, clamorous, strident, vociferous, loudmouthed, effervescent  
+    Antonyms - calm, quiet, restrained  
+
+255. Bolster - (सहारा देना)  
+    Synonyms - buoy, prop, sustain, support, hold, cushion  
+    Antonyms - hinder, obstruct, prevent  
+
+256. Boorish - (अशिष्ट)  
+    Synonyms - crass, crude, uncouth, rude, vulgar, philistine  
+    Antonyms - cultured, refined, sophisticated  
+
+257. Bottleneck - (अवरोध)  
+    Synonyms - barrier, hindrance, obstruction, snag, jam, block  
+    Antonyms - help, push, assistance  
+
+258. Brash - (बेशर्म)  
+    Synonyms - impetuous, reckless, impudent, pert, maladroit  
+    Antonyms - cautious, discreet, careful  
+
+259. Brazen - (बेशर्मी)  
+    Synonyms - pushy, audacious, nervy, blatant, presumptuous, assuming  
+    Antonyms - shy, meek, humble  
+
+260. Browbeat - (धमकाना)  
+    Synonyms - bludgeon, intimidate, menace, threaten, bully  
+    Antonyms - compliment, coax, praise  
+
+261. Buffoon - (मसखरा)  
+    Synonyms - droll, fool, jester, zany, joker, wag  
+    Antonyms - charmer, enthusiast, exciter  
+
+262. Bungle - (गड़बड़ करना)  
+    Synonyms - blunder, flounder, fudge, fumble, muddle, boggle  
+    Antonyms - fix, manage, succeed  
+
+263. Buoy - (एक तैरती हुई वस्तु)  
+    Synonyms - float, drift, guide  
+    Antonyms - sink  
+
+[ C ]  
+
+264. Calm - (शांत)  
+    Synonyms - peaceful, quiet, serene, placid, detached, nonchalant  
+    Antonyms - turbulent, violent, wild  
+
+265. Casual - (अनौपचारिक)  
+    Synonyms - accidental, informal, natural, relaxed  
+    Antonyms - planned, premeditated, deliberate  
+
+266. Caustic - (तीखा)  
+    Synonyms - acerbic, biting, scathing, sharp, pungent  
+    Antonyms - calm, mild, soothing  
+
+267. Cautious - (सावधान)  
+    Synonyms - careful, prudent, wary  
+    Antonyms - rash, hasty, imprudent, unguarded  
+
+268. Cease - (रोकना)  
+    Synonyms - check, discontinue, halt, stall, arrest  
+    Antonyms - commence, continue, initiate  
+
+269. Certainty - (निश्चितता)  
+    Synonyms - assurance, confidence, conviction, sureness  
+    Antonyms - ambiguity, doubt, uncertainty  
+
+270. Charming - (आकर्षक)  
+    Synonyms - delightful, enchanting, attractive, appealing, lovely  
+    Antonyms - offensive, repellent, terrifying  
+
+271. Chaos - (अव्यवस्था)  
+    Synonyms - clutter, confusion, disarray, jumble, disorder  
+    Antonyms - calm, harmony, order  
+
+272. Cheater - (धोखेबाज़)  
+    Synonyms - swindler, trickster, crook, scammer, deceiver  
+    Antonyms - honest, truthful, simple  
+
+273. Check - (जाँच करना)  
+    Synonyms - arrest, stop, quit, stall, bridle, constrain  
+    Antonyms - allow, assist, permit  
+
+274. Committed - (प्रतिबद्ध)  
+    Synonyms - devoted, dedicated  
+    Antonyms - disloyal, unengaged  
+
+275. Cherish - (पोषण करना)  
+    Synonyms - nurture, treasure, foster, encourage  
+    Antonyms - abandon, forsake, renounce, discard  
+
+276. Chastise - (सजा देना)  
+    Synonyms - punish, admonish, scold, reprove  
+    Antonyms - cheer, comfort, encourage, stimulate  
+
+277. Clumsy - (अनाड़ी)  
+    Synonyms - awkward, graceless, unskilled, inept  
+    Antonyms - expert, dexterous, adroit  
+
+278. Coarse - (खुरदरा)  
+279. Coarse - (खुरदरा)  
+    Synonyms - crude, rough, uncivilized, uncouth, filthy  
+    Antonyms - smooth, refined, sophisticated  
+
+280. Collusion - (मिलीभगत)  
+    Synonyms - conspiracy, connivance, intrigue, plot  
+    Antonyms - discord, separation, estrangement  
+
+281. Commence - (शुरू करना)  
+    Synonyms - begin, embark, inaugurate, initiate, launch, undertake  
+    Antonyms - cease, finish, end  
+
+282. Compact - (सघन)  
+    Synonyms - dense, close, crowded, packed, tight, heavy  
+    Antonyms - loose, slack, uncondensed  
+
+283. Compel - (मजबूर करना)  
+    Synonyms - coerce, oblige, pressure, force, obligate, make  
+    Antonyms - impede, obstruct, hinder  
+
+284. Competent - (सक्षम)  
+    Synonyms - capable, skilled, proficient, efficient, decent, sufficient  
+    Antonyms - inefficient, incapable, inept  
+
+285. Compile - (संकलित करना)  
+    Synonyms - assemble, gather, garner, collate, consolidate  
+    Antonyms - disperse, disassemble, scatter  
+
+286. Complain - (शिकायत करना)  
+    Synonyms - grouch, grump, whine, fret, fuss, grieve  
+    Antonyms - applaud, commend, praise  
+
+287. Complex - (पेचीदा)  
+    Synonyms - complicated, intricate, elaborate, knotty, tangled  
+    Antonyms - evident, obvious, plain  
+
+288. Conceal - (छिपाना)  
+    Synonyms - block, hide, obscure, cloak, shroud, mask  
+    Antonyms - disclose, divulge, expose  
+
+289. Concise - (संक्षिप्त)  
+    Synonyms - brief, compendious, laconic, succinct, terse, summary  
+    Antonyms - expansive, elaborate, lengthy  
+
+290. Conflict - (विरोध करना)  
+    Synonyms - confrontation, hostility, strife, discord, dissent, variance  
+    Antonyms - agreement, concord, peace  
+
+291. Conquer - (जीतना)  
+    Synonyms - defeat, overcome, subdue, rout, surmount, vanquish  
+    Antonyms - retreat, succumb, yield  
+
+292. Consensus - (सर्वसम्मति से)  
+    Synonyms - unanimity, accord, agreement, consent  
+    Antonyms - disagreement, discord, dissonance  
+
+293. Consistent - (अनुकूल)  
+    Synonyms - accord, congruous, harmonious, unchanging  
+    Antonyms - incongruous, varying, erratic  
+
+294. Criterion - (मापदंड)  
+    Synonyms - measurement, test, standard  
+    Antonyms - fancy, probability, haphazard, conjecture  
+
+295. Covetous - (लालची)  
+    Synonyms - cupidity, avarice, greed, voracity  
+    Antonyms - liberality, benevolence, selfless, magnanimous  
+
+296. Corpulent - (मोटा तथा भारी)  
+    Synonyms - obese, ugly, fat, awkward  
+    Antonyms - thin, lean, slim, delicate  
+
+297. Convert - (परिवर्तित करना)  
+    Synonyms - change, transform  
+    Antonyms - persist, maintain, enduring, perpetual  
+
+298. Convenient - (सुविधाजनक)  
+    Synonyms - handy, suited, comfortable  
+    Antonyms - unsuitable, tedious, unpractical, fatiguing  
+
+299. Contrary - (विरोधी)  
+    Synonyms - dissimilar, conflicting, contradictory, opposite  
+    Antonyms - similar, alike, homogeneous, resembling  
+
+300. Contradict - (विपरीत होना)  
+    Synonyms - impugn, deny, oppose, confront  
+    Antonyms - approve, confirm, sanction, endorse  
+
+301. Catastrophe - (तबाही)  
+    Synonyms - disaster, calamity, misfortune, mishap  
+    Antonyms - prosperity, blessing, restoration, resurgence  
+
+302. Caricature - (व्यंग्य चित्र)  
+    Synonyms - exaggeration, imitation, ridicule, parody  
+    Antonyms - exactness, precision, reality, truth  
+
+303. Caress - (दुलारना)  
+    Synonyms - fondle, embrace, hug, snuggle  
+    Antonyms - repulse, spurn, displease, repel  
+
+304. Captivity - (कारावास)  
+    Synonyms - imprisonment, confinement, apprehend  
+    Antonyms - freedom, liberty, liberation, release  
+
+305. Capable - (लायक़)  
+    Synonyms - competent, suitable, qualified, able  
+    Antonyms - incompetent, inefficient, imbecile, inept  
+
+306. Cease - (रोकना)  
+    Synonyms - terminate, pause, desist, discontinue  
+    Antonyms - commence, continue, initiate, originate  
+
+307. Circumlocution - (घुमा फिराकर कहना)  
+    Synonyms - redundancy, verbosity, verbiage  
+    Antonyms - terseness, compression, directness, brevity  
+
+308. Commotion - (हलचल)  
+    Synonyms - turmoil, disturbance, agitation, excitement  
+    Antonyms - tranquility, stillness, quietness, calm  
+
+309. Cajole - (चापलूसी करना)  
+    Synonyms - blandish, coax, honey, wheedle, persuade, convince  
+    Antonyms - bully, force, repel  
+
+310. Candid - (सरल / साफ दिल का)  
+    Synonyms - downright, forthright, honest, ingenuous, plainspoken, straight  
+    Antonyms - deceitful, devious, crafty  
+
+311. Captivate - (मोह लेना)  
+    Synonyms - beguile, bewitch, charm, allure, enchant, entrance  
+    Antonyms - disgust, disillusion, repulse  
+
+312. Cessation - (अंत)  
+    Synonyms - closure, completion, end, termination, finish, discontinuation  
+    Antonyms - beginning, commencement, inception  
+312. Chaste - (पवित्र)  
+    Synonyms - decent, modest, nice, pure, virgin, virtuous  
+    Antonyms - corrupt, lewd, wanton  
+
+313. Chivalrous - (शौर्यवान)  
+    Synonyms - courtly, gallant, courageous, gracious, knightly, stately  
+    Antonyms - cowardly, frightened, humble  
+
+314. Circuitous - (घुमावदार)  
+    Synonyms - meandrous, circular, devious, indirect, oblique, tortuous  
+    Antonyms - straight, direct, in-line  
+
+315. Coax - (चापलूसी से कोई काम कराना)  
+    Synonyms - blandish, cajole, honey, wheedle, persuade, convince  
+    Antonyms - bully, force, repel  
+
+316. Coherent - (समझने में सरल)  
+    Synonyms - congruous, consistent, logical, meaningful, lucid, orderly  
+    Antonyms - illogical, irrational, unorganized  
+
+317. Colloquial - (बोलचाल संबंधी)  
+    Synonyms - chatty, confabulatory, conversational, informal, demotic, popular  
+    Antonyms - formal, standard, stilted  
+
+318. Colossal - (बड़ा बड़ा)  
+    Synonyms - behemoth, elephantine, gigantic, immense, jumbo, massy  
+    Antonyms - small, teeny, tiny  
+
+319. Combative - (लड़ाकू)  
+    Synonyms - bellicose, belligerent, contentious, hostile, quarrelsome  
+    Antonyms - agreeable, compromising, peaceful  
+
+320. Compendious - (संक्षिप्त)  
+    Synonyms - brief, concise, laconic, succinct, summary, terse  
+    Antonyms - enlarged, unabridged, lengthened  
+
+321. Complacent - (संतुष्ट)  
+    Synonyms - conceited, satisfied, content, serene, gratified, smug  
+    Antonyms - dissatisfied, discontented, concerned  
+
+322. Comply - (अनुपालन करना)  
+    Synonyms - abide by, adhere, conform, follow, obey, observe  
+    Antonyms - obstruct, prevent, block  
+
+323. Concede - (स्वीकार करना)  
+    Synonyms - acknowledge, admit, avow, confess, grant, accord  
+    Antonyms - contradict, repudiate, reject  
+
+324. Concord - (मेल खाना)  
+    Synonyms - accord, harmony, rapport, tune, symphony, pact  
+    Antonyms - discord, disunity, disagreement  
+
+325. Condone - (माफ करना)  
+    Synonyms - excuse, forgive, pardon, remit, ignore, overlook  
+    Antonyms - censure, condemn, punish  
+
+326. Confine - (सीमित रखना)  
+    Synonyms - circumscribe, limit, restrict, bar, closet, imprison  
+    Antonyms - free, liberate, release  
+
+327. Confiscate - (जप्त करना)  
+    Synonyms - grab, seize, snatch, annex, usurp, impound  
+    Antonyms - give, offer, release  
+
+328. Congregate - (एक करना)  
+    Synonyms - assemble, convene, cluster, muster, summon, gather  
+    Antonyms - divide, scatter, separate  
+
+329. Constraint - (बाधा)  
+    Synonyms - coercion, duress, circumscription, confinement, restriction, inhibition  
+    Antonyms - freedom, release, liberty  
+
+330. Content - (संतुष्ट करना)  
+    Synonyms - gratified, happy, satisfied, complacent, fulfilled, pleased  
+    Antonyms - depressed, upset, wanting  
+
+331. Conventional - (पारंपरिक)  
+    Synonyms - orthodox, recognized, sanctioned, traditional, formal, accepted  
+    Antonyms - exotic, unusual, strange  
+
+332. Cordial - (हादिक)  
+    Synonyms - affable, amiable, congenial, pleasant, sociable, warm  
+    Antonyms - hostile, indifferent, inhospitable  
+
+333. Counterfeit - (नकली)  
+    Synonyms - bogus, fake, fraudulent, phony, spurious, sham  
+    Antonyms - genuine, real, true  
+
+334. Cowardice - (कायरता)  
+    Synonyms - cravenness, dastardliness, funk, pusillanimity, unmanliness, timidity  
+    Antonyms - bravery, courage, fearlessness  
+
+335. Credible - (विश्वसनीय)  
+    Synonyms - believable, plausible, authentic, convincing, true, trustworthy  
+    Antonyms - implausible, unlikely, improbable  
+
+336. Crooked - (कुटील)  
+    Synonyms - bending, curved, corrupt, venal, dishonest, mercenary  
+    Antonyms - straight, honest, simple  
+
+337. Cumbersome - (कठिन / भारी-भरकम)  
+    Synonyms - heavy, lumpish, ponderous, hefty, inconvenient, unhandy  
+    Antonyms - graceful, adroit  
+
+338. Callous - (कठोर हृदय)  
+    Synonyms - hardened, heartless, unfeeling, apathetic, careless  
+    Antonyms - compassionate, sensitive, sympathetic  
+
+339. Camouflage - (छिपने का साधन)  
+    Synonyms - disguise, dissemble, dissimulate, mask, masquerade, deceptive  
+    Antonyms - reveal, show, uncover  
+
+340. Canker - (नासूर हो जाना)  
+    Synonyms - infect, poison, brutalize, debase, vitiate, pervert  
+    Antonyms - bless, elevate, upgrade  
+
+341. Censorious - (सख्त)  
+    Synonyms - captious, carping, critical, fault-finding, hypercritical, belittle  
+    Antonyms - laudatory, praising, flattering  
+
+342. Chary - (सावधान)  
+    Synonyms - cautious, circumspect, prudent, wary, sparing, thrifty  
+    Antonyms - heedless, rash, careless  
+
+343. Chastise - (सजा देना)  
+    Synonyms - castigate, penalize, discipline, admonish, rebuke, reprimand  
+    Antonyms - cheer, comfort, encourage  
+
+344. Cede - (झुकना)  
+    Synonyms - abandon, abdicate, demit, renounce, waive  
+    Antonyms - defend, guide, fight  
+
+345. Chide - (निंदा करना)  
+    Synonyms - admonish, castigate, rebuke, reprimand, reproach, scold  
+    Antonyms - compliment, laud, praise  
+346. Circumspect - (सावधान)  
+    Synonyms - careful, cautious, chary, wary, prudent, gingerly  
+    Antonyms - indiscreet, rash, audacious  
+
+347. Clamorous - (कोलाहलपूर्ण)  
+    Synonyms - blatant, boisterous, obstreperous, strident, vociferous, noisy  
+    Antonyms - quiet, restrained, silent  
+
+348. Clandestine - (गुप्त)  
+    Synonyms - covert, secret, closet, concealed, stealthy, surreptitious  
+    Antonyms - forthright, truthful, open  
+
+349. Clemency - (दया / तरस)  
+    Synonyms - charity, grace, lenience, mercy, compassion, forbearance  
+    Antonyms - cruelty, harshness, meanness  
+
+350. Cognizant - (जानकार)  
+    Synonyms - alive, awake, aware, sensible, sentient, wise  
+    Antonyms - ignorant, unaware, uninformed  
+
+351. Conciliate - (संतुष्ट करना)  
+    Synonyms - appease, assuage, calm, mollify, placate, pacify  
+    Antonyms - aggravate, incite, provoke  
+
+352. Concoct - (तैयार करना)  
+    Synonyms - contrive, devise, fabricate, formulate, hatch, invent  
+    Antonyms - divide, separate, detach  
+
+353. Conducive - (सहायक)  
+    Synonyms - contributive, helpful, leading, productive, accessory, promoting  
+    Antonyms - adverse, hindering, unfavorable  
+
+354. Conform - (अनुपालन करना)  
+    Synonyms - accord, chime, square, tally, match, befit  
+    Antonyms - differ, fight, refuse  
+
+355. Confound - (उलझाना)  
+    Synonyms - befuddle, bewilder, dizzy, jumble, muddle, discomfit  
+    Antonyms - clarify, enlighten, clear  
+
+356. Confront - (सामना करना)  
+    Synonyms - accost, encounter, face, dare, defy, stand up  
+    Antonyms - back, surrender, yield  
+
+357. Congenial - (अनुकूल, सौहार्दपूर्ण)  
+    Synonyms - affable, amiable, cordial, genial, pleasant, grateful  
+    Antonyms - incompatible, unfriendly, ill-suited  
+
+358. Congruity - (उपयुक्तता)  
+    Synonyms - accordance, agreement, conformity, harmony, consistency  
+    Antonyms - conflict, difference, variation  
+
+359. Contravene - (उलंघन करना)  
+    Synonyms - breach, break, infringe, violate, contradict, negate  
+    Antonyms - concur, consent, allow  
+
+360. Converge - (मिलना)  
+    Synonyms - close, center, channel, focalize, focus, meet  
+    Antonyms - disperse, diverge, scatter  
+
+361. Copious - (अधिक)  
+    Synonyms - abundant, ample, bounteous, generous, plentiful, substantial  
+    Antonyms - meager, needy, scarce  
+
+362. Cozy - (आरामदायक)  
+    Synonyms - comfortable, easy, snug, comfy, cushy, secure  
+    Antonyms - uncomfortable, afflictive, distressing  
+
+363. Crave - (लालायित होना)  
+    Synonyms - hunger, itch, lust, desire, implore, plead  
+    Antonyms - abjure, dislike, spurn  
+
+364. Cryptic - (छिपा हुआ)  
+    Synonyms - enigmatic, mysterious, hidden, secret, puzzling  
+    Antonyms - obvious, plain, seen  
+
+365. Curt - (संक्षिप्त)  
+    Synonyms - abrupt, blunt, brief, brusque, crusty, gruff  
+    Antonyms - gracious, lengthy, polite  
+
+366. Deadly - (घातक)  
+    Synonyms - fatal, lethal, mortal, ghastly, malignant, baneful  
+    Antonyms - nonfatal, harmless, lively  
+
+367. Decline - (पतन होना)  
+    Synonyms - refuse, reject, dismiss, fall, deteriorate, descend  
+    Antonyms - increase, rise, accept  
+
+368. Deficient - (कम)  
+    Synonyms - defective, lacking, wanting, inadequate, scarce  
+    Antonyms - flawless, adequate, sufficient  
+
+369. Dejected - (उदास)  
+    Synonyms - depressed, gloomy, desolate, melancholic, sad  
+    Antonyms - cheerful, happy, joyous  
+
+370. Delicate - (नाजुक)  
+    Synonyms - elegant, exquisite, fine, feeble, fragile, sensitive  
+    Antonyms - coarse, harsh, robust  
+
+371. Delight - (आनंदित होना)  
+    Synonyms - pleasure, joy, cheer, exult, rejoice, gladden, gratify  
+    Antonyms - trouble, sadden, dismay  
+
+372. Demolish - (नाश करना)  
+    Synonyms - destroy, destruct, raze, shatter, wreck, smash  
+    Antonyms - build, repair, restore  
+
+373. Deny - (मना करना)  
+    Synonyms - contradict, negate, disallow, reject, refuse, repudiate  
+    Antonyms - admit, allow, confess  
+
+374. Depart - (मार्ग से विचलित होना)  
+    Synonyms - exit, leave, retire, drop, demise, deviate  
+    Antonyms - arrive, come, enter  
+
+375. Depressed - (उदास)  
+    Synonyms - dejected, desolate, gloomy, sad, melancholic  
+    Antonyms - elated, exalted, happy  
+
+376. Deprive - (वंचित करना)  
+    Synonyms - dispossess, divest, rob, strip, disinherit, bereave  
+    Antonyms - bestow, endow, confer  
+
+377. Despair - (निराश)  
+    Synonyms - anguish, dejection, melancholy, misery, sorrow  
+    Antonyms - joy, cheerfulness, happiness  
+
+378. Detached - (अलग)  
+    Synonyms - isolated, solitary, indifferent, apathetic  
+    Antonyms - attached, combined, involved  
+
+379. Detain - (बंदी बनाना)  
+    Synonyms - delay, retard, hold, lag, confine, imprison  
+    Antonyms - liberate, release, free  
+
+380. Deteriorate - (बिगड़ जाना / बदहाल होना)  
+    Synonyms - decline, worsen, languish, degenerate, spoil  
+    Antonyms - improve, strengthen, better  
+
+381. Devastate - (सर्वनाश करना)  
+    Synonyms - ruin, ravage, demolish, wreck, destroy, despoil  
+    Antonyms - build, construct, restore  
+382. Diligent - (मेहनती)  
+    Synonyms - assiduous, industrious, attentive, conscientious  
+    Antonyms - languid, lazy, lethargic  
+
+383. Din - (शोर मचाना)  
+    Synonyms - clamor, hubbub, noise, pandemonium, tumult, uproar  
+    Antonyms - calm, peace, quiet  
+
+384. Diplomatic - (कूटनीतिक)  
+    Synonyms - discreet, sensitive, tactful, politic, astute, adept  
+    Antonyms - artless, tactless, boorish  
+
+385. Discard - (फेंकना)  
+    Synonyms - dispose of, jettison, abdicate, eliminate, expel, banish  
+    Antonyms - embrace, retain, keep  
+
+386. Disclose - (भेद खोलना)  
+    Synonyms - bare, show, unveil, convey, transmit, impart  
+    Antonyms - conceal, hide, withhold  
+
+387. Disgusting - (खराब)  
+    Synonyms - horrid, repulsive, abhorrent, repugnant, shabby  
+    Antonyms - pleasant, delightful, inviting  
+
+388. Disperse - (बिखरना)  
+    Synonyms - dissipate, scatter, diffuse, disseminate, spread, strew  
+    Antonyms - assemble, collect, garner  
+
+389. Disrupt - (बाधित करना)  
+    Synonyms - disturb, unsettle, upset, disarray, disorganized, derange  
+    Antonyms - arrange, organize, reassure  
+
+390. Distant - (दूरस्थ)  
+    Synonyms - far, far away, remote, offish, reticent, solitary  
+    Antonyms - adjacent, close, neighboring  
+
+391. Distinct - (विशिष्ट, अलग)  
+    Synonyms - clear, sharp, pronounced, visible, manifest, unambiguous  
+    Antonyms - fuzzy, hazy, vague  
+
+392. Distinguished - (विशिष्ट)  
+    Synonyms - eminent, famed, noted, prominent, celebrated, renowned  
+    Antonyms - obscure, unimportant, inferior  
+
+393. Docile - (विनम्र)  
+    Synonyms - gentle, meek, amenable, compliant, submissive, mild  
+    Antonyms - inflexible, obstinate, stubborn  
+
+394. Doldrums - (उदासी)  
+    Synonyms - dejection, depression, blues, gloom, melancholy, mournfulness  
+    Antonyms - elation, glee, joy  
+
+395. Dominant - (प्रभावशाली)  
+    Synonyms - commanding, governing, ruling, authoritative, prevailing  
+    Antonyms - humble, modest, reserved  
+
+396. Downfall - (पतन)  
+    Synonyms - descent, collapse, fall, bane, ruination, undoing  
+    Antonyms - ascent, rise, success  
+
+397. Drastic - (शक्तिशाली)  
+    Synonyms - dire, radical, strong, forceful, harsh, exorbitant  
+    Antonyms - calm, easy, superficial  
+
+398. Dreadful - (डरावना)  
+    Synonyms - appalling, direful, fearful, frightful, horrendous  
+    Antonyms - pleasant, wonderful, inoffensive  
+
+399. Drowsy - (सुस्त / आलसी)  
+    Synonyms - dozy, sleepy, slumberous, somnolent, soporific, nodding  
+    Antonyms - alert, awake, lively  
+
+400. Dubious - (संशय)  
+    Synonyms - doubtful, skeptical, uncertain, ambiguous, questionable  
+    Antonyms - certain, reliable, trustworthy  
+
+401. Dumb - (गूंगा)  
+    Synonyms - inarticulate, mute, silent, stupid, dimwitted  
+    Antonyms - articulate, vocal, smart  
+
+402. Dupe - (धोखा देना)  
+    Synonyms - deceive, beguile, misguide, cross, fool, trick  
+    Antonyms - guide, lead, advise  
+
+403. Daredevil - (निडर)  
+    Synonyms - bold, daring, enterprising, adventurous, audacious, courageous  
+    Antonyms - cautious, meek, prudent  
+
+404. Dazzle - (चकाचौंध करना)  
+    Synonyms - awe, overpower, stupefy, astonish, strike, surprise  
+    Antonyms - bore, calm, expect  
+
+405. Dawdle - (समय नष्ट करना)  
+    Synonyms - loiter, linger, lag, fiddle, procrastinate, delay  
+    Antonyms - hasten, hurry, rush  
+
+406. Deface - (बिगाड़ना)  
+    Synonyms - contort, disfigure, distort, tarnish, trash, spoil  
+    Antonyms - adorn, decorate, mend  
+
+407. Defame - (बदनाम करना)  
+    Synonyms - asperse, malign, slander, slur, vilify, backbite  
+    Antonyms - commend, praise, compliment  
+
+408. Default - (गलती करना)  
+    Synonyms - failure, neglect, omission, delinquency, dereliction, error  
+    Antonyms - advantage, perfection, success  
+
+409. Defend - (बचाव करना)  
+    Synonyms - guard, protect, safeguard, preserve, shield, ward  
+    Antonyms - attack, quit, relinquish  
+
+410. Defer - (विलंब करना)  
+    Synonyms - adjourn, delay, block, hinder, prolong, procrastinate  
+    Antonyms - expedite, forward, hasten  
+
+411. Deference - (सम्मान)  
+    Synonyms - honour, respect, compliance, amenability, submission  
+    Antonyms - disobedience, noncompliance  
+
+412. Defiance - (अनादर)  
+    Synonyms - challenge, contempt, resistance, provocation  
+    Antonyms - regard, respect, submission  
+
+413. Degradation - (दर्जा घटाना)  
+    Synonyms - demotion, reduction, abasement, debasement, mortification  
+    Antonyms - elevation, upgrade, promotion  
+
+414. Deliberate - (सोच-समझकर किया गया)  
+    Synonyms - intentional, purposeful, voluntary, calculated, considered, premeditated  
+    Antonyms - indeterminate, chance, unintentional  
+
+415. Deplete - (खाली करना)  
+    Synonyms - drain, exhaust, impoverish, sap, use up, desiccate  
+    Antonyms - add, augment, fill  
+
+416. Depreciate - (घटना)  
+    Synonyms - decrease, diminish, reduce, lessen, lower  
+    Antonyms - appreciate, increase, enhance  
+416. Depreciate - (घटना)  
+    Synonyms - devalue, downgrade, denigrate, derogate, belittle, decry  
+    Antonyms - gain, raise, increase  
+
+417. Derogatory - (अपमानजनक)  
+    Synonyms - disparaging, slighting, detractive, humiliating, disdainful  
+    Antonyms - appreciative, complimentary, flattering  
+
+418. Descent - (पतन)  
+    Synonyms - decline, fall, downfall, slide, ancestry, lineage  
+    Antonyms - ascent, elevation, upgrade  
+
+419. Despot - (तानाशाह)  
+    Synonyms - dictator, totalitarian, authoritarian, tyrant, oppressor  
+    Antonyms - democrat, subordinate, underling  
+
+420. Deter - (मना करना)  
+    Synonyms - discourage, dissuade, divert, block, debar, obstruct  
+    Antonyms - encourage, promote, stimulate  
+
+421. Detest - (घृणा करना)  
+    Synonyms - abhor, abominate, despise, execrate, hate, loathe  
+    Antonyms - adore, cherish, like  
+
+422. Detrimental - (हानिकारक)  
+    Synonyms - deleterious, harmful, evil, adverse, inimical, pernicious  
+    Antonyms - assisting, beneficial, advantageous  
+
+423. Devise - (योजना बनाना)  
+    Synonyms - concoct, hatch, fabricate, formulate, contrive, forge  
+    Antonyms - destroy, ruin, destruct  
+
+424. Dexterous - (निपुण)  
+    Synonyms - adroit, deft, artful, facile, skillful, nimble  
+    Antonyms - awkward, clumsy, inept  
+
+425. Discrepancy - (असहमति)  
+    Synonyms - difference, disparity, divergence, inconsistency, incongruity  
+    Antonyms - concurrence, parity, consistency  
+
+426. Discrete - (अलग)  
+    Synonyms - distinct, separate, singular, particular, individual, single  
+    Antonyms - attached, combined, joined  
+
+427. Discriminate - (अंतर करना)  
+    Synonyms - differentiate, discern, distinguish, mark, singularize, characterize  
+    Antonyms - associate, connect, group  
+
+428. Disgrace - (लज्जित करना)  
+    Synonyms - humiliation, ignominy, disrepute, dishonor, shame  
+    Antonyms - esteem, honor, regard  
+
+429. Dismal - (उदास)  
+    Synonyms - gloomy, depressing, sad, bleak, desolate, somber  
+    Antonyms - bright, sunny, pleasant  
+
+430. Dismantle - (टुकड़े टुकड़े करना)  
+    Synonyms - disassemble, dismount, pulverize, raze, tear, wreck  
+    Antonyms - assemble, construct, build  
+
+431. Disparity - (असमानता)  
+    Synonyms - discrepancy, divergence, difference, incongruity, inconsistency  
+    Antonyms - equality, similarity, sameness  
+
+432. Dispel - (हटाना)  
+    Synonyms - banish, dismiss, disperse, dissipate, repel, scatter  
+    Antonyms - accumulate, garner, recall  
+
+433. Dissuade - (रोकना)  
+    Synonyms - deter, discourage, divert, disincline, remonstrate, derail  
+    Antonyms - induce, advise, persuade  
+
+434. Distress - (दुख होना)  
+    Synonyms - affliction, anguish, agony, angst, anxiety, concern  
+    Antonyms - comfort, happiness, pleasure  
+
+435. Dogged - (जिद्दी)  
+    Synonyms - bullheaded, mulish, obstinate, tenacious, headstrong, willful  
+    Antonyms - willing, weak, yielding  
+
+436. Dogmatic - (कड़क)  
+    Synonyms - authoritarian, bossy, dictatorial, overbearing  
+    Antonyms - amenable, flexible, submissive  
+
+437. Dormant - (सुस्त)  
+    Synonyms - inactive, latent, quiescent, abeyant, inert, inoperative  
+    Antonyms - active, lively, bustling  
+
+438. Draconian - (निर्दयी)  
+    Synonyms - brutal, cruel, oppressive, rough, severe, drastic  
+    Antonyms - kind, merciful, sympathetic  
+
+439. Dreary - (निराशाजनक)  
+    Synonyms - bleak, dismal, gloomy, dark, somber, monotonous  
+    Antonyms - bright, pleasant, cheerful  
+
+440. Drudgery - (कठिन परिश्रम)  
+    Synonyms - labor, toil, grind, chore, travail, workout  
+    Antonyms - entertainment, fun, pastime  
+
+441. Dumbfound - (हैरान करना)  
+    Synonyms - boggle, flabbergast, floor, stagger, amaze, overwhelm  
+    Antonyms - explicate, explain, clear up  
+
+442. Dwindle - (कम करना)  
+    Synonyms - abate, diminish, decrease, drain, taper, lessen  
+    Antonyms - enhance, intensify, magnify  
+
+443. Dainty - (सुहावना)  
+    Synonyms - delicate, elegant, exquisite, fine, finicky, meticulous  
+    Antonyms - clumsy, coarse, harsh  
+
+444. Damn - (शाप देना)  
+    Synonyms - condemn, doom, sentence, curse, imprecate, cuss  
+    Antonyms - bless, commend, laud  
+
+445. Dampen - (नम करना)  
+    Synonyms - moisten, deaden, muffle, wet, sprinkle, stifle  
+    Antonyms - dry, scorch, shrivel  
+
+446. Dastardly - (डरपोक)  
+    Synonyms - chickenhearted, cowardly, craven, pusillanimous, unmanly, faint-hearted  
+    Antonyms - brave, courageous, audacious  
+
+447. Daunt - (हिचकिचाना)  
+    Synonyms - appall, consternate, dismay, horrify, shake, shock  
+    Antonyms - assist, embolden, incite  
+
+448. Dearth - (अभाव)  
+    Synonyms - absence, lack, want, deficit, depletion, paucity  
+    Antonyms - abundance, affluence, plenty  
+
+449. Debase - (मूल्य कम करना)  
+    Synonyms - cheapen, degrade, demean, downgrade, adulterate, stain  
+    Antonyms - laud, praise, upgrade  
+
+450. Debilitate - (कमज़ोर बनाना)  
+    Synonyms - attenuate, devitalize, enervate, enfeeble, undermine, undo  
+    Antonyms - assist, invigorate, energize  
+
+451. Deceit - (बेईमानी)  
+    Synonyms - deception, fraud, trickery, dishonesty, duplicity  
+    Antonyms - honesty, integrity, truthfulness  
+451. Deceit - (बेईमानी)  
+    Synonyms - deception, duplicity, guile, cunningness, craftiness  
+    Antonyms - frankness, openness, uprightness  
+
+452. Decry - (बदनाम करना)  
+    Synonyms - belittle, denigrate, depreciate, detract, disparage, slight  
+    Antonyms - applaud, compliment, exalt  
+
+453. Deft - (कुशल)  
+    Synonyms - adroit, artful, dexterous, facile, slick, nimble  
+    Antonyms - awkward, clumsy, inept  
+
+454. Defunct - (मरा हुआ)  
+    Synonyms - dead, extinct, lifeless, vanquished, deceased, departed  
+    Antonyms - existent, operative, functioning  
+
+455. Defy - (अनादर करना)  
+    Synonyms - brave, challenge, dare, flout, disobey, violate  
+    Antonyms - obey, surrender, yield  
+
+456. Demean - (नीचा दिखाना)  
+    Synonyms - abase, degrade, humble, humiliate, downgrade  
+    Antonyms - enhance, improve, upgrade  
+
+457. Denounce - (निंदा करना)  
+    Synonyms - censure, condemn, deplore, accuse, arraign, charge  
+    Antonyms - approve, commend, compliment  
+
+458. Deplore - (खेद व्यक्त करना)  
+    Synonyms - reprehend, reprobate, rue, regret, repent, denounce  
+    Antonyms - approve, rejoice, revel  
+
+459. Deprecate - (विरोध करना)  
+    Synonyms - disapprove, derogate, discountenance, detract, disfavor  
+    Antonyms - commend, endorse, compliment  
+
+460. Deride - (मजाक बनाना)  
+    Synonyms - jibe, jeer, jest, mock, ridicule, scoff  
+    Antonyms - flatter, revere, regard  
+
+461. Desist - (छोड़ देना)  
+    Synonyms - abandon, quit, relinquish, remit, discontinue, break off  
+    Antonyms - endure, persevere, resume  
+
+462. Deviate - (राह से भटकना)  
+    Synonyms - depart, digress, stray, swerve, veer, wander  
+    Antonyms - stay, keep, remain  
+
+463. Devoid - (खाली)  
+    Synonyms - barren, destitute, empty, lacking, void, wanting  
+    Antonyms - occupied, full, filled  
+
+464. Diehard - (मुस्किल से छुटना)  
+    Synonyms - adamant, grim, incompliant, stubborn, relentless, unyielding  
+    Antonyms - liberal, amenable, facile  
+
+465. Difficience - (संकोच)  
+    Synonyms - bashful, coy, demure, timid, modest, retiring  
+    Antonyms - bold, confident, aggressive  
+
+466. Diminutive - (अति छोटा)  
+    Synonyms - dwarf, pygmy, tiny, wee, minuscule, miniature  
+    Antonyms - huge, giant, large  
+
+467. Dingy - (गंदा)  
+    Synonyms - shabby, shoddy, sleazy, tattered, decrepit, mangy  
+    Antonyms - immaculate, spotless, preserved  
+
+468. Dire - (खतरनाक)  
+    Synonyms - baneful, grave, ominous, portentous, critical, apocalyptic  
+    Antonyms - cheerful, promising, happy  
+
+469. Discerning - (समझदार)  
+    Synonyms - discriminating, perceptive, clear, tactful, critical, percipient  
+    Antonyms - negligent, overlooking, unobservant  
+
+470. Discordant - (असंगत)  
+    Synonyms - contradictory, disagreeing, divergent, incongruous, antagonistic, discrepant  
+    Antonyms - harmonious, agreeing, reconciled  
+
+471. Disgruntled - (निराश, असंतुष्ट)  
+    Synonyms - disappoint, discontent, dissatisfy, annoy, irritate, irk  
+    Antonyms - delight, excite, please  
+
+472. Disguise - (छिपाना)  
+    Synonyms - cloak, facade, pretense, sham, semblance, masquerade  
+    Antonyms - honesty, truth, openness  
+
+473. Dismay - (निराश करना)  
+    Synonyms - anxiety, apprehension, fright, panic  
+    Antonyms - assurance, confidence  
+
+474. Dismissive - (खारिज करने वाला)  
+    Synonyms - disdainful, contemptuous, haughty, overbearing  
+    Antonyms - meek, modest, humble  
+
+475. Dissent - (असहमत होना)  
+    Synonyms - confrontation, contention, discord, friction, strife, variance  
+    Antonyms - endorsement, ratification, approval  
+
+476. Dissipate - (बिगड़ना)  
+    Synonyms - dispel, disperse, scatter, consume, squander, waste  
+    Antonyms - accumulate, gather, hoard  
+
+477. Distraught - (परेशान)  
+    Synonyms - demented, maniac, dotty, insane, disordered, distracted  
+    Antonyms - untroubled, gladdened, calm  
+
+478. Divest - (छीनना)  
+    Synonyms - deprive, dispossess, rob, strip, bare, expose  
+    Antonyms - confer, bestow, cover  
+
+479. Divulge - (खुलासा करना)  
+    Synonyms - expose, reveal, uncover, betray, blab  
+    Antonyms - conceal, hide, suppress  
+
+480. Dunce - (मूर्ख)  
+    Synonyms - blockhead, dullard, buffoon, chump, dolt, clod  
+    Antonyms - brilliant, genius, charmer  
+
+481. Ebb - (कम होना)  
+    Synonyms - abatement, letup, wane, dwindling, drop, slackening  
+    Antonyms - incline, increase, rise  
+
+482. Efficacy - (क्षमता, प्रभाव)  
+    Synonyms - effect, potency, competence, influence, strength, power  
+    Antonyms - inefficiency, unproductiveness, uselessness  
+
+483. Elegant - (सुंदर)  
+    Synonyms - graceful, exquisite, delicate, fine, stylish, pleasing  
+    Antonyms - crude, unrefined, rough  
+
+484. Elongate - (लंबा करना)  
+    Synonyms - extend, lengthen, prolong, stretch, spin, increase  
+    Antonyms - construct, contract, shorten  
+
+485. Eminent - (विशिष्ट)  
+    Synonyms - celebrated, established, illustrious, notable, famed, prominent  
+486. Emit - (छोड़ना)  
+    Synonyms - release, vent, let out, let off, project, radiate  
+    Antonyms - contain, repress, withhold  
+
+487. Enhance - (बढ़ाना)  
+    Synonyms - aggravate, heighten, intensify, boost, embellish  
+    Antonyms - lower, minimize, reduce  
+
+488. Enormous - (विशाल)  
+    Synonyms - giant, herculean, immense, mammoth, massive  
+    Antonyms - insignificant, minute, tiny  
+
+489. Erase - (मिटाना)  
+    Synonyms - delete, efface, expunge, obliterate, abolish  
+    Antonyms - add, insert, create  
+
+490. Erratic - (अनियमित)  
+    Synonyms - inconsistent, spotty, capricious, temperamental, volatile  
+    Antonyms - regular, steady, consistent  
+
+491. Essential - (अनिवार्य)  
+    Synonyms - basic, fundamental, vital, integral, elementary, requisite  
+    Antonyms - auxiliary, subsidiary  
+
+492. Eternal - (निरंतर)  
+    Synonyms - everlasting, infinite, incessant, perpetual, immortal  
+    Antonyms - ephemeral, transient  
+
+493. Evident - (साफ)  
+    Synonyms - apparent, obvious, pronounced, visible, manifest  
+    Antonyms - obscure, vague, uncertain  
+
+494. Exaggerate - (बढ़ा-चढ़ाकर कहना)  
+    Synonyms - magnify, overstate, hyperbolize, boast, emphasize  
+    Antonyms - play down, understate, depreciate  
+
+495. Excel - (से बढ़कर होना)  
+    Synonyms - outshine, surpass, outdo, exceed, transcend  
+    Antonyms - fail, lose, fall behind  
+
+496. Excessive - (अधिक)  
+    Synonyms - exorbitant, extreme, immoderate, extravagant, profligate  
+    Antonyms - moderate, reasonable, insufficient  
+
+497. Exclude - (निकाल देना)  
+    Synonyms - debar, eliminate, bar, except, rule out  
+    Antonyms - accept, include, allow  
+
+498. Excuse - (माफ करना)  
+    Synonyms - condone, remit, absolve, spare, relieve  
+    Antonyms - blame, condemn, incriminate  
+
+499. Execute - (पालन करना)  
+    Synonyms - do, perform, exercise, implement, effectuate  
+    Antonyms - forego, mismanage, neglect  
+
+500. Exemplary - (उदाहरणात्मक)  
+    Synonyms - admirable, commendable, meritorious, worthy, praiseworthy  
+    Antonyms - contemptible, repugnant, loathsome  
+
+501. Exhaustive - (थकाने वाला)  
+    Synonyms - intensive, thorough, complete, extensive, profound  
+    Antonyms - incomplete, deficient  
+
+502. Expel - (निकाल देना)  
+    Synonyms - banish, deport, exile, ostracize, dismiss  
+    Antonyms - allow, keep, welcome  
+
+503. Expensive - (महँगा)  
+    Synonyms - costly, dear, high, exorbitant, over-priced  
+    Antonyms - cheap, inexpensive, moderate  
+
+504. Exile - (देश से निकालना)  
+    Synonyms - banishment, deportation, expatriation, extradition, ostracism  
+    Antonyms - import, arrival, entrance  
+
+505. Extend - (बढ़ाना)  
+    Synonyms - expand, outstretch, prolong, unfold, protract  
+    Antonyms - contract, curtail, shorten  
+
+506. Extensive - (बहुत बड़ा)  
+    Synonyms - large-scale, considerable, far-reaching, expansive  
+    Antonyms - narrow, restricted, limited  
+
+507. Extinct - (विलुप्त)  
+    Synonyms - dead, defunct, lifeless, departed, vanished  
+    Antonyms - alive, extant, existing  
+
+508. Extinguish - (बुझाना)  
+    Synonyms - douse, quench, annihilate, abolish, quash  
+    Antonyms - light, enact, establish  
+
+509. Extravagant - (खर्चीला)  
+    Synonyms - lavish, prodigal, exorbitant, spendthrift, opulent  
+    Antonyms - stingy, thrifty, economical  
+
+510. Extrovert - (बिहारी)  
+    Synonyms - gregarious, outgoing, communicative, unreserved, loud  
+    Antonyms - introvert, reserved, quiet  
+
+511. Egotism - (अहंकार)  
+    Synonyms - pride, vanity, arrogance, boastfulness, immodesty  
+    Antonyms - humility, meekness, servility  
+
+512. Elaborate - (विस्तार में कहना)  
+    Synonyms - amplify, develop, enlarge, expand, expatiate  
+    Antonyms - simplify, abridge, decipher  
+
+513. Elated - (उत्साहित)  
+    Synonyms - elevated, overjoyed, happy, cheerful, excited  
+    Antonyms - depressed, dejected, dismayed  
+
+514. Elevate - (ऊपर उठाना)  
+    Synonyms - heightened, exalted, eloquent, noble, august  
+    Antonyms - condemned, denounced, humiliated  
+
+515. Elicit - (सार निकालना)  
+    Synonyms - draw, educe, evoke, summon, extract  
+    Antonyms - insert, repress, suppress  
+
+516. Elite - (कुलीन वर्ग)  
+    Synonyms - nobility, aristocracy, gentry, pick, quality  
+    Antonyms - common, ordinary, mediocre  
+
+517. Eloquent - (उत्साही बोली)  
+    Synonyms - articulate, exalted, significant, meaningful, expressive  
+    Antonyms - dull, insignificant, meaningless  
+
+518. Elucidate - (स्पष्ट करना)  
+    Synonyms - clarify, expound, illuminate, illustrate, explain  
+    Antonyms - confuse, distract, obscure  
+
+519. Elusive - (मायावी)  
+    Synonyms - evasive, slippery, cagey, deceptive, baffling  
+    Antonyms - comprehensible, forthright, upright  
+
+520. Emancipate - (आज़ाद करना)  
+    Synonyms - liberate, free, release, discharge, unshackle  
+    Antonyms - imprison, restrain, confine  
+521. Embittered - (कड़वाहट से भरा)  
+    Synonyms - acrimonious, bitter, rancorous, resentful, virulent  
+    Antonyms - content, genial, pleasant  
+
+522. Endeavour - (कोशिश करना)  
+    Synonyms - attempt, effort, exertion, pain, struggle  
+    Antonyms - idleness, laziness, ease  
+
+523. Endorse - (समर्थन करना)  
+    Synonyms - approve, authorize, consent, advocate, recommend  
+    Antonyms - censure, reject, protest  
+
+524. Enduring - (सहनशील)  
+    Synonyms - abiding, continuing, durable, lasting, persistent  
+    Antonyms - ephemeral, fleeting, transient  
+
+525. Enervate - (कमज़ोर करना)  
+    Synonyms - attenuate, weaken, undermine, unnerve  
+    Antonyms - energize, empower, invigorate  
+
+526. Enigmatic - (रहस्यमय)  
+    Synonyms - mysterious, puzzling, cryptic, arcane  
+    Antonyms - simple, plain, obvious  
+
+527. Enmity - (शत्रुता)  
+    Synonyms - animosity, antipathy, hostility, hatred  
+    Antonyms - friendship, affinity, love  
+
+528. Enthrall - (मोहित करना)  
+    Synonyms - bewitch, charm, enchant, spellbind  
+    Antonyms - repel, bore, bother  
+
+529. Entice - (लोभन देना)  
+    Synonyms - allure, appeal, lure, seduce  
+    Antonyms - dissuade, repulse, disgust  
+
+530. Eradicate - (जड़ से उखाड़ना)  
+    Synonyms - abolish, exterminate, uproot, purge  
+    Antonyms - establish, institute, fix  
+
+531. Erode - (नष्ट करना)  
+    Synonyms - bite, corrode, wear, gnaw  
+    Antonyms - build, construct, fix  
+
+532. Escalate - (बढ़ाना)  
+    Synonyms - aggrandize, amplify, burgeon, mount  
+    Antonyms - diminish, lower, weaken  
+
+533. Esteem - (मानना)  
+    Synonyms - admiration, respect, appreciation, regard  
+    Antonyms - abuse, ridicule, mock  
+
+534. Eulogy - (शंसा भाषण)  
+    Synonyms - acclamation, commendation, compliment  
+    Antonyms - calumny, condemnation, criticism  
+
+535. Evade - (टाल-मटोल करना)  
+    Synonyms - avoid, dodge, elude, circumvent  
+    Antonyms - face, meet, confront  
+
+536. Exertion - (कोशिश)  
+    Synonyms - application, endeavour, effort, struggle  
+    Antonyms - idleness, laziness, relaxation  
+
+537. Exhilarating - (खुश करने वाला)  
+    Synonyms - bracing, refreshing, invigorating  
+    Antonyms - agitating, depressing, boring  
+
+538. Expedite - (जल्दी करना)  
+    Synonyms - accelerate, hasten, facilitate  
+    Antonyms - cease, hinder, halt  
+
+539. Explicit - (स्पष्ट)  
+    Synonyms - categorical, definite, precise  
+    Antonyms - ambiguous, vague, unclear  
+
+540. Earnest - (गंभीर)  
+    Synonyms - grave, serious, solemn  
+    Antonyms - flippant, frivolous, funny  
+
+541. Eccentric - (सनकी)  
+    Synonyms - bizarre, erratic, weird  
+    Antonyms - plain, regular, conventional  
+
+542. Ecstatic - (उत्साहित)  
+    Synonyms - delirious, euphoric, elated  
+    Antonyms - tormented, sorrowful, despaired  
+
+543. Eerie - (भयानक)  
+    Synonyms - uncanny, weird, mysterious  
+    Antonyms - normal, mundane, ordinary  
+
+544. Efface - (मिटा देना)  
+    Synonyms - annul, obliterate, erase  
+    Antonyms - retain, validate, keep  
+
+545. Effuse - (उंडेलना)  
+    Synonyms - pour, emanate, radiate  
+    Antonyms - fill, close, stop  
+
+546. Elude - (टालना)  
+    Synonyms - avoid, bypass, escape  
+    Antonyms - encounter, invite, face  
+
+547. Emaciated - (दुबला)  
+    Synonyms - feeble, gaunt, drained  
+    Antonyms - plump, overweight, robust  
+
+548. Empathy - (सहानुभूति)  
+    Synonyms - sympathy, compassion, rapport  
+    Antonyms - apathy, indifference, disdain  
+
+549. Emulate - (नकल करना)  
+    Synonyms - imitate, follow, rival  
+    Antonyms - abandon, desert, ignore  
+
+550. Enchant - (मंत्रमुग्ध करना)  
+    Synonyms - bewitch, charm, captivate  
+    Antonyms - disgust, repel, bore  
+
+551. Ennui - (उबन)  
+    Synonyms - boredom, monotony, fatigue  
+    Antonyms - excitement, vigor, enthusiasm  
+
+552. Euphemism - (कोमल भाषा)  
+    Synonyms - circumlocution, grandiloquence  
+    Antonyms - directness, bluntness  
+
+553. Evict - (खारिज करना)  
+    Synonyms - dismiss, expel, oust  
+    Antonyms - admit, welcome, include  
+
+554. Evince - (दर्शाना)  
+    Synonyms - demonstrate, display, reveal  
+    Antonyms - conceal, hide, cover  
+
+555. Exacerbate - (बिगाड़ना)  
+    Synonyms - aggravate, intensify, worsen  
+    Antonyms - alleviate, soothe, mitigate  
+556. Exacerbate - (बिगाड़ना)  
+    Synonyms - annoy, embitter, enrage, inflame, aggravate  
+    Antonyms - calm, comfort, soothe  
+
+557. Exculpate - (दोषमुक्त करना)  
+    Synonyms - absolve, clear, exonerate, vindicate, acquit  
+    Antonyms - blame, condemn, sentence  
+
+558. Exalt - (प्रशंसा करना)  
+    Synonyms - glorify, uplift, eulogize, extol, laud  
+    Antonyms - castigate, debase, denounce  
+
+559. Exasperate - (चिढ़ाना)  
+    Synonyms - annoy, bother, irk, provoke  
+    Antonyms - placate, please, soothe  
+
+560. Exhort - (समझाना)  
+    Synonyms - press, urge, encourage, prod  
+    Antonyms - approve, commend, compliment  
+
+561. Exigency - (ज़रूरत)  
+    Synonyms - distress, necessity, trouble  
+    Antonyms - ease, calmness, ordinariness  
+
+562. Exonerate - (से मुक्ति देना)  
+    Synonyms - absolve, vindicate, clear, exculpate  
+    Antonyms - accuse, incriminate, condemn  
+
+563. Exorbitant - (हद से ज़्यादा)  
+    Synonyms - excessive, immoderate, extravagant  
+    Antonyms - moderate, inexpensive, reasonable  
+
+564. Expunge - (मिटा देना)  
+    Synonyms - cancel, delete, efface, obliterate  
+    Antonyms - build, construct, create  
+
+565. Exquisite - (उत्तम)  
+    Synonyms - dainty, delicate, elegant, fine  
+    Antonyms - flawed, crude, inferior  
+
+566. Exterminate - (नाश करना)  
+    Synonyms - abolish, annihilate, eradicate, extirpate  
+    Antonyms - establish, institute, enact  
+
+567. Extol - (गुणगान करना)  
+    Synonyms - exalt, eulogize, honor, laud  
+    Antonyms - blame, criticize, calumniate  
+
+568. Extraneous - (विदेशी)  
+    Synonyms - alien, extrinsic, foreign, peripheral  
+    Antonyms - native, integral, appropriate  
+
+569. Extricate - (मुक्त करना)  
+    Synonyms - untangle, extract, liberate  
+    Antonyms - entangle, involve, insert  
+
+570. Extrinsic - (बाहरी)  
+    Synonyms - alien, foreign, outward, superficial  
+    Antonyms - intrinsic, integral, interior  
+
+571. Fabricate - (गढ़ना)  
+    Synonyms - devise, concoct, assemble  
+    Antonyms - destroy, ruin, wreck  
+
+572. Fabulous - (शानदार)  
+    Synonyms - amazing, astounding, phenomenal  
+    Antonyms - ordinary, simple, common  
+
+573. Facilitate - (आसान बनाना)  
+    Synonyms - ease, expedite, aid, promote  
+    Antonyms - block, detain, hinder  
+
+574. Fair - (ठीक, आकर्षक)  
+    Synonyms - attractive, gorgeous, benign  
+    Antonyms - partial, unjust, ugly  
+
+575. Faithful - (वफ़ादार)  
+    Synonyms - allegiant, loyal, trustworthy  
+    Antonyms - dishonest, unreliable, treacherous  
+
+576. Fake - (नकली चीज)  
+    Synonyms - bogus, counterfeit, phony  
+    Antonyms - genuine, original, true  
+
+577. Familiar - (परिचित)  
+    Synonyms - versed, acquainted, friendly  
+    Antonyms - foreign, strange, unremarkable  
+
+578. Fascinate - (वशीभूत करना)  
+    Synonyms - beguile, captivate, enchant  
+    Antonyms - bore, disenchant, repel  
+
+579. Fatal - (जानलेवा)  
+    Synonyms - deadly, lethal, mortal  
+    Antonyms - nourishing, harmless  
+
+580. Ferocious - (नृशंस)  
+    Synonyms - barbarous, cruel, fierce  
+    Antonyms - gentle, mild, tender  
+
+581. Fictitious - (काल्पनिक)  
+    Synonyms - fanciful, invented, artificial  
+    Antonyms - actual, factual, genuine  
+
+582. Filthy - (बात ही खराब)  
+    Synonyms - dirty, soiled, foul  
+    Antonyms - clean, pure, sterile  
+
+583. Finite - (सीमित)  
+    Synonyms - definite, limited, precise  
+    Antonyms - endless, infinite, unlimited  
+
+584. Flatter - (चापलूसी करना)  
+    Synonyms - adulate, praise, blandish  
+    Antonyms - belittle, castigate, condemn  
+
+585. Flaw - (खामी)  
+    Synonyms - blemish, defect, imperfection  
+    Antonyms - perfection, strength, fine point  
+
+586. Flexible - (लचीला)  
+    Synonyms - ductile, malleable, adaptable  
+    Antonyms - rigid, stiff, unyielding  
+
+587. Flourish - (फलना-फूलना)  
+    Synonyms - bloom, thrive, prosper  
+    Antonyms - languish, stunt, hinder  
+
+588. Fluctuate - (घटना बढ़ना)  
+    Synonyms - alter, oscillate, waver  
+    Antonyms - persist, hold, stay  
+
+589. Fluent - (धाराप्रवाह)  
+    Synonyms - easy, effortless, smooth  
+    Antonyms - uneven, intermittent, irregular  
+
+590. Foe - (शत्रु)  
+    Synonyms - enemy, adversary, antagonist  
+    Antonyms - friend, ally, supporter  
+591. Frank - (स्पष्टवादी)  
+    Synonyms - candid, forthright, straightforward, open  
+    Antonyms - secretive, evasive, divisive  
+
+592. Fraud - (धोखेबाज़)  
+    Synonyms - cheat, swindle, charlatan, impostor  
+    Antonyms - honest, ethical, forthright  
+
+593. Fundamental - (मौलिक)  
+    Synonyms - basic, elementary, essential, root  
+    Antonyms - trivial, unimportant, secondary  
+
+594. Futile - (बेकार)  
+    Synonyms - barren, useless, vain, fruitless  
+    Antonyms - useful, productive, fertile  
+
+595. Fainthearted - (डरपोक)  
+    Synonyms - cowardly, craven, gutless  
+    Antonyms - brave, courageous, fearless  
+
+596. Falter - (लड़खड़ाना)  
+    Synonyms - dither, stagger, waver, stumble  
+    Antonyms - persist, endure, maintain  
+
+597. Fanatic - (कट्टर)  
+    Synonyms - extremist, radical, zealot  
+    Antonyms - balanced, moderate, conservative  
+
+598. Fatigued - (थका हुआ)  
+    Synonyms - drained, exhausted, weary  
+    Antonyms - lively, refreshed, vigorous  
+
+599. Feasible - (व्यवहार्य)  
+    Synonyms - possible, practicable, viable  
+    Antonyms - inconceivable, unreasonable, unlikely  
+
+600. Felicitate - (अभिनंदन करना)  
+    Synonyms - commend, praise, honor  
+    Antonyms - condemn, reject, criticize  
+
+601. Fierce - (जंगली)  
+    Synonyms - ferocious, intense, violent  
+    Antonyms - gentle, tender, mild  
+
+602. Fleeting - (क्षणिक)  
+    Synonyms - momentary, ephemeral, transient  
+    Antonyms - long-lasting, permanent, enduring  
+
+603. Flimsy - (कमज़ोर)  
+    Synonyms - frail, feeble, insubstantial  
+    Antonyms - sturdy, substantial, tough  
+
+604. Flout - (अवहेलना करना)  
+    Synonyms - defy, disobey, violate  
+    Antonyms - honor, respect, obey  
+
+605. Fail - (हार)  
+    Synonyms - defeat, frustrate, thwart  
+    Antonyms - aid, assist, help  
+
+606. Forbid - (मना करना)  
+    Synonyms - ban, prohibit, disallow  
+    Antonyms - approve, authorize, permit  
+
+607. Forge - (नकली बनाना)  
+    Synonyms - fabricate, counterfeit, fake  
+    Antonyms - dismantle, disassemble, destroy  
+
+608. Formidable - (डरावना)  
+    Synonyms - daunting, challenging, intense  
+    Antonyms - easy, light, trivial  
+
+609. Fragile - (नाज़ुक)  
+    Synonyms - brittle, delicate, weak  
+    Antonyms - durable, strong, robust  
+
+610. Fragment - (टुकड़े टुकड़े होना)  
+    Synonyms - scrap, shard, particle  
+    Antonyms - whole, entirety, total  
+
+611. Frightful - (डरावना)  
+    Synonyms - appalling, dreadful, horrendous  
+    Antonyms - soothing, calming, pleasant  
+
+612. Frugality - (कम खर्च)  
+    Synonyms - thrift, economy, parsimony  
+    Antonyms - extravagance, wastefulness, lavishness  
+
+613. Frustrate - (निराश करना)  
+    Synonyms - thwart, foil, defeat  
+    Antonyms - assist, facilitate, enable  
+
+614. Fury - (रोष)  
+    Synonyms - rage, wrath, vehemence  
+    Antonyms - calm, peace, tranquility  
+
+615. Fussy - (आसानी से चीज़ों को न पसंद करने वाला)  
+    Synonyms - fastidious, particular, meticulous  
+    Antonyms - careless, easy-going, indifferent  
+
+616. Fallacious - (झूठा)  
+    Synonyms - false, misleading, erroneous  
+    Antonyms - correct, truthful, valid  
+
+617. Faraway - (बहुत दूर)  
+    Synonyms - distant, remote, far-flung  
+    Antonyms - close, near, nearby  
+
+618. Fastidious - (अवगुण ढूंढने वाला)  
+    Synonyms - meticulous, scrupulous, exacting  
+    Antonyms - indifferent, casual, uncritical  
+
+619. Fathom - (पूर्णता से समझना)  
+    Synonyms - comprehend, grasp, understand  
+    Antonyms - misunderstand, confuse, misinterpret  
+
+620. Feign - (झूठा नाटक करना)  
+    Synonyms - pretend, simulate, sham  
+    Antonyms - authenticate, substantiate, verify  
+
+621. Fervent - (जोश से भरा हुआ)  
+    Synonyms - ardent, passionate, zealous  
+    Antonyms - indifferent, apathetic, dispassionate  
+
+622. Fervor - (उत्साह)  
+    Synonyms - passion, zeal, enthusiasm  
+    Antonyms - apathy, indifference, disinterest  
+
+623. Fickle - (अस्थिर)  
+    Synonyms - capricious, erratic, inconsistent  
+    Antonyms - constant, reliable, stable  
+
+624. Fidelity - (वफ़ादारी)  
+    Synonyms - loyalty, allegiance, devotion  
+    Antonyms - treachery, disloyalty, infidelity  
+
+625. Flamboyant - (भड़कीला)  
+    Synonyms - showy, ostentatious, extravagant  
+    Antonyms - modest, plain, simple  
+626. Fledgling - (अनुभवहीन)  
+    Synonyms - beginner, novice, neophyte  
+    Antonyms - expert, veteran, professional  
+
+627. Forestall - (अनुमान करना)  
+    Synonyms - avert, prevent, preclude  
+    Antonyms - aid, help, permit  
+
+628. Forsake - (छोड़ देना)  
+    Synonyms - abandon, desert, leave  
+    Antonyms - rediscover, return, revert  
+
+629. Forthright - (खरा)  
+    Synonyms - candid, direct, honest  
+    Antonyms - devious, dishonest, evasive  
+
+630. Fortify - (मजबूत बनाना)  
+    Synonyms - strengthen, confirm, brace  
+    Antonyms - weaken, injure, impair  
+
+631. Fortitude - (साहस)  
+    Synonyms - bravery, courage, valor  
+    Antonyms - cowardice, timidity, weakness  
+
+632. Foster - (पालन-पोषण करना)  
+    Synonyms - nurture, promote, cultivate  
+    Antonyms - neglect, hinder, discourage  
+
+633. Foxy - (चालाक)  
+    Synonyms - cunning, crafty, sly  
+    Antonyms - naive, honest, straightforward  
+
+634. Fractious - (झगड़ालू)  
+    Synonyms - unruly, irritable, quarrelsome  
+    Antonyms - agreeable, cooperative, docile  
+
+635. Freak - (सनक)  
+    Synonyms - whim, eccentricity, fanatic  
+    Antonyms - normality, regularity, conformity  
+
+636. Fret - (झल्लाहट)  
+    Synonyms - worry, annoy, bother  
+    Antonyms - calm, soothe, pacify  
+
+637. Frigid - (उदासीन, ठंडा)  
+    Synonyms - icy, cold, frosty  
+    Antonyms - warm, hot, heated  
+
+638. Frivolous - (तुच्छ)  
+    Synonyms - silly, trivial, giddy  
+    Antonyms - serious, grave, important  
+
+639. Gaudy - (भड़कीला)  
+    Synonyms - flashy, garish, ostentatious  
+    Antonyms - modest, simple, understated  
+
+640. Genial - (मिलनसार)  
+    Synonyms - friendly, affable, cordial  
+    Antonyms - aloof, irritable, unfriendly  
+
+641. Ghastly - (डरावना)  
+    Synonyms - horrible, frightful, dreadful  
+    Antonyms - pleasant, delightful, lovely  
+
+642. Glaring - (साफ)  
+    Synonyms - obvious, flagrant, conspicuous  
+    Antonyms - subtle, concealed, hidden  
+
+643. Gluttonous - (लोभी)  
+    Synonyms - greedy, ravenous, voracious  
+    Antonyms - satisfied, full, quenched  
+
+644. Grandeur - (भव्यता)  
+    Synonyms - magnificence, glory, splendor  
+    Antonyms - insignificance, triviality, simplicity  
+
+645. Gratify - (संतुष्ट करना)  
+    Synonyms - please, satisfy, delight  
+    Antonyms - annoy, frustrate, irritate  
+
+646. Grave - (गंभीर)  
+    Synonyms - serious, weighty, solemn  
+    Antonyms - frivolous, trivial, lighthearted  
+
+647. Gregarious - (मिलनसार)  
+    Synonyms - social, outgoing, sociable  
+    Antonyms - reserved, introverted, unsociable  
+
+648. Grim - (निष्ठुर)  
+    Synonyms - stern, bleak, harsh  
+    Antonyms - cheerful, pleasant, bright  
+
+649. Grumble - (शिकायत करना)  
+    Synonyms - complain, mutter, murmur  
+    Antonyms - praise, compliment, commend  
+
+650. Gullible - (सीधा साधा)  
+    Synonyms - naive, credulous, trusting  
+    Antonyms - skeptical, astute, discerning  
+
+651. Grudge - (कुढ़ना)  
+    Synonyms - resentment, bitterness, animosity  
+    Antonyms - goodwill, kindness, affection  
+
+652. Gain - (लाभ होना)  
+    Synonyms - acquire, achieve, secure  
+    Antonyms - lose, forfeit, waste  
+
+653. Gala - (उत्सव)  
+    Synonyms - festive, joyous, celebratory  
+    Antonyms - somber, gloomy, dreary  
+
+654. Gallant - (साहसी)  
+    Synonyms - brave, heroic, chivalrous  
+    Antonyms - cowardly, timid, fearful  
+
+655. Generous - (उदार)  
+    Synonyms - magnanimous, giving, charitable  
+    Antonyms - stingy, miserly, selfish  
+
+656. Genius - (प्रतिभाशाली)  
+    Synonyms - brilliance, talent, aptitude  
+    Antonyms - incompetence, ineptitude, dullness  
+
+657. Gentle - (सौम्य)  
+    Synonyms - mild, tender, soft  
+    Antonyms - harsh, rough, severe  
+
+658. Genuine - (असली)  
+    Synonyms - authentic, real, sincere  
+    Antonyms - fake, counterfeit, fraudulent  
+
+659. Gigantic - (बहुत बड़ा)  
+    Synonyms - colossal, immense, huge  
+    Antonyms - tiny, minuscule, small  
+660. Gloomy - (उदास)  
+    Synonyms - bleak, dismal, morose  
+    Antonyms - cheerful, sunny, bright  
+
+661. Glorify - (गुणगान करना)  
+    Synonyms - exalt, praise, laud  
+    Antonyms - criticize, condemn  
+
+662. Gorgeous - (शानदार)  
+    Synonyms - stunning, magnificent, attractive  
+    Antonyms - ugly, ordinary, homely  
+
+663. Gracious - (दयालु)  
+    Synonyms - affable, amiable, cordial  
+    Antonyms - rude, mean, nasty  
+
+664. Grant - (दान करना)  
+    Synonyms - accord, award, concede  
+    Antonyms - refuse, forfeit, deny  
+
+665. Grateful - (आभारी)  
+    Synonyms - appreciative, thankful, congenial  
+    Antonyms - ungrateful, critical, thankless  
+
+666. Grief - (दुख)  
+    Synonyms - sorrow, anguish, despair  
+    Antonyms - joy, ecstasy, delight  
+
+667. Guilty - (कसूरवार)  
+    Synonyms - culpable, condemned, damned  
+    Antonyms - innocent, blameless, exonerated  
+
+668. Gainsay - (विरोध करना)  
+    Synonyms - contradict, deny, negate  
+    Antonyms - concede, agree, affirm  
+
+669. Garner - (संचित करना)  
+    Synonyms - collect, gather, accumulate  
+    Antonyms - disperse, dissipate, scatter  
+
+670. Garrulous - (बातूनी)  
+    Synonyms - talkative, loquacious, voluble  
+    Antonyms - taciturn, reserved, silent  
+
+671. Gay - (खुश)  
+    Synonyms - cheerful, merry, lively  
+    Antonyms - sad, depressed, gloomy  
+
+672. Genteel - (सुसंस्कृत)  
+    Synonyms - polite, courteous, refined  
+    Antonyms - rude, boorish, uncouth  
+
+673. Gibe - (मज़ाक उड़ाना)  
+    Synonyms - mock, taunt, ridicule  
+    Antonyms - praise, commend, compliment  
+
+674. Giddy - (चक्कर आना)  
+    Synonyms - dizzy, frivolous, silly  
+    Antonyms - serious, sensible, stable  
+
+675. Glee - (आनंद)  
+    Synonyms - joy, merriment, delight  
+    Antonyms - sadness, gloom, misery  
+
+676. Glib - (चिकनी चुपड़ी बात करने वाला)  
+    Synonyms - smooth, slick, insincere  
+    Antonyms - sincere, genuine, awkward  
+
+677. Glitch - (गड़बड़)  
+    Synonyms - error, malfunction, bug  
+    Antonyms - perfection, clarity, success  
+
+678. Glut - (भरमार)  
+    Synonyms - surplus, excess, overabundance  
+    Antonyms - scarcity, lack, insufficiency  
+
+679. Grandiose - (दिखावटी)  
+    Synonyms - magnificent, impressive, extravagant  
+    Antonyms - modest, simple, unpretentious  
+
+680. Gratuitous - (मुफ़्त)  
+    Synonyms - free, uncalled-for, unnecessary  
+    Antonyms - necessary, essential, costly  
+
+681. Greenhorn - (नौसिखिया)  
+    Synonyms - novice, beginner, rookie  
+    Antonyms - expert, veteran, professional  
+
+682. Grievous - (कष्टदायक)  
+    Synonyms - serious, severe, lamentable  
+    Antonyms - pleasant, delightful, agreeable  
+
+683. Gritty - (दानेदार)  
+    Synonyms - coarse, rough, abrasive  
+    Antonyms - smooth, fine, polished  
+
+684. Gruelling - (थकाऊ)  
+    Synonyms - exhausting, demanding, arduous  
+    Antonyms - easy, effortless, light  
+
+685. Gruesome - (भयानक)  
+    Synonyms - ghastly, hideous, horrifying  
+    Antonyms - pleasant, appealing, lovely  
+
+686. Guile - (छल-कपट)  
+    Synonyms - cunning, deceit, craftiness  
+    Antonyms - honesty, openness, frankness  
+
+687. Haphazard - (आकस्मिक)  
+    Synonyms - random, unplanned, chaotic  
+    Antonyms - systematic, organized, methodical  
+
+688. Harass - (तंग करना)  
+    Synonyms - bother, pester, torment  
+    Antonyms - aid, support, comfort  
+
+689. Hardship - (मुसीबत)  
+    Synonyms - difficulty, adversity, distress  
+    Antonyms - ease, comfort, benefit  
+
+690. Harmony - (सौहार्द)  
+    Synonyms - accord, agreement, unity  
+    Antonyms - discord, disagreement, conflict  
+
+691. Harsh - (कठोर)  
+    Synonyms - severe, rough, jarring  
+    Antonyms - mild, gentle, soft  
+
+692. Hateful - (घृणा करने योग्य)  
+    Synonyms - malicious, spiteful, nasty  
+    Antonyms - amiable, kind, friendly  
+
+693. Hazardous - (खतरनाक)  
+    Synonyms - dangerous, risky, perilous  
+    Antonyms - safe, secure, guarded  
+
+694. Hoax - (धोखा देना)  
+    Synonyms - deception, trick, fraud  
+    Antonyms - truth, fact, reality  
+695. Homely - (साधारण/घरेलू)  
+    Synonyms - plain, simple, unattractive  
+    Antonyms - attractive, charming, modern  
+
+696. Homogeneous - (एक समान)  
+    Synonyms - uniform, identical, similar  
+    Antonyms - heterogeneous, diverse, varied  
+
+697. Horrific - (डरावना)  
+    Synonyms - terrible, dreadful, awful  
+    Antonyms - comforting, reassuring, satisfying  
+
+698. Hostile - (प्रतिरोधी)  
+    Synonyms - belligerent, combative, antagonistic  
+    Antonyms - friendly, agreeable, gentle  
+
+699. Humorous - (मजाकिया)  
+    Synonyms - amusing, funny, witty  
+    Antonyms - morose, tragic, serious  
+
+700. Hurdle - (बाधा डालना)  
+    Synonyms - obstacle, barrier, impediment  
+    Antonyms - assistance, aid, support  
+
+701. Hackneyed - (घिसा-पिटा)  
+    Synonyms - banal, overused, clichéd  
+    Antonyms - original, fresh, unique  
+
+702. Hale - (स्वस्थ)  
+    Synonyms - healthy, robust, sound  
+    Antonyms - sick, weak, unfit  
+
+703. Hamper - (बाधा डालना)  
+    Synonyms - impede, obstruct, hinder  
+    Antonyms - assist, expedite, promote  
+
+704. Hardy - (साहसी)  
+    Synonyms - robust, stout, resilient  
+    Antonyms - feeble, weak, frail  
+
+705. Haughty - (घमंडी)  
+    Synonyms - arrogant, disdainful, supercilious  
+    Antonyms - humble, meek, modest  
+
+706. Headlong - (सिर के बल)  
+    Synonyms - impulsive, reckless, brash  
+    Antonyms - cautious, careful, prudent  
+
+707. Hearten - (प्रोत्साहित करना)  
+    Synonyms - encourage, uplift, cheer  
+    Antonyms - dishearten, discourage, demoralize  
+
+708. Hesitant - (संकोची)  
+    Synonyms - uncertain, indecisive, wavering  
+    Antonyms - certain, resolute, confident  
+
+709. Heterogeneous - (विविध)  
+    Synonyms - diverse, varied, assorted  
+    Antonyms - homogeneous, uniform, identical  
+
+710. Hilarious - (हा-हा करने वाला)  
+    Synonyms - funny, amusing, entertaining  
+    Antonyms - serious, grave, somber  
+
+711. Hinder - (अड़चन डालना)  
+    Synonyms - obstruct, impede, hamper  
+    Antonyms - assist, facilitate, help  
+
+712. Homage - (श्रद्धांजलि)  
+    Synonyms - tribute, respect, honor  
+    Antonyms - scorn, disrespect, betrayal  
+
+713. Hospitable - (मेहमाननवाज़ी)  
+    Synonyms - welcoming, friendly, accommodating  
+    Antonyms - inhospitable, rude, unfriendly  
+
+714. Humbug - (छल-कपट)  
+    Synonyms - deceit, fraud, sham  
+    Antonyms - honesty, sincerity, genuineness  
+
+715. Humiliate - (अपमानित करना)  
+    Synonyms - degrade, embarrass, mortify  
+    Antonyms - honor, elevate, praise  
+
+716. Hypocrite - (पाखंडी)  
+    Synonyms - deceiver, pretender, fraud  
+    Antonyms - sincere person, honest person  
+
+717. Hypothetical - (परिकल्पित)  
+    Synonyms - theoretical, speculative, conjectural  
+    Antonyms - factual, actual, proven  
+
+718. Hapless - (बदकिस्मत)  
+    Synonyms - unlucky, unfortunate, jinxed  
+    Antonyms - fortunate, lucky, prosperous  
+
+719. Harrowing - (खौफनाक, शोकजनक)  
+    Synonyms - distressing, agonizing, tormenting  
+    Antonyms - comforting, soothing, pleasant  
+
+720. Headstrong - (अड़ियल)  
+    Synonyms - stubborn, obstinate, willful  
+    Antonyms - yielding, compliant, submissive  
+
+721. Heartrending - (शोकजनक)  
+    Synonyms - poignant, distressing, tragic  
+    Antonyms - uplifting, cheerful, soothing  
+
+722. Heinous - (जघन्य)  
+    Synonyms - atrocious, shocking, monstrous  
+    Antonyms - commendable, praiseworthy, admirable  
+
+723. Heretic - (धर्म विरोधी)  
+    Synonyms - dissenter, nonconformist, rebel  
+    Antonyms - conformist, loyalist, adherent  
+
+724. Hideous - (घिनौना)  
+    Synonyms - ugly, dreadful, monstrous  
+    Antonyms - beautiful, attractive, appealing  
+
+725. Hoary - (पुराना)  
+    Synonyms - ancient, antiquated, timeworn  
+    Antonyms - modern, new, contemporary  
+
+726. Hone - (पैना करना)  
+    Synonyms - sharpen, edge, refine  
+    Antonyms - dull, blunt, weaken  
+
+727. Hubbub - (चहल-पहल)  
+    Synonyms - commotion, uproar, clamor  
+    Antonyms - calm, peace, tranquility  
+
+728. Hyperbole - (अत्यधिक बढ़ा-चढ़ाकर कहना)  
+    Synonyms - exaggeration, overstatement, embellishment  
+    Antonyms - understatement, minimization, literalness  
+729. Ideal - (आदर्श)  
+    Synonyms - exemplary, perfect, model  
+    Antonyms - flawed, imperfect, problematic  
+
+730. Identical - (एक जैसा)  
+    Synonyms - same, equal, equivalent  
+    Antonyms - distinct, different, dissimilar  
+
+731. Ignite - (जलाना)  
+    Synonyms - kindle, light, inflame  
+    Antonyms - extinguish, quench, suppress  
+
+732. Ignorant - (अज्ञात)  
+    Synonyms - uneducated, unaware, illiterate  
+    Antonyms - knowledgeable, informed, aware  
+
+733. Illegitimate - (अवैध)  
+    Synonyms - illegal, unlawful, spurious  
+    Antonyms - authorized, legitimate, moral  
+
+734. Illicit - (गैरकानूनी)  
+    Synonyms - unlawful, forbidden, clandestine  
+    Antonyms - legal, legitimate, proper  
+
+735. Immense - (बड़ा)  
+    Synonyms - colossal, enormous, vast  
+    Antonyms - minute, tiny, insignificant  
+
+736. Impartial - (पक्षपात रहित)  
+    Synonyms - unbiased, just, fair  
+    Antonyms - biased, prejudiced, partial  
+
+737. Impromptu - (बिना तैयारी के)  
+    Synonyms - spontaneous, improvised, extemporary  
+    Antonyms - planned, rehearsed, deliberate  
+
+738. Inclusive - (सहित)  
+    Synonyms - comprehensive, extensive, encompassing  
+    Antonyms - exclusive, limited, narrow  
+
+739. Increment - (वृद्धि)  
+    Synonyms - increase, boost, addition  
+    Antonyms - decrease, reduction, decline  
+
+740. Indifferent - (तटस्थ)  
+    Synonyms - apathetic, unconcerned, detached  
+    Antonyms - interested, concerned, passionate  
+
+741. Industrious - (मेहनती)  
+    Synonyms - diligent, hard-working, assiduous  
+    Antonyms - lazy, indolent, slothful  
+
+742. Inevitable - (अटल)  
+    Synonyms - unavoidable, certain, inescapable  
+    Antonyms - uncertain, unlikely, avoidable  
+
+743. Infinite - (अनंत)  
+    Synonyms - boundless, limitless, endless  
+    Antonyms - finite, limited, measurable  
+
+744. Initial - (आरंभिक)  
+    Synonyms - beginning, introductory, primary  
+    Antonyms - final, closing, last  
+
+745. Innovative - (नवाचारी)  
+    Synonyms - inventive, original, creative  
+    Antonyms - unoriginal, conventional, traditional  
+
+746. Inquisitive - (जानने को इच्छुक)  
+    Synonyms - curious, prying, probing  
+    Antonyms - uninterested, indifferent, apathetic  
+
+747. Insane - (पागल)  
+    Synonyms - crazy, mad, deranged  
+    Antonyms - sane, rational, reasonable  
+
+748. Insignificant - (महत्त्वहीन)  
+    Synonyms - trivial, inconsequential, minor  
+    Antonyms - significant, important, substantial  
+
+749. Intensify - (तीव्र करना)  
+    Synonyms - enhance, deepen, escalate  
+    Antonyms - weaken, lessen, reduce  
+
+750. Intervene - (हस्तक्षेप करना)  
+    Synonyms - interfere, intrude, intercede  
+    Antonyms - ignore, withdraw, avoid  
+
+751. Intimate - (अंतरंग)  
+    Synonyms - close, familiar, personal  
+    Antonyms - distant, formal, detached  
+
+752. Invert - (पलटना)  
+    Synonyms - reverse, turn, flip  
+    Antonyms - maintain, preserve, hold  
+
+753. Invincible - (अजेय)  
+    Synonyms - unbeatable, indomitable, unconquerable  
+    Antonyms - vulnerable, conquerable, beatable  
+
+754. Irritate - (चिढ़ाना)  
+    Synonyms - annoy, vex, provoke  
+    Antonyms - soothe, calm, please  
+
+755. Illuminate - (प्रकाशित करना)  
+    Synonyms - clarify, enlighten, elucidate  
+    Antonyms - obscure, darken, confuse  
+
+756. Illusive - (धोखाधड़ी)  
+    Synonyms - deceptive, misleading, chimerical  
+    Antonyms - real, factual, genuine  
+
+757. Immaculate - (बेदाग़)  
+    Synonyms - spotless, perfect, pristine  
+    Antonyms - dirty, stained, flawed  
+
+758. Immerse - (डूबो देना)  
+    Synonyms - submerge, soak, engulf  
+    Antonyms - surface, dry, remove  
+
+759. Impair - (खराब करना)  
+    Synonyms - damage, hinder, undermine  
+    Antonyms - improve, restore, mend  
+
+760. Imperative - (अनिवार्य)  
+    Synonyms - essential, urgent, mandatory  
+    Antonyms - optional, voluntary, secondary  
+
+761. Imposing - (प्रभाव डालने वाला)  
+    Synonyms - grand, majestic, stately  
+    Antonyms - unimpressive, ordinary, drab  
+
+762. Impotent - (शक्तिहीन)  
+    Synonyms - powerless, ineffective, weak  
+    Antonyms - potent, powerful, strong  
+
+763. Impulsive - (आवेगशील)  
+    Synonyms - hasty, spontaneous, reckless  
+    Antonyms - cautious, deliberate, planned  
+764. Inarticulate - (धीरे से बोलना)  
+    Synonyms - mute, dumb, faltering  
+    Antonyms - articulate, communicative, fluent  
+
+765. Inception - (आरंभ)  
+    Synonyms - beginning, commencement, launch  
+    Antonyms - conclusion, end, termination  
+
+766. Incessant - (लगातार)  
+    Synonyms - ceaseless, perpetual, relentless  
+    Antonyms - intermittent, occasional, sporadic  
+
+767. Incite - (उत्साहित करना)  
+    Synonyms - instigate, provoke, stimulate  
+    Antonyms - discourage, suppress, deter  
+
+768. Inconsequential - (असंगत)  
+    Synonyms - trivial, insignificant, negligible  
+    Antonyms - significant, substantial, important  
+
+769. Incorporate - (इकट्ठा करना)  
+    Synonyms - integrate, combine, merge  
+    Antonyms - exclude, separate, divide  
+
+770. Incorrigible - (जिसे ठीक नहीं किया जा सकता)  
+    Synonyms - unmanageable, irreparable, hopeless  
+    Antonyms - correctable, manageable, obedient  
+
+771. Indeed - (वास्तव में)  
+    Synonyms - actually, certainly, genuinely  
+    Antonyms - doubtfully, questionably, skeptically  
+
+772. Indigenous - (देशी)  
+    Synonyms - native, aboriginal, endemic  
+    Antonyms - foreign, alien, extrinsic  
+
+773. Indiscriminate - (अंधाधुंध)  
+    Synonyms - random, haphazard, chaotic  
+    Antonyms - systematic, orderly, planned  
+
+774. Induce - (प्रेरित करना)  
+    Synonyms - persuade, convince, generate  
+    Antonyms - discourage, prevent, inhibit  
+
+775. Infamy - (बदनामी)  
+    Synonyms - notoriety, disgrace, stigma  
+    Antonyms - dignity, respect, honor  
+
+776. Infatuate - (मोहित करना)  
+    Synonyms - captivate, enchant, enthrall  
+    Antonyms - repel, disillusion, disgust  
+
+777. Infer - (निष्कर्ष निकालना)  
+    Synonyms - deduce, conclude, speculate  
+    Antonyms - misinterpret, doubt, confuse  
+
+778. Infuriate - (गुस्सा करना)  
+    Synonyms - enrage, aggravate, provoke  
+    Antonyms - soothe, calm, pacify  
+
+779. Ingenious - (निपुण)  
+    Synonyms - inventive, clever, resourceful  
+    Antonyms - inept, uncreative, dull  
+
+780. Inherent - (स्वाभाविक)  
+    Synonyms - intrinsic, innate, natural  
+    Antonyms - external, acquired, incidental  
+
+781. Inhibit - (बाधा डालना)  
+    Synonyms - restrain, curb, block  
+    Antonyms - encourage, assist, promote  
+
+782. Instigate - (भड़काना)  
+    Synonyms - incite, provoke, spur  
+    Antonyms - dissuade, halt, discourage  
+
+783. Integrity - (ईमानदारी)  
+    Synonyms - honesty, virtue, probity  
+    Antonyms - dishonesty, corruption, deceit  
+
+784. Intense - (अति कठोर)  
+    Synonyms - severe, fierce, passionate  
+    Antonyms - mild, moderate, gentle  
+
+785. Intermittent - (एक-एक कर)  
+    Synonyms - sporadic, occasional, irregular  
+    Antonyms - continuous, regular, constant  
+
+786. Intimidate - (धमकी देना)  
+    Synonyms - frighten, threaten, scare  
+    Antonyms - encourage, comfort, reassure  
+
+787. Instinctive - (स्वाभाविक)  
+    Synonyms - intuitive, automatic, impulsive  
+    Antonyms - deliberate, conscious, calculated  
+
+788. Intrinsic - (आंतरिक)  
+    Synonyms - inherent, innate, essential  
+    Antonyms - extrinsic, external, incidental  
+
+789. Irate - (गुस्से में)  
+    Synonyms - angry, furious, enraged  
+    Antonyms - calm, placid, peaceful  
+
+790. Irk - (गुस्सा दिलाना)  
+    Synonyms - annoy, irritate, vex  
+    Antonyms - please, delight, satisfy  
+
+791. Ironic - (विडंबनात्मक)  
+    Synonyms - sarcastic, sardonic, wry  
+    Antonyms - sincere, earnest, straightforward  
+
+792. Isolate - (अलग करना)  
+    Synonyms - separate, seclude, detach  
+    Antonyms - integrate, unite, mingle  
+
+793. Itinerant - (घूमने वाला)  
+    Synonyms - nomadic, wandering, migratory  
+    Antonyms - settled, permanent, stationary  
+
+794. Idiosyncrasy - (अजीबियत)  
+    Synonyms - peculiarity, quirk, eccentricity  
+    Antonyms - normality, standard, conformity  
+
+795. Illusory - (मायावी)  
+    Synonyms - deceptive, misleading, unreal  
+    Antonyms - real, concrete, actual  
+
+796. Imbibe - (सोख लेना)  
+    Synonyms - absorb, consume, drink  
+    Antonyms - abstain, avoid, reject  
+
+797. Imminent - (अभी होने वाला)  
+    Synonyms - impending, approaching, forthcoming  
+    Antonyms - distant, remote, delayed  
+798. Immune - (प्रतिरोधी)  
+    Synonyms - resistant, exempt, impervious  
+    Antonyms - vulnerable, susceptible, defenseless  
+
+799. Impart - (बतलाना)  
+    Synonyms - convey, communicate, disclose  
+    Antonyms - conceal, withhold, hide  
+
+800. Impassioned - (जोशीला)  
+    Synonyms - fervent, ardent, passionate  
+    Antonyms - indifferent, apathetic, cold  
+
+801. Impel - (प्रेरित करना)  
+    Synonyms - drive, urge, motivate  
+    Antonyms - dissuade, deter, repress  
+
+802. Implicate - (फंसाना)  
+    Synonyms - incriminate, involve, entangle  
+    Antonyms - absolve, exonerate, free  
+
+803. Implicit - (निहित)  
+    Synonyms - implied, tacit, unspoken  
+    Antonyms - explicit, clear, specific  
+
+804. Impoverish - (गरीब होना)  
+    Synonyms - bankrupt, deplete, ruin  
+    Antonyms - enrich, enhance, strengthen  
+
+805. Impudence - (साहस)  
+    Synonyms - audacity, insolence, effrontery  
+    Antonyms - modesty, humility, shyness  
+
+806. Inadvertent - (असावधान, बेपरवाह)  
+    Synonyms - unintentional, accidental, fortuitous  
+    Antonyms - intentional, deliberate, attentive  
+
+807. Inanimate - (असजीव)  
+    Synonyms - lifeless, inert, dead  
+    Antonyms - living, active, functioning  
+
+808. Inbred - (स्वाभाविक)  
+    Synonyms - congenital, innate, natural  
+    Antonyms - extrinsic, foreign, acquired  
+
+809. Incisive - (तीखा)  
+    Synonyms - sharp, keen, penetrating  
+    Antonyms - dull, blunt, obtuse  
+
+810. Incredulous - (अविश्वासी)  
+    Synonyms - skeptical, doubtful, disbelieving  
+    Antonyms - believing, convinced, trusting  
+
+811. Indefatigable - (जो थकता नहीं)  
+    Synonyms - tireless, unflagging, relentless  
+    Antonyms - fatigued, tired, weary  
+
+812. Indict - (आरोप लगाना)  
+    Synonyms - accuse, charge, incriminate  
+    Antonyms - acquit, exonerate, absolve  
+
+813. Indignation - (नाराज़गी)  
+    Synonyms - anger, ire, annoyance  
+    Antonyms - happiness, glee, contentment  
+
+814. Indeterminate - (संशयित)  
+    Synonyms - ambiguous, uncertain, vague  
+    Antonyms - definite, clear, certain  
+
+815. Indolent - (आलसी)  
+    Synonyms - lazy, lethargic, slothful  
+    Antonyms - energetic, industrious, active  
+
+816. Inept - (अयोग्य)  
+    Synonyms - clumsy, incompetent, awkward  
+    Antonyms - adept, skilled, competent  
+
+817. Infringe - (उल्लंघन करना)  
+    Synonyms - violate, breach, transgress  
+    Antonyms - comply, obey, respect  
+
+818. Ingenuous - (सीधा साधा)  
+    Synonyms - naive, candid, innocent  
+    Antonyms - deceitful, cunning, sly  
+
+819. Inimical - (विरोधी)  
+    Synonyms - hostile, unfriendly, adverse  
+    Antonyms - friendly, amicable, hospitable  
+
+820. Iniquity - (अधर्म)  
+    Synonyms - wickedness, immorality, injustice  
+    Antonyms - virtue, goodness, righteousness  
+
+821. Innate - (जन्मजात)  
+    Synonyms - intrinsic, inborn, hereditary  
+    Antonyms - acquired, extrinsic, incidental  
+
+822. Innocuous - (नुकसान न पहुंचाने वाला)  
+    Synonyms - harmless, safe, inoffensive  
+    Antonyms - harmful, dangerous, injurious  
+
+823. Inordinate - (अधिक)  
+    Synonyms - excessive, extravagant, immoderate  
+    Antonyms - moderate, reasonable, limited  
+
+824. Insatiate - (लालची)  
+    Synonyms - greedy, voracious, ravenous  
+    Antonyms - satisfied, content, generous  
+
+825. Insidious - (धोखेबाज़)  
+    Synonyms - deceitful, sly, treacherous  
+    Antonyms - sincere, honest, straightforward  
+
+826. Insipid - (बेस्वाद)  
+    Synonyms - bland, dull, flavorless  
+    Antonyms - flavorful, exciting, interesting  
+
+827. Insolent - (बदतमीज़)  
+    Synonyms - rude, disrespectful, arrogant  
+    Antonyms - humble, polite, modest  
+
+828. Insurgent - (विद्रोही)  
+    Synonyms - rebellious, riotous, seditious  
+    Antonyms - compliant, obedient, loyal  
+
+829. Intangible - (न छूने योग्य)  
+    Synonyms - impalpable, abstract, insubstantial  
+    Antonyms - tangible, palpable, concrete  
+
+830. Intrepid - (साहसी)  
+    Synonyms - fearless, bold, adventurous  
+    Antonyms - timid, cowardly, meek  
+
+831. Irrelevant - (असंगत)  
+    Synonyms - extraneous, immaterial, unrelated  
+    Antonyms - relevant, pertinent, applicable  
+832. Irresolute - (अनिश्चित)  
+    Synonyms - hesitant, indecisive, tentative  
+    Antonyms - definite, resolute, determined  
+
+833. Jade - (थकाना)  
+    Synonyms - tire, exhaust, fatigue  
+    Antonyms - invigorate, energize, stimulate  
+
+834. Jarring - (झगड़ा)  
+    Synonyms - harsh, discordant, grating  
+    Antonyms - harmonious, soothing, pleasant  
+
+835. Jeer - (हंसी उड़ाना)  
+    Synonyms - mock, ridicule, deride  
+    Antonyms - praise, commend, laud  
+
+836. Jeopardy - (खतरा)  
+    Synonyms - danger, risk, peril  
+    Antonyms - safety, security, protection  
+
+837. Jest - (मज़ाक करना)  
+    Synonyms - joke, banter, quip  
+    Antonyms - seriousness, solemnity, earnestness  
+
+838. Jettison - (खारिज करना)  
+    Synonyms - discard, eliminate, dump  
+    Antonyms - retain, keep, preserve  
+
+839. Jiff - (तुरंत)  
+    Synonyms - instant, moment, flash  
+    Antonyms - delay, wait, pause  
+
+840. Jilt - (धोखेबाज)  
+    Synonyms - abandon, deceive, forsake  
+    Antonyms - embrace, accept, adopt  
+
+841. Jostle - (धकेलना)  
+    Synonyms - push, shove, nudge  
+    Antonyms - assist, help, support  
+
+842. Jocular - (मजाकिया)  
+    Synonyms - humorous, playful, jesting  
+    Antonyms - serious, grave, solemn  
+
+843. Jovial - (हंसमुख)  
+    Synonyms - cheerful, jolly, merry  
+    Antonyms - gloomy, sad, serious  
+
+844. Jubilant - (उत्साहित)  
+    Synonyms - triumphant, exultant, ecstatic  
+    Antonyms - sorrowful, depressed, dejected  
+
+845. Judicious - (ज्ञानसंगत)  
+    Synonyms - wise, sensible, prudent  
+    Antonyms - foolish, reckless, imprudent  
+
+846. Jumble - (गड़बड़ी)  
+    Synonyms - mix, disorder, confusion  
+    Antonyms - organize, arrange, order  
+
+847. Jumbo - (विशाल)  
+    Synonyms - enormous, gigantic, massive  
+    Antonyms - tiny, small, miniature  
+
+848. Junk - (कचरा)  
+    Synonyms - rubbish, trash, debris  
+    Antonyms - treasure, valuable, keepsake  
+
+849. Just - (उचित)  
+    Synonyms - fair, equitable, right  
+    Antonyms - unjust, unfair, biased  
+
+850. Justify - (सफाई देना)  
+    Synonyms - defend, rationalize, vindicate  
+    Antonyms - condemn, criticize, impeach  
+
+851. Jittery - (घबराया हुआ)  
+    Synonyms - nervous, anxious, fidgety  
+    Antonyms - calm, relaxed, composed  
+
+852. Juncture - (जोड़)  
+    Synonyms - connection, point, intersection  
+    Antonyms - separation, disconnection, division  
+
+853. Keen - (दिलचस्पी रखना)  
+    Synonyms - eager, enthusiastic, sharp  
+    Antonyms - indifferent, apathetic, uninterested  
+
+854. Knit - (बुनना)  
+    Synonyms - weave, join, interlace  
+    Antonyms - separate, detach, break  
+
+855. Knock - (दबाव देना)  
+    Synonyms - strike, hit, rap  
+    Antonyms - praise, commend, endorse  
+
+856. Knotty - (गांठदार)  
+    Synonyms - complex, tangled, intricate  
+    Antonyms - simple, straightforward, easy  
+
+857. Kudos - (शंसा)  
+    Synonyms - acclaim, praise, honor  
+    Antonyms - criticism, censure, blame  
+
+858. Kindle - (सुलगाना)  
+    Synonyms - ignite, spark, arouse  
+    Antonyms - extinguish, suppress, quench  
+
+859. Kinetic - (गतिशील)  
+    Synonyms - energetic, dynamic, lively  
+    Antonyms - sluggish, lethargic, inactive  
+
+860. Knack - (कुशलता)  
+    Synonyms - skill, talent, ability  
+    Antonyms - ineptitude, inability, incompetence  
+
+861. Knave - (धोखेबाज़)  
+    Synonyms - rogue, scoundrel, villain  
+    Antonyms - gentleman, honest person, saint  
+
+862. Labored - (कठिन)  
+    Synonyms - strained, effortful, forced  
+    Antonyms - easy, relaxed, effortless  
+
+863. Lack - (अभाव होना)  
+    Synonyms - deficiency, shortage, scarcity  
+    Antonyms - abundance, excess, surplus  
+
+864. Lag - (देर लगाना)  
+    Synonyms - delay, dawdle, linger  
+    Antonyms - hasten, rush, expedite  
+865. Latent - (छिपा हुआ)  
+    Synonyms - dormant, inactive, hidden  
+    Antonyms - apparent, evident, manifest  
+
+866. Laud - (शंसा करना)  
+    Synonyms - praise, commend, extol  
+    Antonyms - criticize, blame, condemn  
+
+867. Lax - (ढीला)  
+    Synonyms - negligent, lenient, slack  
+    Antonyms - strict, rigid, careful  
+
+868. Lenient - (उदार)  
+    Synonyms - tolerant, forgiving, indulgent  
+    Antonyms - harsh, strict, severe  
+
+869. Limit - (सीमा)  
+    Synonyms - boundary, restriction, constraint  
+    Antonyms - infinity, openness, expansiveness  
+
+870. Listless - (बेपरवाह)  
+    Synonyms - lethargic, indifferent, apathetic  
+    Antonyms - energetic, eager, enthusiastic  
+
+871. Lofty - (घमंडी)  
+    Synonyms - elevated, haughty, arrogant  
+    Antonyms - humble, lowly, modest  
+
+872. Lucid - (स्पष्ट)  
+    Synonyms - clear, coherent, rational  
+    Antonyms - obscure, unclear, confusing  
+
+873. Lucrative - (लाभदायक)  
+    Synonyms - profitable, beneficial, advantageous  
+    Antonyms - unprofitable, disadvantageous, futile  
+
+874. Lure - (लालच देना)  
+    Synonyms - entice, attract, tempt  
+    Antonyms - repel, dissuade, discourage  
+
+875. Lurid - (फीका)  
+    Synonyms - sensational, vivid, shocking  
+    Antonyms - dull, bland, understated  
+
+876. Lusty - (कामुक)  
+    Synonyms - vigorous, robust, hearty  
+    Antonyms - frail, weak, delicate  
+
+877. Lavish - (खर्चीला)  
+    Synonyms - extravagant, opulent, profuse  
+    Antonyms - frugal, sparse, stingy  
+
+878. Lean - (दुबला पतला)  
+    Synonyms - slender, skinny, meager  
+    Antonyms - overweight, plump, chubby  
+
+879. Legitimate - (जायज़)  
+    Synonyms - lawful, valid, rightful  
+    Antonyms - illegal, unlawful, unjustified  
+
+880. Lethargic - (सुस्त)  
+    Synonyms - sluggish, inactive, apathetic  
+    Antonyms - energetic, lively, vigorous  
+
+881. Liability - (दायित्व)  
+    Synonyms - obligation, debt, responsibility  
+    Antonyms - asset, advantage, irresponsibility  
+
+882. Liberal - (उदार)  
+    Synonyms - progressive, open-minded, generous  
+    Antonyms - conservative, narrow-minded, rigid  
+
+883. Lively - (उत्साहपूर्ण)  
+    Synonyms - animated, vivacious, brisk  
+    Antonyms - dull, lifeless, boring  
+
+884. Loyal - (वफादार)  
+    Synonyms - faithful, devoted, steadfast  
+    Antonyms - disloyal, unfaithful, treacherous  
+
+885. Lunatic - (पागल)  
+    Synonyms - insane, crazy, demented  
+    Antonyms - sane, rational, sensible  
+
+886. Luxurious - (विलासितापूर्ण)  
+    Synonyms - opulent, lavish, extravagant  
+    Antonyms - plain, modest, simple  
+
+887. Laggard - (ढीला)  
+    Synonyms - straggler, dawdler, procrastinator  
+    Antonyms - leader, achiever, quick  
+
+888. Lanky - (दुबला पतला)  
+    Synonyms - lean, gangly, slender  
+    Antonyms - sturdy, brawny, robust  
+
+889. Levity - (ओछापन)  
+    Synonyms - frivolity, lightheartedness, gaiety  
+    Antonyms - seriousness, gravity, solemnity  
+
+890. Licentious - (अनैतिक)  
+    Synonyms - immoral, dissolute, unrestrained  
+    Antonyms - moral, restrained, ascetic  
+
+891. Limpid - (स्पष्ट)  
+    Synonyms - clear, transparent, lucid  
+    Antonyms - murky, opaque, unclear  
+
+892. Linger - (विलंब करना)  
+    Synonyms - wait, dawdle, hesitate  
+    Antonyms - hurry, rush, depart  
+
+893. Livid - (पीला)  
+    Synonyms - pale, enraged, furious  
+    Antonyms - rosy, vibrant, cheerful  
+
+894. Loathe - (घृणा करना)  
+    Synonyms - detest, abhor, despise  
+    Antonyms - love, adore, cherish  
+
+895. Lonesome - (अकेला)  
+    Synonyms - solitary, desolate, forlorn  
+    Antonyms - sociable, companionable, lively  
+
+896. Long - (बेताबी से चाहना)  
+    Synonyms - crave, desire, yearn  
+    Antonyms - dislike, loathe, avoid  
+
+897. Lop - (कतरना)  
+    Synonyms - trim, prune, cut  
+    Antonyms - grow, extend, flourish  
+901. Lull - (ठहराव)  
+    Synonyms - calm, respite, pause  
+    Antonyms - chaos, turmoil, uproar  
+
+902. Luscious - (रसदार)  
+    Synonyms - delectable, appetizing, rich  
+    Antonyms - unappetizing, bland, tasteless  
+
+903. Lustrous - (चमकीला)  
+    Synonyms - shining, radiant, gleaming  
+    Antonyms - dull, matte, lifeless  
+
+904. Magnanimity - (उदारता)  
+    Synonyms - generosity, benevolence, charity  
+    Antonyms - selfishness, meanness, stinginess  
+
+905. Malicious - (बुरा चाहने वाला)  
+    Synonyms - spiteful, malevolent, vindictive  
+    Antonyms - kind, benevolent, friendly  
+
+906. Malign - (बदनाम करना)  
+    Synonyms - slander, defame, vilify  
+    Antonyms - praise, commend, uplift  
+
+907. Mandatory - (अनिवार्य)  
+    Synonyms - compulsory, obligatory, required  
+    Antonyms - optional, voluntary, discretionary  
+
+908. Manifold - (कई गुना)  
+    Synonyms - diverse, varied, numerous  
+    Antonyms - singular, one, unique  
+
+909. Marred - (खराब करना)  
+    Synonyms - damaged, spoiled, blemished  
+    Antonyms - pristine, perfect, flawless  
+
+910. Meddle - (हथपेंक करना)  
+    Synonyms - interfere, intrude, intervene  
+    Antonyms - ignore, avoid, overlook  
+
+911. Meek - (दुबले)  
+    Synonyms - gentle, submissive, humble  
+    Antonyms - aggressive, assertive, bold  
+
+912. Mend - (मरम्मत करना)  
+    Synonyms - repair, fix, restore  
+    Antonyms - damage, break, impair  
+
+913. Mercurial - (चंचल)  
+    Synonyms - volatile, changeable, fickle  
+    Antonyms - stable, constant, steady  
+
+914. Meritorious - (प्रशंसनीय)  
+    Synonyms - worthy, commendable, admirable  
+    Antonyms - unworthy, reprehensible, disgraceful  
+
+915. Messy - (अव्यवस्थित)  
+    Synonyms - disorganized, untidy, chaotic  
+    Antonyms - neat, orderly, clean  
+
+916. Microscopic - (बात छोटा)  
+    Synonyms - tiny, minuscule, miniature  
+    Antonyms - huge, colossal, vast  
+
+917. Mingle - (घुलना मिलना)  
+    Synonyms - mix, blend, socialize  
+    Antonyms - separate, isolate, segregate  
+
+918. Mirage - (मृगतृष्णा)  
+    Synonyms - illusion, fantasy, hallucination  
+    Antonyms - reality, truth, fact  
+
+919. Malice - (दुर्भावना)  
+    Synonyms - spite, hostility, resentment  
+    Antonyms - goodwill, kindness, compassion  
+
+920. Miscreant - (बदमाश)  
+    Synonyms - villain, rogue, scoundrel  
+    Antonyms - saint, virtuous person, upstanding  
+
+921. Modest - (विनम्र)  
+    Synonyms - humble, unassuming, reserved  
+    Antonyms - boastful, arrogant, ostentatious  
+
+922. Momentary - (क्षणिक)  
+    Synonyms - fleeting, transient, brief  
+    Antonyms - lasting, enduring, permanent  
+
+923. Magnificent - (शानदार)  
+    Synonyms - splendid, grand, majestic  
+    Antonyms - ordinary, mediocre, unimpressive  
+
+924. Majestic - (भव्य)  
+    Synonyms - regal, grandiose, noble  
+    Antonyms - humble, plain, insignificant  
+
+925. Mammoth - (विशालकाय)  
+    Synonyms - gigantic, enormous, colossal  
+    Antonyms - tiny, small, little  
+
+926. Marvel - (अचंभित होना)  
+    Synonyms - wonder, astonishment, amazement  
+    Antonyms - indifference, boredom, apathy  
+
+927. Masculine - (मरदाना)  
+    Synonyms - manly, macho, virile  
+    Antonyms - feminine, womanly, ladylike  
+
+928. Meager - (थोड़ा)  
+    Synonyms - scanty, sparse, insufficient  
+    Antonyms - abundant, ample, plentiful  
+
+929. Mean - (मतलबी होना)  
+    Synonyms - unkind, spiteful, stingy  
+    Antonyms - generous, kind, benevolent  
+
+930. Mediocre - (मामूली)  
+    Synonyms - average, ordinary, unremarkable  
+    Antonyms - exceptional, outstanding, extraordinary  
+
+931. Mentor - (सलाहकार)  
+    Synonyms - guide, advisor, coach  
+    Antonyms - novice, student, learner  
+
+932. Merge - (विलय)  
+    Synonyms - combine, unite, blend  
+    Antonyms - separate, divide, disconnect  
+
+933. Meticulous - (अतिसावधान)  
+    Synonyms - careful, precise, thorough  
+    Antonyms - careless, sloppy, negligent  
+
+934. Midst - (बीच)  
+    Synonyms - center, middle, core  
+    Antonyms - periphery, edge, outside  
+
+935. Minute - (बात छोटा)  
+    Synonyms - tiny, minuscule, small  
+    Antonyms - gigantic, enormous, vast  
+
+936. Miserly - (कंजूस)  
+    Synonyms - stingy, tightfisted, greedy  
+    Antonyms - generous, charitable, open-handed  
+937. Misfortune - (दुर्भाग्य)  
+    Synonyms - adversity, hardship, mishap  
+    Antonyms - fortune, blessing, success  
+
+938. Mislead - (धोखा देना)  
+    Synonyms - deceive, betray, trick  
+    Antonyms - guide, direct, lead  
+
+939. Mock - (बनावटी)  
+    Synonyms - ridicule, deride, imitate  
+    Antonyms - praise, commend, flatter  
+
+940. Moderate - (मामूली)  
+    Synonyms - reasonable, temperate, restrained  
+    Antonyms - extreme, excessive, significant  
+
+941. Monopoly - (एकाधिकार)  
+    Synonyms - cartel, trust, syndicate  
+    Antonyms - competition, distribution, sharing  
+
+942. Monstrous - (भयानक)  
+    Synonyms - horrific, atrocious, gigantic  
+    Antonyms - ordinary, common, unremarkable  
+
+943. Motivate - (प्रेरित करना)  
+    Synonyms - stimulate, inspire, encourage  
+    Antonyms - discourage, deter, impede  
+
+944. Muddy - (गंदा करना)  
+    Synonyms - murky, cloudy, dirty  
+    Antonyms - clear, bright, pristine  
+
+945. Mute - (गूंगा)  
+    Synonyms - silent, voiceless, wordless  
+    Antonyms - vocal, expressive, communicative  
+
+946. Maladroit - (बेअदब)  
+    Synonyms - clumsy, awkward, inept  
+    Antonyms - skillful, adept, nimble  
+
+947. Malaise - (बेचैनी)  
+    Synonyms - discomfort, unease, distress  
+    Antonyms - health, well-being, comfort  
+
+948. Manifest - (घोषणा करना)  
+    Synonyms - reveal, display, demonstrate  
+    Antonyms - conceal, hide, obscure  
+
+949. Measly - (बहुत कम)  
+    Synonyms - scanty, paltry, insignificant  
+    Antonyms - abundant, ample, plentiful  
+
+950. Melancholy - (गहरी उदासी)  
+    Synonyms - sadness, gloom, sorrow  
+    Antonyms - happiness, joy, cheerfulness  
+
+951. Monotonous - (नीरस)  
+    Synonyms - tedious, dull, repetitive  
+    Antonyms - varied, interesting, dynamic  
+
+952. Menacing - (धमकी भरा)  
+    Synonyms - threatening, intimidating, ominous  
+    Antonyms - reassuring, safe, benign  
+
+953. Menial - (तुच्छ)  
+    Synonyms - servile, lowly, degrading  
+    Antonyms - dignified, prestigious, superior  
+
+954. Metamorphosis - (कायापलट)  
+    Synonyms - transformation, change, evolution  
+    Antonyms - stagnation, stability, maintenance  
+
+955. Mettle - (साहस)  
+    Synonyms - courage, bravery, resolve  
+    Antonyms - cowardice, timidity, weakness  
+
+956. Minuscule - (बहुत छोटा)  
+    Synonyms - tiny, microscopic, minute  
+    Antonyms - enormous, vast, huge  
+
+957. Mitigate - (कम करना)  
+    Synonyms - alleviate, lessen, relieve  
+    Antonyms - aggravate, intensify, worsen  
+
+958. Momentous - (महत्वपूर्ण)  
+    Synonyms - significant, critical, crucial  
+    Antonyms - trivial, inconsequential, minor  
+
+959. Morose - (उदास)  
+    Synonyms - gloomy, sullen, sulky  
+    Antonyms - cheerful, happy, lighthearted  
+
+960. Mournful - (दुख भरा)  
+    Synonyms - sorrowful, lamenting, plaintive  
+    Antonyms - joyful, cheerful, uplifting  
+
+961. Mundane - (साधारण)  
+    Synonyms - ordinary, earthly, worldly  
+    Antonyms - extraordinary, special, unique  
+
+962. Myopic - (अंध दृष्टि)  
+    Synonyms - shortsighted, narrow-minded, limited  
+    Antonyms - broad-minded, foresighted, expansive  
+
+963. Myriad - (अनगिनत)  
+    Synonyms - countless, innumerable, numerous  
+    Antonyms - few, limited, finite  
+
+964. Nab - (पकड़ लेना)  
+    Synonyms - seize, catch, grab  
+    Antonyms - release, liberate, free  
+
+965. Native - (मूल निवासी)  
+    Synonyms - indigenous, original, innate  
+    Antonyms - foreign, alien, nonnative  
+
+966. Naughty - (शरारती)  
+    Synonyms - mischievous, impish, playful  
+    Antonyms - well-behaved, obedient, proper  
+
+967. Neglect - (अनदेखी करना)  
+    Synonyms - disregard, overlook, ignore  
+    Antonyms - attend, regard, honor  
+
+968. Negligent - (लापरवाह)  
+    Synonyms - careless, inattentive, remiss  
+    Antonyms - careful, vigilant, attentive  
+
+969. Negligible - (न के बराबर)  
+    Synonyms - insignificant, trivial, minor  
+    Antonyms - substantial, significant, major  
+
+970. Nervous - (घबराया हुआ)  
+    Synonyms - anxious, jittery, uneasy  
+    Antonyms - calm, relaxed, composed  
+
+971. Nominal - (नाममात्र)  
+    Synonyms - formal, stated, titular  
+    Antonyms - substantial, significant, actual  
+972. Nurture - (पालन-पोषण करना)  
+    Synonyms - cultivate, foster, nourish  
+    Antonyms - neglect, ignore, deprive  
+
+973. Nasty - (गंदा)  
+    Synonyms - filthy, repulsive, vile  
+    Antonyms - delightful, pleasant, wonderful  
+
+974. Notable - (उल्लेखनीय)  
+    Synonyms - distinguished, remarkable, prominent  
+    Antonyms - insignificant, unremarkable, ordinary  
+
+975. Noteworthy - (संदर्भ देने योग्य)  
+    Synonyms - exceptional, outstanding, significant  
+    Antonyms - trivial, mundane, ordinary  
+
+976. Notorious - (बदनाम)  
+    Synonyms - infamous, scandalous, disreputable  
+    Antonyms - unknown, obscure, unremarkable  
+
+977. Novice - (नवसीखिया)  
+    Synonyms - beginner, learner, amateur  
+    Antonyms - expert, veteran, professional  
+
+978. Nullify - (रद करना)  
+    Synonyms - abolish, negate, cancel  
+    Antonyms - affirm, validate, ratify  
+
+979. Obedient - (आज्ञाकारी)  
+    Synonyms - compliant, submissive, docile  
+    Antonyms - disobedient, rebellious, insolent  
+
+980. Obese - (मोटा)  
+    Synonyms - overweight, corpulent, portly  
+    Antonyms - thin, emaciated, slender  
+
+981. Objective - (उद्देश्य)  
+    Synonyms - impartial, unbiased, factual  
+    Antonyms - subjective, biased, partial  
+
+982. Obsolete - (पुराना)  
+    Synonyms - outdated, archaic, outmoded  
+    Antonyms - current, modern, up-to-date  
+
+983. Obstacle - (अवरोध)  
+    Synonyms - hindrance, barrier, impediment  
+    Antonyms - aid, support, assistance  
+
+984. Obvious - (स्पष्ट)  
+    Synonyms - clear, evident, apparent  
+    Antonyms - ambiguous, obscure, unclear  
+
+985. Offensive - (आघातक)  
+    Synonyms - disgusting, repugnant, foul  
+    Antonyms - pleasant, agreeable, pleasing  
+
+986. Omit - (हटाना)  
+    Synonyms - exclude, neglect, leave out  
+    Antonyms - include, incorporate, add  
+
+987. Opaque - (अपारदर्शी)  
+    Synonyms - cloudy, blurred, hazy  
+    Antonyms - transparent, clear, lucid  
+
+988. Opulent - (धनी)  
+    Synonyms - lavish, luxurious, rich  
+    Antonyms - poor, destitute, impoverished  
+
+989. Ordeal - (कठिन परीक्षा)  
+    Synonyms - trial, hardship, suffering  
+    Antonyms - relief, comfort, ease  
+
+990. Original - (असली)  
+    Synonyms - authentic, unique, innovative  
+    Antonyms - derivative, copied, conventional  
+
+991. Orthodox - (परंपरागत)  
+    Synonyms - traditional, conventional, established  
+    Antonyms - unorthodox, radical, progressive  
+
+992. Oscillate - (झूलना)  
+    Synonyms - sway, fluctuate, swing  
+    Antonyms - stabilize, remain, steady  
+
+993. Oust - (बेदखल करना)  
+    Synonyms - remove, expel, dismiss  
+    Antonyms - retain, keep, install  
+
+994. Outstanding - (उल्लेखनीय)  
+    Synonyms - exceptional, remarkable, prominent  
+    Antonyms - average, ordinary, inferior  
+
+995. Obdurate - (जिद्दी)  
+    Synonyms - stubborn, unyielding, inflexible  
+    Antonyms - compliant, yielding, amenable  
+
+996. Obligatory - (अनिवार्य)  
+    Synonyms - mandatory, required, compulsory  
+    Antonyms - optional, voluntary, discretionary  
+
+997. Obliged - (आभारी)  
+    Synonyms - indebted, thankful, bound  
+    Antonyms - ungrateful, indifferent, critical  
+
+998. Obscene - (अश्लील)  
+    Synonyms - vulgar, lewd, indecent  
+    Antonyms - decent, moral, upright  
+
+999. Observant - (सावधान)  
+    Synonyms - attentive, watchful, vigilant  
+    Antonyms - inattentive, oblivious, careless  
+
+1000. Obstinate - (जिद्दी)  
+    Synonyms - stubborn, unyielding, headstrong  
+    Antonyms - flexible, compliant, amenable  
+
+1001. Obstruct - (रोकना)  
+    Synonyms - impede, hinder, obstruct  
+    Antonyms - assist, facilitate, help  
+
+1002. Oddity - (विचित्रता)  
+    Synonyms - anomaly, peculiarity, eccentricity  
+    Antonyms - normality, conformity, regularity  
+
+1003. Offbeat - (अपरंपरागत)  
+    Synonyms - unconventional, quirky, unusual  
+    Antonyms - typical, standard, conventional  
+
+1004. Oﬃcious - (अकारण हस्तक्षेप करने वाला)  
+    Synonyms - intrusive, meddlesome, interfering  
+    Antonyms - reserved, modest, shy  
+
+1005. Ominous - (अशुभ)  
+    Synonyms - threatening, menacing, foreboding  
+    Antonyms - promising, reassuring, auspicious  
+1006. Oppressive - (अत्याचारी)  
+    Synonyms - burdensome, arduous, taxing  
+    Antonyms - gentle, easy, light  
+
+1007. Ostentatious - (दिखावटी)  
+    Synonyms - flamboyant, showy, extravagant  
+    Antonyms - modest, plain, simple  
+
+1008. Ostracize - (बहिष्कृत करना)  
+    Synonyms - banish, exclude, exile  
+    Antonyms - accept, embrace, welcome  
+
+1009. Outdo - (अधिक होना)  
+    Synonyms - surpass, excel, outmatch  
+    Antonyms - fail, lose, fall behind  
+
+1010. Outrageous - (अपमानजनक)  
+    Synonyms - shocking, preposterous, heinous  
+    Antonyms - reasonable, sensible, magnificent  
+
+1011. Outwit - (चकमा देना)  
+    Synonyms - outsmart, outmaneuver, hoodwink  
+    Antonyms - fail, lose, give in  
+
+1012. Overlook - (अनदेखा करना)  
+    Synonyms - ignore, neglect, supervise  
+    Antonyms - heed, follow, pay attention  
+
+1013. Oversight - (चूक)  
+    Synonyms - blunder, lapse, error  
+    Antonyms - attention, vigilance, care  
+
+1014. Palliate - (हटाना)  
+    Synonyms - alleviate, assuage, mitigate  
+    Antonyms - exacerbate, worsen, intensify  
+
+1015. Palpable - (स्पष्ट करने योग्य)  
+    Synonyms - tangible, evident, noticeable  
+    Antonyms - subtle, elusive, indistinct  
+
+1016. Pandemonium - (कोलाहल)  
+    Synonyms - chaos, uproar, tumult  
+    Antonyms - calm, peace, tranquility  
+
+1017. Pariah - (अछूत)  
+    Synonyms - outcast, exile, derelict  
+    Antonyms - insider, accepted, welcomed  
+
+1018. Parity - (समानता)  
+    Synonyms - equality, equivalence, sameness  
+    Antonyms - inequality, disparity, difference  
+
+1019. Parsimonious - (कंजूस)  
+    Synonyms - stingy, miserly, frugal  
+    Antonyms - generous, lavish, liberal  
+
+1020. Partake - (भाग लेना)  
+    Synonyms - participate, engage, contribute  
+    Antonyms - abstain, avoid, refrain  
+
+1021. Pedantic - (किताबी)  
+    Synonyms - scholarly, academic, nitpicky  
+    Antonyms - informal, uneducated, simple  
+
+1022. Peeve - (परेशान करना)  
+    Synonyms - irritate, annoy, bother  
+    Antonyms - soothe, comfort, calm  
+
+1023. Perpetuate - (बनाए रखना)  
+    Synonyms - sustain, maintain, prolong  
+    Antonyms - cease, stop, end  
+
+1024. Pervade - (फैलाना)  
+    Synonyms - permeate, saturate, infuse  
+    Antonyms - drain, remove, deplete  
+
+1025. Petite - (छोटे कद-काठी का)  
+    Synonyms - small, diminutive, tiny  
+    Antonyms - large, huge, tall  
+
+1026. Phlegmatic - (सुस्त)  
+    Synonyms - apathetic, indifferent, calm  
+    Antonyms - energetic, passionate, animated  
+
+1027. Piquant - (तीखा)  
+    Synonyms - spicy, zesty, tangy  
+    Antonyms - bland, dull, insipid  
+
+1028. Ponderous - (भारी-भरकम)  
+    Synonyms - heavy, weighty, cumbersome  
+    Antonyms - light, airy, nimble  
+
+1029. Pragmatic - (व्यवहारिक)  
+    Synonyms - realistic, practical, sensible  
+    Antonyms - idealistic, impractical, fanciful  
+
+1030. Prate - (बकबक करना)  
+    Synonyms - chatter, babble, talk  
+    Antonyms - be silent, listen, think  
+
+1031. Predicament - (कठिन परिस्थिति)  
+    Synonyms - dilemma, plight, difficulty  
+    Antonyms - solution, ease, comfort  
+
+1032. Preempt - (रोकना)  
+    Synonyms - forestall, prevent, usurp  
+    Antonyms - allow, permit, give  
+
+1033. Preposterous - (बेतुका)  
+    Synonyms - absurd, ridiculous, ludicrous  
+    Antonyms - reasonable, sensible, logical  
+
+1034. Presumptuous - (ढीठ)  
+    Synonyms - brazen, audacious, impertinent  
+    Antonyms - modest, humble, meek  
+
+1035. Primeval - (प्राचीन)  
+    Synonyms - ancient, primordial, primitive  
+    Antonyms - modern, contemporary, new  
+
+1036. Pristine - (निर्मल)  
+    Synonyms - unspoiled, immaculate, pure  
+    Antonyms - dirty, tainted, contaminated  
+
+1037. Procrastinate - (टालना)  
+    Synonyms - delay, postpone, stall  
+    Antonyms - expedite, hasten, advance  
+
+1038. Prod - (उकसाना)  
+    Synonyms - incite, spur, stimulate  
+    Antonyms - deter, dissuade, suppress  
+
+1039. Profane - (अपशब्द)  
+    Synonyms - blasphemous, obscene, irreverent  
+    Antonyms - sacred, pious, holy  
+
+1040. Profligate - (चंरचुर)  
+    Synonyms - extravagant, wasteful, reckless  
+    Antonyms - frugal, prudent, careful  
+1041. Profligate - (चंरचुर)  
+    Synonyms - dissipated, dissolute, extravagant  
+    Antonyms - chaste, moral, innocent  
+
+1042. Promulgate - (प्रचार करना)  
+    Synonyms - announce, proclaim, disseminate  
+    Antonyms - conceal, hide, hinder  
+
+1043. Propitious - (अनुकूल, शुभ)  
+    Synonyms - advantageous, auspicious, favorable  
+    Antonyms - inauspicious, unfavorable, unpromising  
+
+1044. Puerile - (बचकाना)  
+    Synonyms - childish, immature, juvenile  
+    Antonyms - mature, adult, sophisticated  
+
+1045. Painstaking - (बहुत मेहनती)  
+    Synonyms - meticulous, diligent, scrupulous  
+    Antonyms - careless, thoughtless, negligent  
+
+1046. Paltry - (नगण्य)  
+    Synonyms - trivial, insignificant, meager  
+    Antonyms - significant, substantial, ample  
+
+1047. Parody - (नकल करना)  
+    Synonyms - imitation, satire, spoof  
+    Antonyms - original, seriousness, sincerity  
+
+1048. Passionate - (आवेशपूर्ण)  
+    Synonyms - fervent, zealous, ardent  
+    Antonyms - indifferent, apathetic, dispassionate  
+
+1049. Paucity - (अभाव)  
+    Synonyms - scarcity, lack, deficiency  
+    Antonyms - abundance, plenty, surplus  
+
+1050. Pauper - (भिखारी)  
+    Synonyms - beggar, indigent, destitute  
+    Antonyms - wealthy, affluent, rich  
+
+1051. Pensive - (विचारमग्न)  
+    Synonyms - contemplative, reflective, thoughtful  
+    Antonyms - heedless, inattentive, unconcerned  
+
+1052. Perceptible - (स्पष्ट)  
+    Synonyms - discernible, noticeable, evident  
+    Antonyms - imperceptible, obscure, vague  
+
+1053. Perennial - (सदाबहार)  
+    Synonyms - eternal, enduring, everlasting  
+    Antonyms - fleeting, temporary, transitory  
+
+1054. Perpetual - (लगातार)  
+    Synonyms - ceaseless, constant, unending  
+    Antonyms - intermittent, occasional, temporary  
+
+1055. Perplexed - (उलझा हुआ)  
+    Synonyms - confused, baffled, bewildered  
+    Antonyms - clear, certain, unconfused  
+
+1056. Persist - (डटे रहना)  
+    Synonyms - persevere, continue, endure  
+    Antonyms - cease, quit, surrender  
+
+1057. Pertinent - (उचित)  
+    Synonyms - relevant, applicable, material  
+    Antonyms - irrelevant, unsuitable, extraneous  
+
+1058. Perturb - (बेचैन करना)  
+    Synonyms - disturb, agitate, unsettle  
+    Antonyms - calm, pacify, soothe  
+
+1059. Philanthropic - (परोपकारी)  
+    Synonyms - charitable, altruistic, benevolent  
+    Antonyms - misanthropic, selfish, stingy  
+
+1060. Pilfer - (चुराना)  
+    Synonyms - steal, thieve, purloin  
+    Antonyms - donate, give, contribute  
+
+1061. Pithy - (संक्षिप्त)  
+    Synonyms - concise, succinct, brief  
+    Antonyms - verbose, lengthy, wordy  
+
+1062. Placate - (संतुष्ट करना)  
+    Synonyms - appease, pacify, calm  
+    Antonyms - agitate, irritate, upset  
+
+1063. Placid - (शांत)  
+    Synonyms - calm, serene, tranquil  
+    Antonyms - agitated, disturbed, tumultuous  
+
+1064. Plausible - (विश्वसनीय लगने वाला)  
+    Synonyms - credible, believable, reasonable  
+    Antonyms - implausible, unbelievable, unlikely  
+
+1065. Plethora - (अधिकता)  
+    Synonyms - excess, abundance, surplus  
+    Antonyms - scarcity, lack, deficiency  
+
+1066. Poignant - (मर्मस्पर्शी)  
+    Synonyms - touching, emotional, moving  
+    Antonyms - bland, insipid, unfeeling  
+
+1067. Precarious - (संशयजनक)  
+    Synonyms - unstable, insecure, risky  
+    Antonyms - secure, stable, safe  
+
+1068. Pretentious - (कपटी)  
+    Synonyms - ostentatious, showy, pompous  
+    Antonyms - modest, simple, unpretentious  
+
+1069. Primordial - (प्राचीन)  
+    Synonyms - ancient, original, fundamental  
+    Antonyms - modern, recent, contemporary  
+
+1070. Procure - (हासिल करना)  
+    Synonyms - obtain, acquire, secure  
+    Antonyms - lose, forfeit, relinquish  
+
+1071. Prodigy - (चमत्कारी)  
+    Synonyms - miracle, phenomenon, wonder  
+    Antonyms - ordinary person, simpleton, fool  
+
+1072. Profound - (गहन)  
+    Synonyms - deep, intense, thoughtful  
+    Antonyms - superficial, shallow, trivial  
+
+1073. Proliferate - (बढ़ना)  
+    Synonyms - multiply, escalate, increase  
+    Antonyms - decrease, diminish, decline  
+
+1074. Provincial - (स्थानीय)  
+    Synonyms - local, regional, rural  
+    Antonyms - cosmopolitan, metropolitan, urban  
+
+1075. Pacify - (शांत करना)  
+    Synonyms - appease, calm, soothe  
+    Antonyms - irritate, provoke, agitate  
+1075. Palatial - (आलीशान)  
+    Synonyms - lavish, opulent, luxurious  
+    Antonyms - cramped, modest, tiny  
+
+1076. Pardonable - (क्षम्य)  
+    Synonyms - excusable, forgivable, justifiable  
+    Antonyms - unpardonable, inexcusable  
+
+1077. Partisan - (पक्षपाती)  
+    Synonyms - biased, prejudiced, one-sided  
+    Antonyms - impartial, unbiased, fair  
+
+1078. Pathetic - (दयनीय)  
+    Synonyms - pitiable, lamentable, distressing  
+    Antonyms - cheerful, delightful, worthwhile  
+
+1079. Peerless - (अतुलनीय)  
+    Synonyms - unmatched, incomparable, singular  
+    Antonyms - inferior, mediocre, subordinate  
+
+1080. Pessimist - (निराशावादी)  
+    Synonyms - cynic, defeatist, doomsayer  
+    Antonyms - optimist, dreamer, hoper  
+
+1081. Pinnacle - (शिखर)  
+    Synonyms - peak, summit, acme  
+    Antonyms - base, bottom, nadir  
+
+1082. Potent - (ताकतवर)  
+    Synonyms - powerful, strong, commanding  
+    Antonyms - fragile, weak, ineffective  
+
+1083. Precise - (सटीक)  
+    Synonyms - accurate, specific, exact  
+    Antonyms - ambiguous, vague, inexact  
+
+1084. Prescribe - (नुस्खा लिखना)  
+    Synonyms - dictate, order, impose  
+    Antonyms - dismiss, reject, ban  
+
+1085. Preserve - (सुरक्षित रखना)  
+    Synonyms - conserve, maintain, protect  
+    Antonyms - destroy, damage, ruin  
+
+1086. Prime - (प्रमुख)  
+    Synonyms - superior, paramount, foremost  
+    Antonyms - inferior, secondary, unimportant  
+
+1087. Prodigal - (फिजूलखर्ची)  
+    Synonyms - extravagant, wasteful, spendthrift  
+    Antonyms - thrifty, frugal, prudent  
+
+1088. Proficient - (अनुभवी)  
+    Synonyms - skilled, adept, expert  
+    Antonyms - incompetent, clumsy, unskilled  
+
+1089. Profuse - (अति प्रचुर)  
+    Synonyms - lavish, abundant, overflowing  
+    Antonyms - sparse, lacking, meager  
+
+1090. Prohibit - (निषेध करना)  
+    Synonyms - forbid, ban, restrict  
+    Antonyms - allow, permit, enable  
+
+1091. Prolific - (उपजाऊ)  
+    Synonyms - fertile, fruitful, productive  
+    Antonyms - barren, unproductive, sterile  
+
+1092. Prolong - (लंबा करना)  
+    Synonyms - extend, lengthen, stretch  
+    Antonyms - shorten, abbreviate, curtail  
+
+1093. Prominent - (प्रतिष्ठित)  
+    Synonyms - outstanding, notable, remarkable  
+    Antonyms - inconspicuous, unremarkable, minor  
+
+1094. Prompt - (तत्काल)  
+    Synonyms - immediate, quick, swift  
+    Antonyms - delay, hinder, postpone  
+
+1095. Propagate - (प्रसार करना)  
+    Synonyms - spread, disseminate, breed  
+    Antonyms - conceal, suppress, destroy  
+
+1096. Proscribe - (निषिद्ध करना)  
+    Synonyms - ban, forbid, prohibit  
+    Antonyms - allow, permit, endorse  
+
+1097. Prosperous - (समृद्ध)  
+    Synonyms - thriving, flourishing, booming  
+    Antonyms - impoverished, struggling, failing  
+
+1098. Provisional - (अस्थायी)  
+    Synonyms - temporary, interim, conditional  
+    Antonyms - permanent, definite, certain  
+
+1099. Provoke - (उत्तेजित करना)  
+    Synonyms - incite, irritate, enrage  
+    Antonyms - calm, appease, soothe  
+
+1100. Proximate - (नजदीकी)  
+    Synonyms - nearby, adjacent, close  
+    Antonyms - distant, remote, far  
+
+1101. Prudent - (चतुर)  
+    Synonyms - wise, sensible, cautious  
+    Antonyms - imprudent, reckless, foolish  
+
+1102. Pungent - (कटु)  
+    Synonyms - sharp, acrid, biting  
+    Antonyms - bland, mild, sweet  
+
+1103. Pushy - (अति महात्वाकांक्षी)  
+    Synonyms - aggressive, assertive, intrusive  
+    Antonyms - unassuming, modest, shy  
+
+1104. Puzzling - (गंभीर)  
+    Synonyms - enigmatic, mysterious, perplexing  
+    Antonyms - clear, comprehensible, straightforward  
+
+1105. Questionable - (संदिग्ध)  
+    Synonyms - dubious, uncertain, ambiguous  
+    Antonyms - certain, definite, clear  
+
+1106. Quixotic - (विलक्षण)  
+    Synonyms - idealistic, unrealistic, fanciful  
+    Antonyms - practical, realistic, sensible  
+
+1107. Quack - (फरेबी)  
+    Synonyms - fraud, impostor, charlatan  
+    Antonyms - genuine, legitimate, honest  
+
+1108. Queer - (अजीब)  
+    Synonyms - strange, odd, peculiar  
+    Antonyms - normal, common, usual  
